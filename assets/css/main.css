@@ -1282,10 +1282,6 @@
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
 
-			.subpage #header-wrapper {
-				height: 155px;
-			}
-
 			#content-wrapper {
 				background: #f7f7f7 url("images/bg04.png");
 				border-top: solid 1px #fff;
@@ -1541,10 +1537,6 @@
 				padding: 5px;
 			}
 
-			.subpage #content-wrapper {
-				padding-top: 44px;
-			}
-
 			#footer-wrapper {
 				padding: 40px 15px 15px 15px;
 				text-shadow: 1px 1px 1px white;
@@ -1573,6 +1565,10 @@
 					font-weight: 200;
 					line-height: 1.25em;
 					margin: 0 0 1em 0;
+				}
+
+				#banner img {
+					width: 80%;
 				}
 
 		/* Content */

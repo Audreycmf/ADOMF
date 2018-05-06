@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
-	<body class="subpage">
+	<body>
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -41,6 +41,7 @@
                          13616 Aix en Provence cedex 1<br />
                       </p>
                       <h3><a href="statuts.php">Lire les statuts</a></h3>
+                      <p></p>
                       <h3>Informations hébergeur</h3>
                       <p>
                         Ce site est hébergé par : phpnet.org

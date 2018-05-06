@@ -34,7 +34,7 @@
         <div class="6u 12u(mobile)">
 
           <!-- Banner Image -->
-            <a href="index.html"><img src="images/logo_blanc_rouge.png" alt="" /></a>
+            <a href="index.php"><img src="images/logo_blanc_rouge.png" alt="" /></a>
 
         </div>
       </div>
