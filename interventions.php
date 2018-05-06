@@ -30,16 +30,16 @@
 											<p>
 												Les différents interventions pratiquées par un chirurgien maxillo-facial sont les suivantes :
 												<ul class="check-list">
-													<li><a href="orthognatique.php">La chirurgie orthognatique</a></li>
-													<li><a href="implantologie.php">L'implantologie</a></li>
-													<li><a href="cutanee.php">La chirurgie cutanée</a></li>
-													<li><a href="orbito_palpebral.php">La chirurgie orbito-palpébrale</a></li>
-													<li><a href="stomatologie.php">La stomatologie</a></li>
-													<li><a href="esthetique.php">La chirurgie esthétique</a></li>
-													<li><a href="preimplantaire.php">La chirurgie pré-implantaire</a></li>
-													<li><a href="glandes_salivaires.php">La chirurgie des glandes salivaires</a></li>
-													<li><a href="saos.php">La prise en charge du syndrome d'apnées du sommeil</a></li>
-													<li><a href="humanitaire.php">La chirurgie lors de missions humanitaires</a></li>
+													<li class="lien_gris"><a href="orthognatique.php">La chirurgie orthognatique</a></li>
+													<li class="lien_gris"><a href="implantologie.php">L'implantologie</a></li>
+													<li class="lien_gris"><a href="cutanee.php">La chirurgie cutanée</a></li>
+													<li class="lien_gris"><a href="orbito_palpebral.php">La chirurgie orbito-palpébrale</a></li>
+													<li class="lien_gris"><a href="stomatologie.php">La stomatologie</a></li>
+													<li class="lien_gris"><a href="esthetique.php">La chirurgie esthétique</a></li>
+													<li class="lien_gris"><a href="preimplantaire.php">La chirurgie pré-implantaire</a></li>
+													<li class="lien_gris"><a href="glandes_salivaires.php">La chirurgie des glandes salivaires</a></li>
+													<li class="lien_gris"><a href="saos.php">La prise en charge du syndrome d'apnées du sommeil</a></li>
+													<li class="lien_gris"><a href="humanitaire.php">La chirurgie lors de missions humanitaires</a></li>
 												</ul>
 											</p>
 										</section>

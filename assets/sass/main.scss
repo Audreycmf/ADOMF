@@ -235,6 +235,22 @@
 			}
 	}
 
+	#content {
+		.portrait {
+			img {
+		display: block;
+		background: #fff url("images/bg04.png");
+		padding: 10px;
+		box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
+		margin: 0 1.5em 1.5em 0;
+		outline: 0;
+		width: 7em;
+		height: 7em;
+		float: left;
+			}
+		}
+	}
+
 /* Footer */
 
 	#footer {
@@ -686,6 +702,16 @@
 					margin: 0 0 1.25em 0;
 				}
 			}
+
+			#content {
+				.portrait {
+					img {
+						width: 5em;
+						height: 5em;
+					}
+				}
+			}
+
 
 		/* Footer */
 

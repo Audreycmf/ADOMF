@@ -1242,22 +1242,6 @@
 		margin-left: 2.3em;
 	}
 
-	#content .lien_gris a {
-		color: #546b76;
-	}
-
-	#content .portrait img {
-		display: block;
-		background: #fff url("images/bg04.png");
-		padding: 10px;
-		box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
-		margin: 0 1.5em 1.5em 0;
-		outline: 0;
-		width: 7em;
-		height: 7em;
-		float: left;
-	}
-
 /* Footer */
 
 	#footer .quote-list li {
@@ -1295,6 +1279,13 @@
 				background: #3B4346 url("images/bg01.jpg");
 				border-bottom: solid 1px #272d30;
 				box-shadow: inset 0px -1px 0px 0px #51575a;
+				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+			}
+
+			#features-wrapper {
+				background: #353D40 url("images/bg02.jpg");
+				border-bottom: solid 1px #272e31;
+				padding: 45px 0 45px 0;
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
 
@@ -1367,6 +1358,26 @@
 					padding-right: 1em;
 					margin: 0 0 1em 0;
 				}
+
+				/* Features */
+
+					#features {
+						color: #a0a8ab;
+					}
+
+						#features h2 {
+							font-size: 1.25em;
+							color: #fff;
+							margin: 0 0 0.25em 0;
+						}
+
+						#features a {
+							color: #e0e8eb;
+						}
+
+						#features strong {
+							color: #fff;
+						}
 
 		/* Content */
 
@@ -1548,6 +1559,13 @@
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
 
+
+			#features-wrapper {
+				background: #353D40 url("images/bg02.jpg");
+				padding: 15px 15px 30px 15px;
+				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+			}
+
 			#content-wrapper {
 				background: #f7f7f7 url("images/bg04.png");
 				padding: 5px;
@@ -1587,6 +1605,40 @@
 					width: 80%;
 				}
 
+		/* Features */
+
+			#features {
+				color: #a0a8ab;
+			}
+
+				#features section {
+					padding: 0 0 25px 0;
+					margin: 0 0 25px 0;
+					border-bottom: solid 1px #51575a;
+					box-shadow: inset 0px -1px 0px 0px #272d30;
+				}
+
+				#features > div > div:last-child > section {
+					padding-bottom: 0;
+					margin-bottom: 0;
+					border-bottom: 0;
+					box-shadow: none;
+				}
+
+				#features h2 {
+					font-size: 1.25em;
+					color: #fff;
+					margin: 0 0 0.25em 0;
+				}
+
+				#features a {
+					color: #e0e8eb;
+				}
+
+				#features strong {
+					color: #fff;
+				}
+
 		/* Content */
 
 			#content section {
@@ -1613,11 +1665,6 @@
 
 			#content header {
 				margin: 0 0 1.25em 0;
-			}
-
-			#content .portrait img {
-				width: 5em;
-				height: 5em;
 			}
 
 		/* Footer */
