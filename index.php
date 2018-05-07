@@ -15,6 +15,25 @@
 			<!-- Header -->
 				<?php include("header.php") ?>
 
+				<!-- Features -->
+					<div id="features-wrapper">
+						<div id="features">
+							<div class="container">
+								<div class="row">
+									<div class="12u">
+
+										<!-- Feature #1 -->
+											<section>
+												<a href="#" class="bordered-feature-image"><img src="images/pic01.jpg" alt="" /></a>
+												<h2>Les chirurgiens à votre écoute</h2>
+											</section>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
 			<!-- Content -->
 				<div id="content-wrapper">
 					<div id="content">
@@ -24,9 +43,6 @@
 
 									<!-- Box -->
 										<section>
-											<header>
-												<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="photo des chirurgiens de l'équipe" /></a>
-											</header>
 											<h2>Qu'est-ce que l'A.D.O.M.F. ?</h2>
 											<p>
 												Ce site propose une information détaillée sur l’ensemble de nos spécialités, des différentes pathologies et prises en charge qu’elles offrent.
