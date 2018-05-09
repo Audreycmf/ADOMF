@@ -276,6 +276,12 @@
 		}
 	}
 
+	#footer {
+		h2 {
+		margin-bottom: 1em;
+		}
+	}
+
 /* Desktop */
 
 	@include breakpoint(desktop) {
@@ -299,6 +305,24 @@
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
 
+			#header-wrapper {
+				#header {
+					@include vendor('backface-visibility', 'hidden');
+					@include vendor('transition', 'transform #{_duration(navPanel)} ease');
+					display: block;
+					height: 44px;
+					left: 0;
+					position: fixed;
+					top: 0;
+					width: 100%;
+					z-index: _misc(z-index-base) + 1;
+					color: #fff;
+					background: url('images/bg04.jpg');
+					box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
+					text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+				}
+			}
+
 			#features-wrapper {
 				background: #353D40 url('images/bg02.jpg');
 				border-bottom: solid 1px #272e31;
@@ -313,7 +337,7 @@
 			}
 
 			#footer-wrapper {
-				padding: 45px 0 45px 0;
+				padding: 30px 0 25px 0;
 				text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
 			}
 
@@ -325,7 +349,7 @@
 
 				h1 {
 					position: absolute;
-					left: 0;
+					left: 322px;
 					bottom: 35px;
 					font-size: 2.75em;
 
@@ -337,7 +361,7 @@
 
 				nav {
 					position: absolute;
-					right: 0;
+					right: 323px;
 					bottom: 35px;
 					font-weight: 200;
 
@@ -372,9 +396,21 @@
 					font-weight: 200;
 					line-height: 1.25em;
 					padding-right: 1em;
-					margin: 0 0 1em 0;
+					margin: 0 0 0.7em 0;
+				}
+
+				.desktop_uniquement {
+					font-weight: 300;
 				}
 			}
+
+			.mobile_uniquement{
+				visibility: hidden;
+			}
+
+			.desktop_uniquement {
+					color: #ed391b;
+				}
 
 		/* Features */
 
@@ -631,12 +667,20 @@
 					font-size: 1.25em;
 					font-weight: 200;
 					line-height: 1.25em;
-					margin: 0 0 1em 0;
+					margin: 0 0 0.7em 0;
 				}
 
 				img {
 					width: 80%;
 				}
+
+				h1 {
+					font-size: 1.75em;
+				}
+			}
+
+			.desktop_uniquement {
+				visibility: hidden;
 			}
 
 		/* Features */

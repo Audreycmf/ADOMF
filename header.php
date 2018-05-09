@@ -28,13 +28,15 @@
               et <span class="maj">M</span>axillo-<span class="maj">F</span>aciales</h1>
             <p>Avenue des Tamaris <br />
               13616 Aix-en-Provence</p>
-            <a href="tel:+33442335097" class="link-list">04 42 33 50 97</a>
+            <a href="tel: +33442335097" class="mobile_uniquement" class="link-list">04 42 33 50 97</a>
+            <p class="desktop_uniquement" class="link-list">04 42 33 50 97</p>
+
 
         </div>
         <div class="6u 12u(mobile)">
 
           <!-- Banner Image -->
-            <a href="index.php"><img src="images/logo_blanc_rouge.png" alt="" /></a>
+            <a href="index.php"><img src="images/logo_blanc_rouge.png" alt="Logo de l'association" /></a>
 
         </div>
       </div>

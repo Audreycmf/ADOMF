@@ -1090,6 +1090,8 @@
 			text-decoration: none;
 		}
 
+		/* Header */
+
 	#banner {
 		line-height: 1;
 	}
@@ -1120,7 +1122,6 @@
 
 	img #banner .\36 u, .\36 u\$ {
 		text-align: center;
-
 	}
 
 	section > :last-child,
@@ -1275,6 +1276,10 @@
 		border-bottom: solid 1px #b5bec3;
 	}
 
+	#footer h2 {
+		margin-bottom: 1em;
+	}
+
 /* Desktop */
 
 	@media screen and (min-width: 737px) {
@@ -1298,6 +1303,28 @@
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
 
+			#header-wrapper #header {
+				-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				display: block;
+				height: 44px;
+				left: 0;
+				position: fixed;
+				top: 0;
+				width: 100%;
+				z-index: 10001;
+				color: #fff;
+				background: url("images/bg04.jpg");
+				box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
+				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+			}
+
 			#features-wrapper {
 				background: #353D40 url("images/bg02.jpg");
 				border-bottom: solid 1px #272e31;
@@ -1312,7 +1339,7 @@
 			}
 
 			#footer-wrapper {
-				padding: 45px 0 45px 0;
+				padding: 30px 0 25px 0;
 				text-shadow: 1px 1px 1px white;
 			}
 
@@ -1325,7 +1352,7 @@
 
 				#header h1 {
 					position: absolute;
-					left: 0;
+					left: 17.4796747967%;
 					bottom: 35px;
 					font-size: 2.75em;
 				}
@@ -1337,7 +1364,7 @@
 
 				#header nav {
 					position: absolute;
-					right: 0;
+					right: 17.4796747967%;
 					bottom: 35px;
 					font-weight: 200;
 				}
@@ -1357,6 +1384,7 @@
 		/* Banner */
 
 			#banner {
+				margin-top: 155px;
 				border-top: solid 1px #222628;
 				box-shadow: inset 0px 1px 0px 0px #3e484a;
 				padding: 35px 0 35px 0;
@@ -1372,7 +1400,19 @@
 					font-weight: 200;
 					line-height: 1.25em;
 					padding-right: 1em;
-					margin: 0 0 1em 0;
+					margin: 0 0 0.7em 0;
+				}
+
+			.mobile_uniquement{
+					visibility: hidden;
+				}
+
+			.desktop_uniquement {
+					color: #ed391b;
+				}
+
+				#banner .desktop_uniquement {
+					font-weight: 300;
 				}
 
 				/* Features */
@@ -1613,11 +1653,19 @@
 					font-size: 1.25em;
 					font-weight: 200;
 					line-height: 1.25em;
-					margin: 0 0 1em 0;
+					margin: 0 0 0.7em 0;
 				}
 
 				#banner img {
 					width: 80%;
+				}
+
+				#banner h1 {
+					font-size: 1.75em;
+				}
+
+				.desktop_uniquement {
+					visibility: hidden;
 				}
 
 				/* Features */
