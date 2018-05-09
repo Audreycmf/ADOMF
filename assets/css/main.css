@@ -1354,6 +1354,7 @@
 			#header {
 				min-height: 155px;
 				position: relative;
+				min-width: 1200px;
 			}
 
 				#header h1 {
@@ -1361,7 +1362,6 @@
 					left: 17.4796747967%;
 					bottom: 35px;
 					font-size: 2.75em;
-
 				}
 
 					#header h1 a {
@@ -1372,9 +1372,9 @@
 				#header nav {
 					position: absolute;
 					right: 17.4796747967%;
+					margin-left: 60px;
 					bottom: 35px;
 					font-weight: 200;
-
 				}
 
 					#header nav a {
@@ -1412,7 +1412,7 @@
 				}
 
 			.mobile_uniquement{
-					visibility: hidden;
+					display: none;
 				}
 
 			.desktop_uniquement {
@@ -1673,7 +1673,11 @@
 				}
 
 				.desktop_uniquement {
-					visibility: hidden;
+					display: none;
+				}
+
+				#subpage #banner {
+					display: none;
 				}
 
 				/* Features */
@@ -1711,6 +1715,10 @@
 						}
 
 		/* Content */
+
+			#content {
+				margin-top: 20px;
+			}
 
 			#content section {
 				background: #fff;

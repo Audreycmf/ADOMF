@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>Les interventions</title>
-		<<?php include(head.php) ?>
+		<?php include("head.php") ?>
 	</head>
 	<body id="subpage">
 		<div id="page-wrapper">

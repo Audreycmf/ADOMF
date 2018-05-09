@@ -45,7 +45,11 @@
 												Vous trouverez les premiers éléments de réponse à vos questions afin de préparer une consultation. <br />
 												La consultation permet une compréhension plus complète de votre problème par l’échange avec votre praticien : lors de celle-ci,
 												après l’analyse de votre cas, le praticien vous détaillera les modalités de votre traitement, les résultats attendus (sans oublier les
-												complications potentielles) et enfin pourra répondre à vos interrogations. Blablabla
+												complications potentielles) et enfin pourra répondre à vos interrogations. <br />
+												Cette association a pour but le rassemblement des chirurgiens maxillo-faciaux, des orthodontistes et autres spécialistes de la sphère
+                        oro-faciale, sans but lucratif, à des fins de favoriser, développer et promouvoir la recherche, la formation et l'enseignement médical.
+                        Elle peut également animer, gérer et administrer d'autres structures telles que : congrès, enseignements post-universitaires, réunions
+                        scientifiques.
 											</p>
 
 											<h2>Qu'est-ce que la chirurgie maxillo-faciale ?</h2>

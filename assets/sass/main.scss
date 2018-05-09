@@ -251,6 +251,12 @@
 		}
 	}
 
+	#signature {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+	}
+
 /* Footer */
 
 	#footer {
@@ -405,7 +411,7 @@
 			}
 
 			.mobile_uniquement{
-				visibility: hidden;
+				display: none;
 			}
 
 			.desktop_uniquement {
@@ -680,7 +686,13 @@
 			}
 
 			.desktop_uniquement {
-				visibility: hidden;
+				display: none;
+			}
+
+			#subpage {
+				#banner {
+					display: none;
+				}
 			}
 
 		/* Features */
@@ -718,6 +730,10 @@
 			}
 
 		/* Content */
+
+			#content {
+				margin-top: 15px;
+			}
 
 			#content {
 				section {
