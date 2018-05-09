@@ -1259,6 +1259,12 @@
 		float: left;
 	}
 
+	#signature {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+	}
+
 /* Footer */
 
 	#footer .quote-list li {

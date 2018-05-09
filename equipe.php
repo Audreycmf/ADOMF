@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>L'équipe</title>
-		<<?php include(head.php) ?>
+		<?php include("head.php") ?>
 	</head>
 	<body id="subpage">
 		<div id="page-wrapper">

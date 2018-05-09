@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>ADOMF-Association des Disciplines Orthodontiques et Maxillo-Faciales</title>
-		<<?php include(head.php) ?>
+		<?php include("head.php") ?>
 	</head>
 	<body>
 		<div id="page-wrapper">
