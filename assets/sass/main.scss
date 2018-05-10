@@ -7,7 +7,7 @@
 
 	@include skel-breakpoints((
 		desktop: '(min-width: 737px)',
-		tablet: '(min-width: 737px) and (max-width: 1200px)',
+		tablet: '(min-width: 737px) and (max-width: 1260px)',
 		mobile: '(max-width: 736px)'
 	));
 
@@ -19,7 +19,7 @@
 		containers: true,
 		breakpoints: (
 			desktop: (
-				containers: 1200px,
+				containers: 1260px,
 				grid: (
 					gutters: (25px, 25px)
 				),
@@ -226,6 +226,7 @@
 		.check-list {
 			li {
 				border-bottom: solid 1px #e2e6e8;
+				font-size: 100%;
 			}
 		}
 
@@ -233,6 +234,13 @@
 			list-style-type: square;
 			margin-left: 2.3em;
 			}
+
+		.lien_gris {
+			a {
+				color: #546b76;
+			}
+
+		}
 	}
 
 	#content {
@@ -295,7 +303,7 @@
 		/* Basic */
 
 			body {
-				min-width: 1200px;
+				min-width: 1260px;
 			}
 
 			section:last-child {
@@ -352,10 +360,11 @@
 			#header {
 				min-height: 155px;
 				position: relative;
+				min-width: 1260px;
 
 				h1 {
 					position: absolute;
-					left: 322px;
+					left: 15.8536585366%;
 					bottom: 35px;
 					font-size: 2.75em;
 
@@ -367,7 +376,8 @@
 
 				nav {
 					position: absolute;
-					right: 323px;
+					right: 15.8536585366%;
+					margin-left: 60px;
 					bottom: 35px;
 					font-weight: 200;
 
@@ -388,6 +398,7 @@
 		/* Banner */
 
 			#banner {
+				margin-top: 155px;
 				border-top: solid 1px #222628;
 				box-shadow: inset 0px 1px 0px 0px #3e484a;
 				padding: 35px 0 35px 0;
@@ -491,7 +502,7 @@
 				border-top: solid 1px #b5bec3;
 				box-shadow: inset 0px 1px 0px 0px #e0e4e7;
 				text-align: center;
-				padding: 45px 0 80px 0;
+				padding: 30px 0 30px 0;
 				color: #8d9ca3;
 				text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
 
@@ -554,16 +565,26 @@
 				p {
 					font-size: 1.75em;
 				}
+
+				img {
+					width: 90%;
+					height: auto;
+				}
 			}
 
 		/* Header */
 
 			#header {
+				min-width: 737px;
+
 				h1 {
 					font-size: 2.25em;
+					left: 2.5%;
 				}
 
 				nav {
+					right: 2.5%;
+
 					a {
 						font-size: 1.1em;
 					}
@@ -732,7 +753,7 @@
 		/* Content */
 
 			#content {
-				margin-top: 15px;
+				margin-top: 20px;
 			}
 
 			#content {
