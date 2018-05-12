@@ -259,6 +259,22 @@
 		}
 	}
 
+	#content {
+		.portrait_sidebar {
+			img {
+		display: flex;
+		background: #fff url("images/bg04.png");
+		padding: 10px;
+		box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
+		margin: auto;
+		margin-bottom: 1.5em;
+		outline: 0;
+		width: 7em;
+		height: 7em;
+			}
+		}
+	}
+
 	#signature {
 		display: flex;
 		flex-direction: row;
@@ -710,7 +726,7 @@
 				display: none;
 			}
 
-			#subpage {
+			.subpage {
 				#banner {
 					display: none;
 				}

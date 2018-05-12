@@ -5,7 +5,7 @@
 		<title>Mentions légales</title>
 		<?php include("head.php") ?>
 	</head>
-	<body id="subpage">
+	<body class="subpage">
 		<div id="page-wrapper">
 
 			<!-- Header -->
