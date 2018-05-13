@@ -1285,6 +1285,10 @@
 		justify-content: space-around;
 	}
 
+	iframe {
+		margin-bottom: 2em;
+	}
+
 /* Footer */
 
 	#footer .quote-list li {
