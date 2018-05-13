@@ -15,8 +15,8 @@
                 </div>
                 <div class="6u 12u(mobile)">
                   <ul class="link-list last-child">
-                    <li class="desktop_uniquement">04 42 33 50 97</li>
                     <li class="mobile_uniquement"><a href="tel:+33442335097">04 42 33 50 97</a></li>
+                    <li class="desktop_uniquement">04 42 33 50 97</li>
                   </ul>
                 </div>
               </div>

@@ -1090,6 +1090,13 @@
 			text-decoration: none;
 		}
 
+	h4 {
+		font-style: italic;
+		font-size: 1.1em;
+		padding: 0.7em 0 0.7em 45px;
+		background: url("images/icon-checkmark.png") 0px 1.05em no-repeat;
+	}
+
 		/* Header */
 
 	#banner {
@@ -1118,10 +1125,6 @@
 
 	#banner .\36 u, .\36 u\$ {
 		margin: auto;
-	}
-
-	img #banner .\36 u, .\36 u\$ {
-		text-align: center;
 	}
 
 	section > :last-child,
@@ -1243,6 +1246,11 @@
 		margin-left: 2.3em;
 	}
 
+	#content .level2_list {
+		list-style-type: circle;
+		margin-left: 1.2em;
+	}
+
 	#content .lien_gris a {
 		color: #546b76;
 	}
@@ -1254,8 +1262,7 @@
 		box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		margin: 0 1.5em 1.5em 0;
 		outline: 0;
-		width: 7em;
-		height: 7em;
+		width: 15%;
 		float: left;
 	}
 
@@ -1423,7 +1430,6 @@
 					padding-right: 1em;
 					margin: 0 0 0.7em 0;
 				}
-
 
 				#banner .desktop_uniquement {
 					font-weight: 300;
@@ -1774,8 +1780,7 @@
 			}
 
 			#content .portrait img {
-				width: 5em;
-				height: 5em;
+				width: 30%;
 			}
 
 		/* Footer */
