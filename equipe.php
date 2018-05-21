@@ -58,7 +58,7 @@
 											<header>
 												<h2>L'orthodontiste</h2>
 											</header>
-                      <a href="" class="portrait_sidebar"><img src="images/pic01.jpg" alt="" /></a>
+                      <a href="" class="portrait_sidebar"><img src="images/photo_desouches.jpg" alt="" /></a>
                       <h3>Renaud Desouches</h3>
 											<p>
 												Chirurgien dentiste Spécialiste qualifié en ODF (orthodontie), Exercice privé à Aix-en-Provence.<br />

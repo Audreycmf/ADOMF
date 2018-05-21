@@ -1274,9 +1274,16 @@
 		margin: auto;
 		margin-bottom: 1.5em;
 		outline: 0;
-		width: 7em;
-		height: 7em;
+		width: 54%;
 		justify-content: center;
+	}
+
+	#content #imagerie_DDS {
+		margin-top: 132%;
+	}
+
+	#content #imagerie_RA {
+		margin-top: 5713px;
 	}
 
 	#signature {
@@ -1287,6 +1294,7 @@
 
 	iframe {
 		margin-bottom: 2em;
+		margin-top: 1em;
 	}
 
 /* Footer */
@@ -1781,10 +1789,6 @@
 
 			#content header {
 				margin: 0 0 1.25em 0;
-			}
-
-			#content .portrait img {
-				width: 30%;
 			}
 
 		/* Footer */

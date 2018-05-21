@@ -41,15 +41,15 @@
 										<section>
 											<h2>Qu'est-ce que l'A.D.O.M.F. ?</h2>
 											<p>
+												Cette association a pour but le rassemblement des chirurgiens maxillo-faciaux, des orthodontistes et autres spécialistes de la sphère
+												oro-faciale, sans but lucratif, à des fins de favoriser, développer et promouvoir la recherche, la formation et l'enseignement médical.
+												Elle peut également animer, gérer et administrer d'autres structures telles que : congrès, enseignements post-universitaires, réunions
+												scientifiques.<br />
 												Ce site propose une information détaillée sur l’ensemble de nos spécialités, des différentes pathologies et prises en charge qu’elles offrent.
 												Vous trouverez les premiers éléments de réponse à vos questions afin de préparer une consultation. <br />
 												La consultation permet une compréhension plus complète de votre problème par l’échange avec votre praticien : lors de celle-ci,
 												après l’analyse de votre cas, le praticien vous détaillera les modalités de votre traitement, les résultats attendus (sans oublier les
-												complications potentielles) et enfin pourra répondre à vos interrogations. <br />
-												Cette association a pour but le rassemblement des chirurgiens maxillo-faciaux, des orthodontistes et autres spécialistes de la sphère
-                        oro-faciale, sans but lucratif, à des fins de favoriser, développer et promouvoir la recherche, la formation et l'enseignement médical.
-                        Elle peut également animer, gérer et administrer d'autres structures telles que : congrès, enseignements post-universitaires, réunions
-                        scientifiques.
+												complications potentielles) et enfin pourra répondre à vos interrogations.
 											</p>
 
 											<h2>Qu'est-ce que la chirurgie maxillo-faciale ?</h2>
@@ -64,12 +64,12 @@
 												Aujourd'hui  les  chirurgiens maxillo-faciaux  français  sont  issus  d'une  très  longue  formation:  études  de  médecine,  Internat,
 												formation en Chirurgie Générale, puis spécialisation en Chirurgie Maxillo-Faciale, soit 13 ans d'études au minimum. <br />
 												Un chirurgien maxillo-facial est donc un spécialiste de la Chirurgie de la Face. Son diplôme, garant d'une compétence en chirurgie
-												plastique  de  la  face  est  reconnu  au  même  titre  que  celui  de  Chirurgie  Plastique  Reconstructrice  et  Esthétique  par  le
+												plastique  de  la  face  est  reconnu  au  même  titre  que  celui  de  Chirurgie  Plastique  Reconstructrice  et  Esthétique  par  la
 												Société Française de Chirurgie Plastique Reconstructrice et Esthétique et lui permet donc d'adhérer à cette Société.
 
 												<h3>Ses compétences officielles couvrent :</h3>
 													<ul class="check-list">
-														<li>La chirurgie plastique, la chirurgie reconstructrice et la chirurgie esthétique de la Face,</li>
+														<li>La chirurgie plastique, la chirurgie reconstructrice et la chirurgie esthétique de la face,</li>
 														<li>La  chirurgie orthognathique  (problèmes  d’occlusion dentaire  en  relation  avec  des  anomalies  de  taille  ou  de  rapport  des
 														maxillaires),</li>
 														<li>Le traitement des malformations de la face de l'enfant et de l'adulte,</li>
@@ -77,13 +77,14 @@
 														<li>La stomatologie (notamment : kystes, dents incluses, implants, chirurgie pré-prothétique,etc.),</li>
 														<li>La chirurgie des cancers de la bouche et de la face,</li>
 														<li>La chirurgie des glandes salivaires.</li>
+														<li>La chirurgie orbito-palpébrale.</li>
 													</ul>
 												<h3>Les chirurgiens maxillo-faciaux travaillent souvent en étroite collaboration :</h3>
 													<ul class="basic-list">
 														<li>Avec les orthodontistes (chirurgie orthognathique),</li>
 														<li>Avec les dentistes (extraction de dents de sagesse, kystes, greffe osseuse, mise en place d'implants),</li>
 														<li>Avec les dermatologues (notamment exérèse de lésions cutanées du visage),</li>
-														<li>Avec les ophtalmologues (chirurgie des paupières et de l'orbite),</li>
+														<li>Avec les ophtalmologues et les endocrinologues (chirurgie des paupières et de l'orbite),</li>
 														<li>Avec les neurochirurgiens (tumeurs ou grands traumatismes touchant à la fois le visage et le crâne).</li>
 													</ul>
 
@@ -91,12 +92,12 @@
 												non diplômés en Chirurgie Maxillo-Faciale profitent de l'ignorance du public pour réaliser des actes chirurgicaux pour lesquels ils n'ont
 												pas été correctement formés. </br>
 												Les  Chirurgiens  Maxillo-faciaux  ont  été  reçus  à  l'Internat  des  Spécialités  Chirurgicales.  Ils  ont  ensuite  reçu  une formation
-												de 2 années de Chirurgie Générale, puis 4 ans (souvent 5) de Chirurgie Maxillo-faciale et de Stomatologie. Titulaires d'un "Diplôme
+												de 2 années de Chirurgie Générale, puis 5 ans de Chirurgie Maxillo-faciale et de Stomatologie. Titulaires d'un "Diplôme
 												d'Etudes  Spécialisées  en  Chirurgie  Maxillo-Faciale  et  Stomatologie",  ils  harmonisent  la  chirurgie  osseuse,  et  la chirurgie
-												plastique et esthétique du visage, afin de prendre en charge dans sa globalité les différentes pathologies de la face; les cancers des
+												plastique et esthétique du visage, afin de prendre en charge dans sa globalité les différentes pathologies de la face : les cancers des
 												muqueuses  aérodigestives  supérieures,  les  tumeurs  cutanées  de  la  face,  les  traumatismes  de  la  face,  les  pathologies  des
 												glandes salivaires, les malformations faciales de l'enfant et de l'adulte, l'équilibration de la fonction manducatrice (mastication,
-												salivation, déglutition, etc.), la réhabilitation de la cavité buccale (éradication des foyers infectieux, exérèse de tumeurs, reconstruction
+												salivation, déglutition, etc.), les pathologies des paupières et de l'orbite (dans la maladie de Basedow par exemple), la réhabilitation de la cavité buccale (éradication des foyers infectieux, exérèse de tumeurs, reconstruction
 												et/ou adaptation d’une prothèse maxillo-faciale, etc.), et la stomatologie (kystes, dents de sagesse, chirurgie pré-implantaire, implantaire,
 												etc.). <br />
 												Enfin  sachez  que  la  chirurgie  esthétique  maxillo-faciale  est  clairement  inscrite  dans  la  maquette  de  formation  du  Chirurgien

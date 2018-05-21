@@ -25,9 +25,10 @@
                         <ul class="basic-list">
                           <li><a href="#DDS">L'avulsion des dents de sagesse.</a></li>
                           <li><a href="#REBD">Les extractions dentaires difficiles.</a></li>
-                          <li id="DDS"><a href="#RA">La résection apicale (kyste apico-dentaire).</a></li>
+                          <li><a href="#RA">La résection apicale (kyste apico-dentaire).</a></li>
                         </ul>
                       </p>
+											<span id="DDS"></span>
                     </section>
 
 										<section>
@@ -139,10 +140,11 @@
                           </li>
                           <li>Complication osseuse :
                             <ul class="level2_list">
-                              <li id="REBD">La fracture de la mâchoire inférieure reste exceptionnelle.</li>
+                              <li>La fracture de la mâchoire inférieure reste exceptionnelle.</li>
                             </ul>
                           </li>
 											</p>
+											<span id="REBD"></span>
 										</section>
 
                     <section>
@@ -246,11 +248,12 @@
                           </li>
                           <li>Complications nerveuses :
                             <ul class="level2_list">
-                              <li id="RA">Elles surviennent en cas de particularités anatomiques. Elles se manifestent par des troubles de la sensibilité (totale =
+                              <li>Elles surviennent en cas de particularités anatomiques. Elles se manifestent par des troubles de la sensibilité (totale =
                                 anesthésie ou partielle = hypoesthésie). Elles sont le plus souvent transitoires.</li>
                             </ul>
                           </li>
                       </p>
+											<span id="RA"></span>
                     </section>
 
                     <section>
@@ -342,7 +345,7 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
-										<section>
+										<section id="imagerie_DDS">
 											<header>
 												<h2>Avulsion de dents de sagesse</h2>
 											</header>
@@ -352,7 +355,7 @@
                       <iframe width=90% src="https://www.youtube.com/embed/idW6iHykkzk?rel=0" frameborder="0" allowfullscreen></iframe>
 										</section>
 
-                    <section>
+                    <section id="imagerie_RA">
 											<header>
 												<h2>Résection apicale</h2>
 											</header>
