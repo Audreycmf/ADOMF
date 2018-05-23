@@ -1225,7 +1225,7 @@
 /* Content */
 
 	#content {
-		font-size: 110%;
+		font-size: 115%;
 	}
 
 	#content .quote-list li {
@@ -1262,7 +1262,7 @@
 		box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		margin: 0 1.5em 1.5em 0;
 		outline: 0;
-		width: 15%;
+		width: 7em;
 		float: left;
 	}
 
@@ -1274,16 +1274,12 @@
 		margin: auto;
 		margin-bottom: 1.5em;
 		outline: 0;
-		width: 54%;
+		width: 6.5em;
 		justify-content: center;
 	}
 
-	#content #imagerie_DDS {
-		margin-top: 132%;
-	}
-
-	#content #imagerie_RA {
-		margin-top: 5713px;
+	#content .imagerie {
+		margin-top: 395px;
 	}
 
 	#signature {

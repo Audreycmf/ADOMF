@@ -26,7 +26,7 @@
                       <a href="pierre_revol.php" class="portrait"><img src="images/photo_revol.jpg" alt="" /></a>
                       <h3 class="lien_gris"><a href="pierre_revol.php">Dr Pierre Revol</a></h3>
 											<p>
-												Chirurgien maxillo-facial et stomatologiste, spécialisé en chirurgie plastique et réparatrice de la face.<br />
+												Chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face.<br />
 												Chef de service du service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Cofondateur et président de
 												l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />
 												Il a publié de nombreux articles scientifiques nationaux et internationaux et garde un rôle d’enseignant. Il se rend régulièrement aux
@@ -35,7 +35,7 @@
                       <a href="audrey_moret.php" class="portrait"><img src="images/photo_moret.jpg" alt="" /></a>
                       <h3 class="lien_gris"><a href="audrey_moret.php">Dr Audrey Moret</a></h3>
 											<p>
-												Chirurgien maxillo-facial et stomatologiste, spécialisé en chirurgie plastique et réparatrice de la face.<br />
+												Chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face.<br />
 												Trésorière de l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />
 												Elle participe à de nombreuses publications et communications scientifiques nationales et internationales. Elle conserve un rôle
 												d’enseignement. Elle se rend régulièrement aux différents congrès portant sur la sphère faciale.
@@ -43,7 +43,7 @@
                       <a href="julie_garconnet.php" class="portrait"><img src="images/photo_garconnet.jpg" alt="" /></a>
                       <h3 class="lien_gris"><a href="julie_garconnet.php">Dr Julie Garçonnet</a></h3>
 											<p>
-												Chirurgien oral et stomatologiste.<br />
+												Chirurgien oral et stomatologue.<br />
 												Secrétaire adjointe de l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />
 												Elle participe à de nombreuses publications et communications scientifiques nationales. Elle conserve un rôle d’enseignement. Elle se rend
 												régulièrement aux différents congrès portant sur la sphère faciale.<br />

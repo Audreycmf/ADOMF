@@ -30,7 +30,7 @@
 													<li class="lien_gris"><a href="implantologie.php">L'implantologie</a></li>
 													<li class="lien_gris"><a href="cutanee.php">La chirurgie cutanée</a></li>
 													<li class="lien_gris"><a href="orbito_palpebral.php">La chirurgie orbito-palpébrale</a></li>
-													<li class="lien_gris"><a href="stomatologie.php">La stomatologie</a></li>
+													<li class="lien_gris"><a href="dds.php">La stomatologie</a></li>
 													<li class="lien_gris"><a href="esthetique.php">La chirurgie esthétique</a></li>
 													<li class="lien_gris"><a href="preimplantaire.php">La chirurgie pré-implantaire</a></li>
 													<li class="lien_gris"><a href="glandes_salivaires.php">La chirurgie des glandes salivaires</a></li>

@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>CV Dr Audrey Moret</title>
+		<title>CV Dr Julie Garçonnet</title>
 		<?php include("head.php") ?>
 	</head>
 	<body class="subpage">
@@ -19,32 +19,28 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
-										<section>
-											<header>
-												<h2>Magna Phasellus</h2>
-											</header>
-											<ul class="link-list">
-												<li><a href="#">Sed dolore viverra</a></li>
-												<li><a href="#">Ligula non varius</a></li>
-												<li><a href="#">Nec sociis natoque</a></li>
-												<li><a href="#">Penatibus et magnis</a></li>
-												<li><a href="#">Dis parturient montes</a></li>
-												<li><a href="#">Nascetur ridiculus</a></li>
-											</ul>
-										</section>
-										<section>
-											<header>
-												<h2>Ipsum Dolor</h2>
-											</header>
-											<p>
-                        Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
+                    <section>
+                      <header>
+                        <h2>Présentation</h2>
+                      </header>
+                      <p>
+												Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
 												cavité orale (bouche), tant dans le domaine médical que dans le domaine chirurgical.
-											</p>
+                      </p>
+                    </section>
+										<section>
+											<header>
+												<h2>Membre de sociétés savantes</h2>
+											</header>
 											<ul class="link-list">
-												<li><a href="#">Sed dolore viverra</a></li>
-												<li><a href="#">Ligula non varius</a></li>
-												<li><a href="#">Dis parturient montes</a></li>
-												<li><a href="#">Nascetur ridiculus</a></li>
+												<li><a href="http://afcmf.free.fr/">Membre de l’Association Française des Chirurgiens Maxillo-Faciaux.</a></li>
+												<li><a href="http://www.afjcmf.fr/">Membre de l'Association Française des Jeunes Chirurgiens Maxillo-Faciaux.</a></li>
+												<li><a href="http://www.sfscmfco.fr/">Membre de la Société Française de Stomatologie et Chirurgie Maxillo-Faciale et Chirugie Orale.</a></li>
+												<li><a href="https://www.eacmfs.org/">Membre de European Association for Cranio-Maxillo-Facial-Surgery.</a></li>
+												<li><a href="http://sfodf.org/">Membre de la Société Française d’Orthopédie Dento-Faciale.</a></li>
+												<li><a href="http://www.net1901.org/association/GROUPE-DETUDE-NATIONAL-DINNOVATION-EN-OSTEOSYNTHESE-GENIOS,509956.html">Membre du groupe
+													GENIOS.</a></li>
+                        <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales : Secrétaire adjointe.</a></li>
 											</ul>
 										</section>
 
@@ -54,55 +50,62 @@
 									<!-- Main Content -->
 										<section>
 											<header>
-												<h2>Two Column #2</h2>
-												<h3>Another generic two column layout</h3>
+												<h2>Docteur Julie Garçonnet</h2>
 											</header>
-											<p>
-												Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam metus, congue
-												vel suscipit ut, dignissim non risus. Vestibulum ante est, fringilla nec placerat
-												eu, vestibulum vitae diam. Integer eget egestas eros. Duis enim erat, mollis quis
-												lacinia eget, blandit nec ipsum. Donec vitae turpis ipsum. Aliquam mauris libero,
-												sagittis in eleifend at, mattis imperdiet velit. Donec urna risus, rutrum molestie
-												varius ac, lacinia sit amet augue. Nam ultrices elementum eros.
-											</p>
-											<p>
-												Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum
-												hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient
-												montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing
-												egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer
-												vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-												justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum
-												elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi
-												lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend
-												hendrerit.
-											</p>
-											<p>
-												Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio
-												mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat
-												egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer
-												vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-												justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum
-												iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor.
-											</p>
-											<p>
-												Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum
-												hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient
-												montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing
-												egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer
-												vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-												justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum
-												elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi
-												lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend
-												hendrerit.
-											</p>
-											<p>
-												Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio
-												mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat
-												egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer
-												vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-												justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum
-												iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor.
-											</p>
+                      <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="" /></a>
+                      <h3>Titres et diplômes</h3>
+											<ul class="basic-list">
+                        <li>2012 : Internat de Chirurgie Orale à Marseille.</li>
+                        <li>2016 : Diplôme universitaire de dermato-vénéréologie de la muqueuse buccale.</li>
+                        <li>2016 : Diplôme d’Etudes Spécialisées de Chirurgie Orale .</li>
+                        <li>2016 : Diplôme de Docteur en Médecine.</li>
+                        <li>2016 : Assistante hospitalier universitaire dans le service Odontologie au CHU de la Timone (Marseille).</li>
+                        <li>2017 : Qualification en Stomatologie.</li>
+                        <li>2017 : Assistante spécialiste en stomatologie au centre hospitalier du Pays d’Aix .</li>
+                        <li>2018 : Diplôme universitaire d’implantologie orale et maxillo-faciale.</li>
+                      </ul>
+										</section>
+										<section>
+                      <h3>Activité clinique</h3>
+                        <ul class="basic-list">
+                          <li>Depuis Nov. 2017 : participation à l’astreinte de Chirurgie Maxillo-faciale hôpital d’Aix.</li>
+												</ul>
+										</section>
+										<section>
+                      <h3>Activité d'enseignement</h3>
+                      <ul class="basic-list">
+                        <li>2018 : Cours sur les urgences en chirurgie maxillo-faciale pour les internes des urgences et de chirurgie de l'Hôpital
+													d'Aix-en-Provence.</li>
+											</ul>
+										</section>
+										<section>
+                      <h3>Travaux scientifiques</h3>
+                        <h4>Thèse et mémoires</h4>
+                        <ul class="basic-list">
+                          <li>&laquo; Evaluation de la compréhension de l’information après avulsion des dents de sagesse. &raquo;<br />
+                            Thèse de médecine - Aix-Marseille Université - 10 octobre 2016.</li>
+                        </ul>
+                        <h4>Communications orales</h4>
+                        <ul class="basic-list">
+                          <li>&laquo; Traitement des complications dentaires dues aux vis de blocage. &raquo;<br />
+                            51ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2015.</li>
+                          <li>&laquo; Evaluation de la compréhension de l’information après avulsion des dents de sagesse. &raquo;<br />
+                            52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016.</li>
+                        </ul>
+                        <h4>Publications dans les revues scientifiques</h4>
+                        <ul class="basic-list">
+                          <li>&laquo; Suture du nerf lingual : note technique. &raquo;<br />
+                            Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale, 2015; 116:143-6.</li>
+                          <li>&laquo; Fibro-odontome améloblastique mandibulaire chez une patiente de 3 ans. &raquo;<br />
+                            Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale, 2016; 117:429-432.</li>
+                        </ul>
+                        <h4>Posters</h4>
+                        <ul class="basic-list">
+                          <li>&laquo; Evaluation de la compréhension de l’information après avulsion des dents de sagesse. &raquo;<br />
+                            50ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2014.</li>
+                          <li>&laquo; Présentation d’un cas de fibro-odontome améloblastique chez une patiente de 3 ans. &raquo;<br />
+                            63ème Congrès de la Société Française de Chirurgie Orale. Toulouse 2015.</li>
+                        </ul>
 										</section>
 
 								</div>

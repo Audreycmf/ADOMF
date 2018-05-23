@@ -24,7 +24,7 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-                        Le docteur Revol est chirurgien maxillo-facial et stomatologiste, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
+                        Le docteur Revol est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
                         de service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Par ailleurs, il est amené à participer à des
                         missions humanitaires.
                       </p>
@@ -41,7 +41,7 @@
 												<li><a href="http://sfodf.org/">Membre de la Société Française d’Orthopédie Dento-Faciale.</a></li>
 												<li><a href="http://www.net1901.org/association/GROUPE-DETUDE-NATIONAL-DINNOVATION-EN-OSTEOSYNTHESE-GENIOS,509956.html">Membre du groupe
 													GENIOS.</a></li>
-                        <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales : président.</a></li>
+                        <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales : Président.</a></li>
 											</ul>
 										</section>
 
@@ -64,10 +64,9 @@
                         <li>2001 : Attestation d'Etudes Universitaires (A.E.U) de techniques microchirurgicales.</li>
                         <li>2001 : Diplôme Universitaire (D.U.) de cancérologie des VADS.</li>
                         <li>2003 : Diplôme de Docteur en Médecine.</li>
-                        <li>2003 : Ancien Interne des Hôpitaux de Lyon.</li>
                         <li>2004 : Diplôme d’Etudes Spécialisées Complémentaires (D.E.S.C.) de Chirurgie Maxillo-Faciale et Stomatologie.</li>
-                        <li>2004 : Ancien Assistant-chef de clinique des hôpitaux de Clermont-Ferrand.</li>
-                        <li>2005 : Ancien Assistant-chef de clinique des Hospices Civils de Lyon.</li>
+                        <li>2004 : Assistant-chef de clinique des hôpitaux de Clermont-Ferrand.</li>
+                        <li>2005 : Assistant-chef de clinique des Hospices Civils de Lyon.</li>
                         <li>2005 : Praticien hospitalier temps plein provisoire de l'hôpital du pays d'Aix, service de Stomatologie.</li>
                         <li>2006 : Praticien hospitalier temps plein, hôpital du pays d'Aix, service de Stomatologie et chirurgie maxillo-faciale.</li>
                         <li>2006 : Chef de service de l'hôpital du pays d'Aix, service de Stomatologie et chirurgie maxillo-faciale.</li>
@@ -75,42 +74,9 @@
 										</section>
 										<section>
                       <h3>Activité clinique</h3>
-                        <h4>Interne</h4>
                         <ul class="basic-list">
-                          <li>Nov. 97 - Avr. 98 : Chirurgie Maxillo-faciale (Pr. FREIDEL C.H.U LYON-SUD).</li>
-                          <li>Mai 98 - Oct. 98 : Chirurgie Viscérale (Dr. AULAGNIER Hôpital de Vienne).</li>
-                          <li>Nov. 98 - Avr. 99 : Chirurgie Maxillo-faciale (Pr. BÉZIAT Hôpital de la CROIX-ROUSSE).</li>
-                          <li>Mai 99 - Oct. 99 : Chirurgie Orthopédique (Dr. LECUIRE Hôpital Renée SABRAN).</li>
-                          <li>Nov. 99 - Avr. 00 : Chirurgie Orthopédie Pédiatrique (Pr KOHLER Hôpital Edouard HERRIOT).</li>
-                          <li>Mai 00 - Oct. 00 : Chirurgie Maxillo-faciale (Pr. FREIDEL C.H.U LYON-SUD).</li>
-                          <li>Nov. 00 - Jan. 01 : Chirurgie Plastique et Reconstructrice (Dr FOYATIER Hôpital Saint-Luc/Saint-Joseph).</li>
-                          <li>Fév. 01 -Aou. 01 : Service national à l'hôpital d'instruction des armées Desgenettes, Stomatologie et chirurgie cervico-faciale.</li>
-                          <li>Sept. 01 - Oct. 01: Oto-rhino-laryngologie (Pr. DUBREUIL C.H.U LYON-SUD).</li>
-                          <li>Nov. 01 - Avr. 02 : Chirurgie Maxillo-faciale (Pr. FREIDEL C.H.U LYON-SUD).</li>
-                          <li>Mai 02 - Oct. 02 : Chirurgie Plastique et Reconstructrice (Dr. DELAYE Centre Léon Bérard).</li>
-                          <li>Nov. 02 - Avr. 03 : Oto-rhino-laryngologie (Pr. PIGNAT Hôpital de la Croix-Rousse).</li>
-                          <li>Mai 03 - Oct. 03 : Chirurgie Maxillo-faciale (inter CHU, Toulouse, Pr. BOUTAULT).</li>
-                        </ul>
-                        <h4>Chef de Clinique - Assistant des Hôpitaux</h4>
-                        <ul class="basic-list">
-                          <li>Nov. 03 - Oct. 04 : Chirurgie maxillo-faciale et Stomatologie (Pr. J.M. MONDIE, Clermont-Ferrand).</li>
-                          <li>Nov. 04 - Oct. 05 : Chirurgie maxillo-faciale et Stomatologie (Pr. M. FREIDEL, Lyon).</li>
-                        </ul>
-                        <h4>Praticien hospitalier</h4>
-                        <ul class="basic-list">
-                          <li>Déc. 2005 - Juil. 2006 : Praticien hospitalier temps plein provisoire de l'hôpital du pays d'Aix, service de Stomatologie.</li>
-                          <li>Juil. 2006 - ? : Praticien hospitalier temps plein, Chef de service de l'hôpital du pays d'Aix, service de Stomatologie et Chirurgie
-                            Maxillo-Faciale.</li>
-                        </ul>
-                        <h4>Services rendus</h4>
-                        <ul class="basic-list">
-                          <li>Nov. 97 - Avr. 03 : participation au tour de garde des internes de chirurgie générale des Hospices Civils de Lyon.</li>
-                          <li>Juill. 00 - Avr. 03 : participation à l’astreinte des seniors de Chirurgie Maxillo-faciale des Hospices Civils de Lyon.</li>
-                          <li>Mai 03 - Oct. 03 : participation à l’astreinte de Chirurgie Maxillo-faciale des hôpitaux de Toulouse.</li>
-                          <li>Nov. 03 - Oct. 04 : participation à l’astreinte des seniors de Chirurgie Maxillo-faciale de l’hôpital de Clermont-Ferrand.</li>
-                          <li>Nov. 04 - Oct. 05 : participation à l’astreinte des seniors de Chirurgie Maxillo-faciale des Hospices Civils de Lyon.</li>
-                          <li>Nov. 05 - ? : participation à l’astreinte de Chirurgie Maxillo-faciale hôpital d’Aix.</li>
-                          <li>Nov. 04 - Oct. 05 : moniteur d'anatomie faculté Lyon sud.</li>
+													<li>Nov. 2004 - Oct. 2005 : moniteur d'anatomie faculté Lyon sud.</li>
+                          <li>Depuis Nov. 2005 : participation à l’astreinte de Chirurgie Maxillo-faciale hôpital d’Aix.</li>
                           <li>Médecine humanitaire :
                             <ol class="level2_list">
                               <li>Laos : avril 2005 (enseignement et pratique médicale) Santé-France-Laos.</li>
@@ -126,26 +92,14 @@
                               <li>Madagascar : avril 2017 opération sourire (fente labio-palatine)  Médecin du Monde.</li>
                             </ol>
                           </li>
-                          <li>Divers:
-                            <ol class="level2_list">
-                              <li>Janvier 2011 : Réalisation du site internet de l'ADOMF.<br />
-																<a href="index.php">www.adomf.fr</a></li>
-                              <li>Avril 2011 : Membre du jury de thèse du Dr Dumont.</li>
-                              <li>2011-2012 : Membre du jury du concours des praticiens hospitaliers.</li>
-                              <li>Avril 2013 : Membre du jury de thèse du Dr Foletti.</li>
-                              <li>2013-2014 : Membre du jury du concours des praticiens hospitaliers.</li>
-                            </ol>
-                          </li>
                           <li>Consultations pluridisciplinaires:
                             <ol class="level2_list">
                               <li>Cancérologie des VADS :<br />
-                                2004-2005 avec les ORL (équipe Dr CERUSE) et radiothérapeutes (C.H.U LYON-SUD).<br />
-                                2006-? avec les ORL, radiothérapeutes et oncologues (Hôpital du pays d’Aix).</li>
+                                Depuis 2006 : avec les ORL, radiothérapeutes et oncologues (Hôpital du pays d’Aix).</li>
                               <li>Cancérologie cutanée :<br />
-                                2004-2005 avec les dermatologues (équipe Pr THOMAS), radiologues, radiothérapeutes et oncologues (C.H.U LYON-SUD).<br />
-                                2006-? avec les dermatologues et anatomo-pathologistes (Hôpital du pays d’Aix).</li>
+                                Depuis 2006 : avec les dermatologues et anatomo-pathologistes (Hôpital du pays d’Aix).</li>
                               <li>Apnée du sommeil : 2004-2005 avec pneumologues et ORL (C.H.U LYON-SUD).</li>
-                              <li>Chirurgie orthognatique : 2006-? avec les orthodontistes aixois (Hôpital du pays d’Aix).</li>
+                              <li>Chirurgie orthognatique : depuis 2006 avec les orthodontistes aixois (Hôpital du pays d’Aix).</li>
                             </ol>
                           </li>
                           <li>Recommandations pour la pratique clinique :
@@ -153,17 +107,6 @@
                               <li>2006 : Groupe de travail sur &laquo; Rhinoplastie esthétique et fonctionnelle &raquo; sous l’égide de la Société Française d'ORL et la Société
 																Française de Chirurgie Maxillo-Faciale & Stomatologie.</li>
                               <li>2011 : Groupe de relecture du &laquo; Guide ALD30 sur le mélanome &raquo; sous l'égide de l'HAS et de l'Institut National du Cancer.</li>
-                            </ol>
-                          </li>
-                          <li>Commissions hospitalières :
-                            <ol class="level2_list">
-															<li>2006-2008 : Groupe de réflexion sur la procédure des prescriptions (Hôpital du pays d’Aix).</li>
-                              <li>2008 : Membre du Comité de Lutte contre les Infections Nosocomiales (CLIN) (Hôpital du pays d’Aix).</li>
-                              <li>2008-2009 : CLIN (Hôpital du pays d’Aix).</li>
-                              <li>2009 : Groupe de réflexion sur la stérilisation (Hôpital du pays d’Aix).</li>
-                              <li>2009-2011 : Groupe de réflexion sur l’informatisation des prescriptions et du dossier patient (Hôpital du pays d’Aix).</li>
-                              <li>2010-2011 : Membre du bureau de la Commission Médicale d’Etablissement (Hôpital du pays d’Aix).</li>
-                              <li>2006-? : Membre de la Commission Médicale d’Etablissement (Hôpital du pays d’Aix).</li>
                             </ol>
                           </li>
 												</ul>
@@ -333,10 +276,12 @@
                         <p>
                           2010 : Organisation premier congrès de l'A.D.O.M.F.
                         </p>
-                        <h4>Membre de jury de thèse</h4>
+                        <h4>Membre de jury</h4>
                         <ul class="basic-list">
                           <li>2011 : Dr Nathalie Dumont.</li>
+													<li>2012 : Concours des praticiens hospitaliers.</li>
                           <li>2013 : Dr Jean-Marc Foletti.</li>
+													<li>2014 : Concours des praticiens hospitaliers.</li>
                         </ul>
 										</section>
 										<section>

@@ -25,15 +25,15 @@
 											</header>
                       <h3> <a href=#walid>Journée aixoise d'ortho-chirurgie</a></h3>
 											<p>
-												Le 29 juin 2018, cette journée a été l'occasion d'échanger aves les orthodontistes, les anesthésistes et les chirurgiens maxillo-faciaux
+												Le 29 juin 2018, cette journée a été l'occasion d'échanger avec les orthodontistes, les anesthésistes et les chirurgiens maxillo-faciaux
                         de la région, sur les évolutions de la chirurgie orthognatique (chirurgie des mâchoires). Une bonne collaboration est essentielle entre
-                        chacun des acteurs intervenant tout au long de la prise en charge. Cette formation permet donc une mailleure prise en charge globale des
+                        chacun des acteurs intervenant tout au long de la prise en charge. Cette formation permet donc une meilleure prise en charge globale des
                         patients.
 											</p>
                       <h3> <a href="#brothier">4ème réunion d'échanges sur la prise en charge des plaies</a></h3>
 											<p>
 												Cette journée a lieu une fois par an à l'hôpital d'Aix-en-Provence et permet d'aborder la prise en charge des plaies et la cicatrisation.
-                        Elle est fréquentée par de nombreuses infirmières libérales et hospitalières, permettant l'amélioration au qotidien du réseau ville-hôpital.
+                        Elle est fréquentée par de nombreuses infirmières libérales et hospitalières, permettant l'amélioration au quotidien du réseau ville-hôpital.
 											</p>
                       <h3> <a href="#gap">Les soirées des urgences Haut-Alpines</a></h3>
 											<p>

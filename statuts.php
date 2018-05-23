@@ -72,16 +72,18 @@
                             <li>Monsieur Ludovic CAQUANT, né à Roubaix le 18 septembre 1976, de Nationalité Française, demeurant : Les dernières vignes – 220 Route de
                               Roquefavour – 13122 VENTABREN, exerçant la profession de Chirurgien Maxillo-Facial, en qualité de  Trésorier.</li>
                             <li>Monsieur Renaud DESOUCHES, né le 6 avril 1975 à Marseille, de Nationalité Française, demeurant : Les Hauts du Gay – Chemin Rigaud
-                              – 13480 CABRIES, exerçant la profession d'Orthodontiste.</li>
+                              – 13480 CABRIES, exerçant la profession d'Orthodontiste, en qualité de Secrétaire.</li>
                           </ul>
-                          Les membres du bureau suite à l’Assemblée Générale du 15/12/2016 sont :
+                          Les membres du bureau suite à l’Assemblée Générale du 14/12/2017 sont :
                           <ul class="basic-list">
                             <li>Monsieur Pierre REVOL, né à Valence le 9 juin 1972 de Nationalité Française, demeurant : La Bergerie de Bonfils – 11 Avenue Charles
                               de Gaulle – 13122 VENTABREN, exerçant la profession de Chirurgien Maxillo-Facial, en qualité de Président.</li>
-                            <li>Mademoiselle Audrey MORET, née à Ambilly le 02 décembre 1986, de Nationalité Française, demeurant : 4167 chemin de saint Donat
-                              13540  PUYRICARD, exerçant la profession de Chirurgien Maxillo-Facial, en qualité de  Trésorier.</li>
+                            <li>Mademoiselle Audrey MORET, née à Ambilly le 02 décembre 1986, de Nationalité Française, demeurant : 30 avenue Alfred Capus
+                              13100 AIX-EN-PROVENCE, exerçant la profession de Chirurgien Maxillo-Facial, en qualité de  Trésorier.</li>
                             <li>Monsieur Renaud DESOUCHES, né le 6 avril 1975 à Marseille, de Nationalité Française, demeurant : Les Hauts du Gay – Chemin Rigaud
-                              – 13480 CABRIES, exerçant la profession d'Orthodontiste.</li>
+                              – 13480 CABRIES, exerçant la profession d'Orthodontiste, en qualité de Secrétaire.</li>
+														<li>Mademoiselle Julie GARCONNET, née le 18 février 1987 à Arras, de Nationalité Française, demeurant : Avenue des Tamaris 13616
+															AIX-EN-PROVENCE, exerçant la profession de Chirurgien Oral, en qualité de Trésorière Adjointe.</li>
                           </ul>
                         </p>
                         <h3>Article 10</h3>
@@ -130,7 +132,7 @@
                           <li>Dr Pierre REVOL, Président</li>
                           <li>Dr Audrey  MORET, Trésorier</li>
                           <li>Dr Renaud DESOUCHES, Secrétaire</li>
-													<li>Dr Julie GARCONNET, Secrétaire Adjointe</li>
+													<li>Dr Julie GARCONNET, Trésorière Adjointe</li>
 										</section>
 
 								</div>

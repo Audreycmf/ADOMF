@@ -30,96 +30,81 @@
 				);
 			});
 
-//Augmenter taille des images au clic
-var imageEltWalid1 = document.getElementById("walid1");
+//Pour que l'animation n'ait lieu qu'au format desktop
+if (window.matchMedia("(min-width: 737px)").matches) {
 
-imageEltWalid1.addEventListener("click", function() {
-	//Pour que l'animation n'ait lieu qu'au format desktop
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltWalid1.style.transform = "scale(3.97)translate(-162px, 160px)";
-		//Nouveau clic : retour de l'image à sa place
-		imageEltWalid1.addEventListener("click", function() {
-			imageEltWalid1.style.transform = "scale(1)";
-		});
-	};
-});
+		//Augmenter taille des images au clic
+		var imageEltWalid1 = document.getElementById("walid1");
 
-var imageEltWalid2 = document.getElementById("walid2");
+			imageEltWalid1.addEventListener("click", function() {
+					imageEltWalid1.style.transform = "scale(3.97)translate(-162px, 160px)";
+					//Nouveau clic : retour de l'image à sa place
+					imageEltWalid1.addEventListener("click", function() {
+						imageEltWalid1.style.transform = "scale(1)";
+					});
+			});
 
-imageEltWalid2.addEventListener("click", function() {
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltWalid2.style.transform = "scale(3.97)translate(-162px, 80px)";
-		//Nouveau clic : retour de l'image à sa place
+		var imageEltWalid2 = document.getElementById("walid2");
+
 		imageEltWalid2.addEventListener("click", function() {
-			imageEltWalid2.style.transform = "scale(1)";
+				imageEltWalid2.style.transform = "scale(3.97)translate(-162px, 80px)";
+				//Nouveau clic : retour de l'image à sa place
+				imageEltWalid2.addEventListener("click", function() {
+					imageEltWalid2.style.transform = "scale(1)";
+				});
 		});
-	};
-});
 
-var imageEltWalid3 = document.getElementById("walid3");
+		var imageEltWalid3 = document.getElementById("walid3");
 
-imageEltWalid3.addEventListener("click", function() {
-	//Pour que l'animation n'ait lieu qu'au format desktop
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltWalid3.style.transform = "scale(3.97)translate(-162px, -10px)";
-		//Nouveau clic : retour de l'image à sa place
 		imageEltWalid3.addEventListener("click", function() {
-			imageEltWalid3.style.transform = "scale(1)";
+				imageEltWalid3.style.transform = "scale(3.97)translate(-162px, -10px)";
+				//Nouveau clic : retour de l'image à sa place
+				imageEltWalid3.addEventListener("click", function() {
+					imageEltWalid3.style.transform = "scale(1)";
+				});
 		});
-	};
-});
 
-var imageEltWalid4 = document.getElementById("walid4");
+		var imageEltWalid4 = document.getElementById("walid4");
 
-imageEltWalid4.addEventListener("click", function() {
-	//Pour que l'animation n'ait lieu qu'au format desktop
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltWalid4.style.transform = "scale(3.97)translate(-162px, -100px)";
-		//Nouveau clic : retour de l'image à sa place
 		imageEltWalid4.addEventListener("click", function() {
-			imageEltWalid3.style.transform = "scale(1)";
+				imageEltWalid4.style.transform = "scale(3.97)translate(-162px, -100px)";
+				//Nouveau clic : retour de l'image à sa place
+				imageEltWalid4.addEventListener("click", function() {
+					imageEltWalid3.style.transform = "scale(1)";
+				});
 		});
-	};
-});
 
-var imageEltBrothier1 = document.getElementById("brothier1");
+		var imageEltBrothier1 = document.getElementById("brothier1");
 
-imageEltBrothier1.addEventListener("click", function() {
-	//Pour que l'animation n'ait lieu qu'au format desktop
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltBrothier1.style.transform = "scale(3.97)translate(-162px, -270px)";
-		//Nouveau clic : retour de l'image à sa place
 		imageEltBrothier1.addEventListener("click", function() {
-			imageEltBrothier1.style.transform = "scale(1)";
+				imageEltBrothier1.style.transform = "scale(3.97)translate(-162px, -270px)";
+				//Nouveau clic : retour de l'image à sa place
+				imageEltBrothier1.addEventListener("click", function() {
+					imageEltBrothier1.style.transform = "scale(1)";
+				});
 		});
-	};
-});
 
-var imageEltBrothier2 = document.getElementById("brothier2");
+		var imageEltBrothier2 = document.getElementById("brothier2");
 
-imageEltBrothier2.addEventListener("click", function() {
-	//Pour que l'animation n'ait lieu qu'au format desktop
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltBrothier2.style.transform = "scale(3.97)translate(-162px, -315px)";
-		//Nouveau clic : retour de l'image à sa place
 		imageEltBrothier2.addEventListener("click", function() {
-			imageEltBrothier2.style.transform = "scale(1)";
+				imageEltBrothier2.style.transform = "scale(3.97)translate(-162px, -315px)";
+				//Nouveau clic : retour de l'image à sa place
+				imageEltBrothier2.addEventListener("click", function() {
+					imageEltBrothier2.style.transform = "scale(1)";
+				});
 		});
-	};
-});
 
-var imageEltGap1 = document.getElementById("gap1");
+		var imageEltGap1 = document.getElementById("gap1");
 
-imageEltGap1.addEventListener("click", function() {
-	//Pour que l'animation n'ait lieu qu'au format desktop
-	if (window.matchMedia("(min-width: 737px)").matches) {
-		imageEltGap1.style.transform = "scale(4.495)translate(-141.5px, -280px)";
-		//Nouveau clic : retour de l'image à sa place
 		imageEltGap1.addEventListener("click", function() {
-			imageEltGap1.style.transform = "scale(1)";
+				imageEltGap1.style.transform = "scale(4.495)translate(-141.5px, -280px)";
+				//Nouveau clic : retour de l'image à sa place
+				imageEltGap1.addEventListener("click", function() {
+					imageEltGap1.style.transform = "scale(1)";
+				});
 		});
-	};
-});
+};
+
 
 /*
 //Gestion vidéo Sidebar
