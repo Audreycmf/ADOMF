@@ -128,7 +128,7 @@
 											<header>
 												<h2>Résection apicale</h2>
 											</header>
-											<iframe width=90% src="https://www.youtube.com/embed/vaMhwKakeXg?rel=0&start=2&end=47" frameborder="0" allowfullscreen></iframe>
+											<iframe width=100% src="https://www.youtube.com/embed/vaMhwKakeXg?rel=0&start=2&end=47" frameborder="0" allowfullscreen></iframe>
 										</section>
 
 								</div>

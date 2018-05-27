@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>La stomatologie</title>
+		<title>La stomatologie - L'avulsion des dents de sagesse</title>
 		<?php include("head.php") ?>
 	</head>
 	<body class="subpage">
@@ -159,9 +159,9 @@
 												<h2>Avulsion de dents de sagesse</h2>
 											</header>
                       <h3>Avulsion de dent de sagesse mandibulaire</h3>
-											<iframe width=90% src="https://www.youtube.com/embed/5JlDXDi8Vlw?rel=0&start=13&mute=1&controls=0" frameborder="0" allowfullscreen id="video"></iframe>
+											<iframe width=100% src="https://www.youtube.com/embed/5JlDXDi8Vlw?rel=0&start=13&mute=1&controls=0" frameborder="0" allowfullscreen id="video"></iframe>
                       <h3>Avulsion de dent de sagesse maxillaire</h3>
-                      <iframe width=90% src="https://www.youtube.com/embed/idW6iHykkzk?rel=0" frameborder="0" allowfullscreen></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/idW6iHykkzk?rel=0" frameborder="0" allowfullscreen></iframe>
 										</section>
 
 								</div>

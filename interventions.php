@@ -26,7 +26,7 @@
 											<p>
 												Les différents interventions pratiquées par un chirurgien maxillo-facial sont les suivantes :
 												<ul class="check-list">
-													<li class="lien_gris"><a href="orthognatique.php">La chirurgie orthognatique</a></li>
+													<li class="lien_gris"><a href="lefort.php">La chirurgie orthognatique</a></li>
 													<li class="lien_gris"><a href="implantologie.php">L'implantologie</a></li>
 													<li class="lien_gris"><a href="cutanee.php">La chirurgie cutanée</a></li>
 													<li class="lien_gris"><a href="orbito_palpebral.php">La chirurgie orbito-palpébrale</a></li>

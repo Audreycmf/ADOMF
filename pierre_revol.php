@@ -41,7 +41,7 @@
 												<li><a href="http://sfodf.org/">Membre de la Société Française d’Orthopédie Dento-Faciale.</a></li>
 												<li><a href="http://www.net1901.org/association/GROUPE-DETUDE-NATIONAL-DINNOVATION-EN-OSTEOSYNTHESE-GENIOS,509956.html">Membre du groupe
 													GENIOS.</a></li>
-                        <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales : Président.</a></li>
+                        <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales: Président.</a></li>
 											</ul>
 										</section>
 
