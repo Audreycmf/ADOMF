@@ -54,6 +54,10 @@
 												<h2>Docteur Pierre Revol</h2>
 											</header>
                       <img src="images/photo_revol.jpg" class="bordered-feature-image" alt="" /></a>
+											<div id="liens_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
                         <li>1997 : Internat des Hôpitaux de Lyon.</li>
@@ -238,6 +242,8 @@
                             Recommandation pour la pratique clinique, groupe de lecture, 2006.</li>
                           <li>&laquo; Dent de sagesse ectopique intrasinusienne : voie d'abord par ostéotomie de Le Fort I. &raquo;<br />
                             Médecine Buccale Chirurgie Buccale 2015.</li>
+													<li>&laquo; Le recours à la chirurgie orthognatique pré-prothétique. &raquo;<br />
+														Dentoscope, 2017;176:36-40.</li>
                         </ul>
                         <h4>Cours</h4>
                         <ul class="basic-list">

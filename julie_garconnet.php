@@ -53,6 +53,10 @@
 												<h2>Docteur Julie Garçonnet</h2>
 											</header>
                       <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="" /></a>
+											<div id="liens_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
                         <li>2012 : Internat de Chirurgie Orale à Marseille.</li>
@@ -111,7 +115,6 @@
 													<li>201 : Dr .</li>
 													<li>201 : Dr .</li>
 												</ul>
-
 										</section>
 
 								</div>

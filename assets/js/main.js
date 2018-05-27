@@ -30,89 +30,19 @@
 				);
 			});
 
-/*Pour que l'animation n'ait lieu qu'au format desktop
-if (window.matchMedia("(min-width: 737px)").matches) {
-
-		//Augmenter taille des images au clic
-		var imageEltWalid1 = document.getElementById("walid1");
-
-			imageEltWalid1.addEventListener("click", function() {
-					imageEltWalid1.style.transform = "scale(3.97)translate(-162px, 160px)";
-					//Nouveau clic : retour de l'image à sa place
-					imageEltWalid1.addEventListener("click", function() {
-						imageEltWalid1.style.transform = "scale(1)";
-					});
-			});
-
-		var imageEltWalid2 = document.getElementById("walid2");
-
-		imageEltWalid2.addEventListener("click", function() {
-				imageEltWalid2.style.transform = "scale(3.97)translate(-162px, 80px)";
-				//Nouveau clic : retour de l'image à sa place
-				imageEltWalid2.addEventListener("click", function() {
-					imageEltWalid2.style.transform = "scale(1)";
-				});
-		});
-
-		var imageEltWalid3 = document.getElementById("walid3");
-
-		imageEltWalid3.addEventListener("click", function() {
-				imageEltWalid3.style.transform = "scale(3.97)translate(-162px, -10px)";
-				//Nouveau clic : retour de l'image à sa place
-				imageEltWalid3.addEventListener("click", function() {
-					imageEltWalid3.style.transform = "scale(1)";
-				});
-		});
-
-		var imageEltWalid4 = document.getElementById("walid4");
-
-		imageEltWalid4.addEventListener("click", function() {
-				imageEltWalid4.style.transform = "scale(3.97)translate(-162px, -100px)";
-				//Nouveau clic : retour de l'image à sa place
-				imageEltWalid4.addEventListener("click", function() {
-					imageEltWalid3.style.transform = "scale(1)";
-				});
-		});
-
-		var imageEltBrothier1 = document.getElementById("brothier1");
-
-		imageEltBrothier1.addEventListener("click", function() {
-				imageEltBrothier1.style.transform = "scale(3.97)translate(-162px, -270px)";
-				//Nouveau clic : retour de l'image à sa place
-				imageEltBrothier1.addEventListener("click", function() {
-					imageEltBrothier1.style.transform = "scale(1)";
-				});
-		});
-
-		var imageEltBrothier2 = document.getElementById("brothier2");
-
-		imageEltBrothier2.addEventListener("click", function() {
-				imageEltBrothier2.style.transform = "scale(3.97)translate(-162px, -315px)";
-				//Nouveau clic : retour de l'image à sa place
-				imageEltBrothier2.addEventListener("click", function() {
-					imageEltBrothier2.style.transform = "scale(1)";
-				});
-		});
-
-		var imageEltGap1 = document.getElementById("gap1");
-
-		imageEltGap1.addEventListener("click", function() {
-				imageEltGap1.style.transform = "scale(4.495)translate(-141.5px, -280px)";
-				//Nouveau clic : retour de l'image à sa place
-				imageEltGap1.addEventListener("click", function() {
-					imageEltGap1.style.transform = "scale(1)";
-				});
-		});
-};
-*/
-
+//Pour page actualités
 var liste_walid=document.getElementsByClassName("titre_walid"),li=liste_walid.length,i;
 for(i=0;i<li;i++){
   liste_walid[i].addEventListener('click', function() {
 	if (document.getElementById("walid").innerHTML === "") {
 	document.getElementById("walid").innerHTML = "\<img src=\"images/walid1.png\" alt=\"\" width=100% \>\<img src=\"images/walid2.png\" alt=\"\" width=100% \>\<img src=\"images/walid3.png\" alt=\"\" width=100% \>\<img src=\"images/walid4.png\" alt=\"\" width=100% \>";
+	$("html, body").animate({
+				scrollTop : $(titre_walid).offset().top -180
+		}, "slow");
+	document.getElementById('fleche3').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("walid").innerHTML = "";
+		document.getElementById('fleche3').style.transform = "rotate(0deg)";
 	}
 })
 };
@@ -122,8 +52,13 @@ for(i=0;i<li;i++){
   liste_brothier[i].addEventListener('click', function() {
 	if (document.getElementById("brothier").innerHTML === "") {
 	document.getElementById("brothier").innerHTML = "\<img src=\"images/brothier1.png\" alt=\"\" width=100% \>\<img src=\"images/brothier2.png\" alt=\"\" width=100% \>";
+	$("html, body").animate({
+				scrollTop : $(titre_brothier).offset().top -180
+		}, "slow");
+		document.getElementById('fleche2').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("brothier").innerHTML = "";
+		document.getElementById('fleche2').style.transform = "rotate(0deg)";
 	}
 })
 };
@@ -133,8 +68,13 @@ for(i=0;i<li;i++){
   liste_gap[i].addEventListener('click', function() {
 	if (document.getElementById("gap").innerHTML === "") {
 	document.getElementById("gap").innerHTML = "\<img src=\"images/urgences_gap.png\" alt=\"\" width=100% \>";
+	$("html, body").animate({
+        scrollTop : $(titre_gap).offset().top -180
+    }, "slow");
+		document.getElementById('fleche1').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("gap").innerHTML = "";
+		document.getElementById('fleche1').style.transform = "rotate(0deg)";
 	}
 })
 };

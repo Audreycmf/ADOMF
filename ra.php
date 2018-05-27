@@ -112,7 +112,12 @@
                             partielle (hypoesthésie) labio-mentonnière. Ces troubles de la sensibilité sont temporaires et récupèrent en quelques semaines dans
                             la grande majorité des cas.
                           </li>
+												</ul>
                       </p>
+											<div id="liens_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/ra.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
                     </section>
 
 								</div>

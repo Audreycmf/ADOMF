@@ -135,7 +135,12 @@
                                 anesthésie ou partielle = hypoesthésie). Elles sont le plus souvent transitoires.</li>
                             </ul>
                           </li>
+												</ul>
                       </p>
+											<div id="liens_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/rebd.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
                     </section>
 
 								</div>

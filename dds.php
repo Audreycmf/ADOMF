@@ -142,7 +142,12 @@
                               <li>La fracture de la mâchoire inférieure reste exceptionnelle.</li>
                             </ul>
                           </li>
+												</ul>
 											</p>
+											<div id="liens_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
 										</section>
 
 								</div>

@@ -23,7 +23,7 @@
 											<header>
 												<h2>Les évènements de l'A.D.O.M.F.</h2>
 											</header>
-                      <h3 class="titre_walid">Journée aixoise d'ortho-chirurgie</h3>
+                      <h3 class="titre_walid" id="titre_walid">Journée aixoise d'ortho-chirurgie<img src="images/fleche.png" alt="" class="fleche" id="fleche3"></h3>
 											<p>
 												Le 29 juin 2018, cette journée a été l'occasion d'échanger avec les orthodontistes, les anesthésistes et les chirurgiens maxillo-faciaux
                         de la région, sur les évolutions de la chirurgie orthognatique (chirurgie des mâchoires). Une bonne collaboration est essentielle entre
@@ -31,13 +31,13 @@
                         patients.
 											</p>
 											<div id="walid"></div>
-                      <h3 class="titre_brothier">4ème réunion d'échanges sur la prise en charge des plaies</h3>
+                      <h3 class="titre_brothier" id="titre_brothier">4ème réunion d'échanges sur la prise en charge des plaies<img src="images/fleche.png" alt="" class="fleche" id="fleche2"></h3>
 											<p>
 												Cette journée a lieu une fois par an à l'hôpital d'Aix-en-Provence et permet d'aborder la prise en charge des plaies et la cicatrisation.
                         Elle est fréquentée par de nombreuses infirmières libérales et hospitalières, permettant l'amélioration au quotidien du réseau ville-hôpital.
 											</p>
 											<div id="brothier"></div>
-                      <h3 class="titre_gap">Les soirées des urgences Haut-Alpines</h3>
+                      <h3 class="titre_gap" id="titre_gap">Les soirées des urgences Haut-Alpines<img src="images/fleche.png" alt="" class="fleche" id="fleche1"></h3>
 											<p>
 												Cette soirée a eu lieu à l'hôpital de Gap le 19 janvier 2017. Elle abordait les pathologies traumatiques ORL et de chirurgie
                         maxillo-faciale. De nombreux médecins et infirmières du département des Hautes-Alpes étaient présents.
