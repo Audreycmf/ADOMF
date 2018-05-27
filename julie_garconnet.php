@@ -106,6 +106,12 @@
                           <li>&laquo; Présentation d’un cas de fibro-odontome améloblastique chez une patiente de 3 ans. &raquo;<br />
                             63ème Congrès de la Société Française de Chirurgie Orale. Toulouse 2015.</li>
                         </ul>
+												<h4>Membre de jury</h4>
+												<ul class="basic-list">
+													<li>201 : Dr .</li>
+													<li>201 : Dr .</li>
+												</ul>
+
 										</section>
 
 								</div>

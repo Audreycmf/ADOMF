@@ -30,7 +30,7 @@
 				);
 			});
 
-//Pour que l'animation n'ait lieu qu'au format desktop
+/*Pour que l'animation n'ait lieu qu'au format desktop
 if (window.matchMedia("(min-width: 737px)").matches) {
 
 		//Augmenter taille des images au clic
@@ -104,7 +104,40 @@ if (window.matchMedia("(min-width: 737px)").matches) {
 				});
 		});
 };
+*/
 
+var liste_walid=document.getElementsByClassName("titre_walid"),li=liste_walid.length,i;
+for(i=0;i<li;i++){
+  liste_walid[i].addEventListener('click', function() {
+	if (document.getElementById("walid").innerHTML === "") {
+	document.getElementById("walid").innerHTML = "\<img src=\"images/walid1.png\" alt=\"\" width=100% \>\<img src=\"images/walid2.png\" alt=\"\" width=100% \>\<img src=\"images/walid3.png\" alt=\"\" width=100% \>\<img src=\"images/walid4.png\" alt=\"\" width=100% \>";
+	} else {
+		document.getElementById("walid").innerHTML = "";
+	}
+})
+};
+
+var liste_brothier=document.getElementsByClassName("titre_brothier"),li=liste_brothier.length,i;
+for(i=0;i<li;i++){
+  liste_brothier[i].addEventListener('click', function() {
+	if (document.getElementById("brothier").innerHTML === "") {
+	document.getElementById("brothier").innerHTML = "\<img src=\"images/brothier1.png\" alt=\"\" width=100% \>\<img src=\"images/brothier2.png\" alt=\"\" width=100% \>";
+	} else {
+		document.getElementById("brothier").innerHTML = "";
+	}
+})
+};
+
+var liste_gap=document.getElementsByClassName("titre_gap"),li=liste_gap.length,i;
+for(i=0;i<li;i++){
+  liste_gap[i].addEventListener('click', function() {
+	if (document.getElementById("gap").innerHTML === "") {
+	document.getElementById("gap").innerHTML = "\<img src=\"images/urgences_gap.png\" alt=\"\" width=100% \>";
+	} else {
+		document.getElementById("gap").innerHTML = "";
+	}
+})
+};
 
 /*
 //Gestion vidéo Sidebar

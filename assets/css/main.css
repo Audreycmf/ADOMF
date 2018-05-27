@@ -1282,6 +1282,15 @@
 		margin-top: 395px;
 	}
 
+	#content .titre_walid, #content .titre_brothier, #content .titre_gap {
+		text-decoration: underline;
+		color:#ed391b;
+	}
+
+	#content .titre_walid:hover, #content .titre_brothier:hover, #content .titre_gap:hover {
+		text-decoration: none;
+	}
+
 	#signature {
 		display: flex;
 		flex-direction: row;

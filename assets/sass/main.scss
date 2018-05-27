@@ -280,6 +280,19 @@
 		}
 	}
 
+	#content {
+		.titre_walid, .titre_brothier, .titre_gap {
+		text-decoration: underline;
+		color:#ed391b;
+		}
+	}
+
+	#content {
+		.titre_walid:hover, .titre_brothier:hover, .titre_gap:hover {
+		text-decoration: none;
+		}
+	}
+
 	#signature {
 		display: flex;
 		flex-direction: row;
