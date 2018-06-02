@@ -16,20 +16,24 @@
 					<div id="content">
 						<div class="container">
 							<div class="row">
-								<div class="9u 12u(mobile)">
+								<div class="12u">
 
 									<!-- Main Content -->
                     <section>
                       <p>
+												La stomatologie est le domaine de la chirurgie maxillo-faciale qui prend en charge l’ensemble des pathologies de la dent et des
+												tissus qui l'environnent (parodonte).<br />
                         La stomatologie comprend principalement trois types d'interventions :
                         <ul class="basic-list">
-                          <li><a href="dds.php">L'avulsion des dents de sagesse.</a></li>
-                          <li><a href="rebd.php">Les extractions dentaires difficiles.</a></li>
-                          <li><a href="ra.php">La résection apicale (kyste apico-dentaire).</a></li>
+                          <li><a href="dds.php">L'avulsion des dents de sagesse</a></li>
+                          <li><a href="rebd.php">Les extractions dentaires difficiles</a></li>
+                          <li><a href="ra.php">La résection apicale (kyste apico-dentaire)</a></li>
                         </ul>
                       </p>
                     </section>
+								</div>
 
+								<div class="9u 12u(mobile)">
 										<section>
 											<header>
 												<h2>L'avulsion des dents de sagesse</h2>
@@ -39,13 +43,13 @@
                         les dents de sagesse ne sont pas sorties correctement sur l’arcade, elles sont dites enclavées (à moitié sorties) ou incluses (bloquées
                         dans l’os).
                       </p>
-                      <h3>Consultation</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
                       <p>
                         L’indication d’extraction des dents de sagesse peut être posées dans les situations suivantes :
                         <ul class="basic-list">
-                          <li>Péricoronarites récidivantes : douleurs et/ou surinfections.C’est souvent le cas de dents de sagesse enclavées.</li>
-                          <li>Après un traitement orthodontique : les dents de sagesse n’auront pas de place suffisante pour sortir et risqueraient de perturber
-                            le bon alignement dentaire obtenu par le traitement orthodontique, donc d’en perdre le bénéfice.</li>
+                          <li>péricoronarites récidivantes : douleurs et/ou surinfections.C’est souvent le cas de dents de sagesse enclavées</li>
+                          <li>après un traitement orthodontique : les dents de sagesse n’auront pas de place suffisante pour sortir et risqueraient de perturber
+                            le bon alignement dentaire obtenu par le traitement orthodontique, donc d’en perdre le bénéfice</li>
                         </ul>
                         La  consultation permettra de déterminer les modalités des extractions et d’expliquer celles-ci, d’évaluer si vous présentez des
                         spécificités. En particulier, la radiographie panoramique montre les rapports entre le nerf sensitif du menton et les racines de la dent
@@ -54,7 +58,7 @@
                         mâchoires) avant l’intervention pour connaître précisément les rapports anatomiques entre le nerf et la dent afin de limiter le risque de
                         complication.
                       </p>
-                      <h3>L’intervention</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
                       <p>
                         L’extraction des dents de sagesse peut se pratiquer :
                         <ul class="basic-list">
@@ -68,26 +72,26 @@
                         minutes par dent. La gencive inférieure est suturée par un fil résorbable (qui disparaît seul en 3 semaines environ). La gencive
                         supérieure ne nécessite pas de suture le plus souvent.
                       </p>
-                      <h3>Suites opératoires</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
-                          <li>des petits saignements pendant les 24 premières heures.</li>
-                          <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours.</li>
-                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre.</li>
-                          <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours.</li>
+                          <li>des petits saignements pendant les 24 premières heures</li>
+                          <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours</li>
+                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre</li>
+                          <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
                         </ul>
                         Les soins post-opératoires comportent:
                         <ul class="basic-list">
-                          <li>des bains de bouche, à débuter seulement 24 heures après l’intervention.</li>
-                          <li>des médicaments contre la douleur (antalgiques).</li>
-                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux).</li>
-                          <li>parfois des antibiotiques et anti-inflammatoires.</li>
-                          <li>une alimentation molle, tiède ou froide pendant les 24 premières heures.</li>
-                          <li>un arrêt du tabac pendant la période postopératoire.</li>
+                          <li>des bains de bouche, à débuter seulement 24 heures après l’intervention</li>
+                          <li>des médicaments contre la douleur (antalgiques)</li>
+                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>parfois des antibiotiques et anti-inflammatoires</li>
+                          <li>une alimentation molle, tiède ou froide pendant les 24 premières heures</li>
+                          <li>un arrêt du tabac pendant la période postopératoire</li>
                         </ul>
                       </p>
-                      <h3>Complications</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

@@ -16,11 +16,13 @@
 					<div id="content">
 						<div class="container">
 							<div class="row">
-								<div class="9u 12u(mobile)">
+								<div class="12u">
 
 									<!-- Main Content -->
                     <section>
                       <p>
+												La stomatologie est le domaine de la chirurgie maxillo-faciale qui prend en charge l’ensemble des pathologies de la dent et des
+												tissus qui l'environnent (parodonte).<br />
                         La stomatologie comprend principalement trois types d'interventions :
                         <ul class="basic-list">
                           <li><a href="dds.php">L'avulsion des dents de sagesse.</a></li>
@@ -29,7 +31,9 @@
                         </ul>
                       </p>
                     </section>
+								</div>
 
+								<div class="9u 12u(mobile)">
                     <section>
                       <header>
                         <h2>Les extractions dentaires difficiles</h2>
@@ -37,23 +41,23 @@
                       <p>
                         Le chirurgien maxillo-facial peut réaliser les extractions dentaires difficiles :
                         <ul class="basic-list">
-                          <li>cas de dent dévitalisée et ankylosée.</li>
-                          <li>cas d'extractions de dents multiples.</li>
-                          <li>présence de kystes plus ou moins volumineux attenant aux dents.</li>
+                          <li>cas de dent dévitalisée et ankylosée</li>
+                          <li>cas d'extractions de dents multiples</li>
+                          <li>présence de kystes plus ou moins volumineux attenant aux dents</li>
                           <li>risques de complications hémorragiques du fait de traitement anti-agrégant (Aspégic&reg;, Kardégic&reg;, Plavix&reg; Efient&reg;)
-                            ou anticoagulant (Préviscan&reg;, Sintron&reg;, Pradaxa&reg;, Xarelto&reg;, Eliquis&reg;).</li>
+                            ou anticoagulant (Préviscan&reg;, Sintron&reg;, Pradaxa&reg;, Xarelto&reg;, Eliquis&reg;)</li>
                           <li>risques de complications ostéonécrotiques du fait de la prise de biphosphonates (Didronel&reg;, Clastoban&reg;, Fosamax&reg;,
-                            Actonel&reg;, Zometa&reg;, Aclasta&reg;, Xgeva&reg;) ou d'antécédent de radiothérapie.</li>
+                            Actonel&reg;, Zometa&reg;, Aclasta&reg;, Xgeva&reg;) ou d'antécédent de radiothérapie</li>
                         </ul>
                         Ces différentes conditions sont bien souvent intriquées les unes aux autres.
                       </p>
-                      <h3>Consultation</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
                       <p>
                         Le chirurgien vous donnera une information objective et compréhensible sur les modalités de votre prise en charge, les risques  et  aléas
                         encourus à être opéré. Celle-ci doit vous permettre de mieux comprendre la chirurgie ou le geste qui vous est proposé. N’hésitez pas à
                         poser les questions que vous souhaitez à votre chirurgien.
                       </p>
-                      <h3>L’intervention</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
                       <p>
                         L'intervention se déroule sous anesthésie locale ou générale en fonction du nombre de dents à extraire, des conditions particulières
                         (allergie, phobie...).<br />
@@ -63,26 +67,26 @@
                         Il se résorbe rapidement.<br />
                         La durée de l’intervention est très variable en fonction des difficultés techniques.
                       </p>
-                      <h3>Suites opératoires</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
-                          <li>des petits saignements pendant les 24 premières heures.</li>
-                          <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours.</li>
-                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre.</li>
-                          <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours.</li>
+                          <li>des petits saignements pendant les 24 premières heures</li>
+                          <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours</li>
+                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre</li>
+                          <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
                         </ul>
                         Les soins post-opératoires comportent:
                         <ul class="basic-list">
-                          <li>des bains de bouche, à débuter seulement 24 heures après l’intervention.</li>
-                          <li>des médicaments contre la douleur (antalgiques).</li>
-                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux).</li>
-                          <li>parfois des antibiotiques et anti-inflammatoires.</li>
-                          <li>une alimentation molle, tiède ou froide pendant les 24 premières heures.</li>
-                          <li>un arrêt du tabac pendant la période postopératoire.</li>
+                          <li>des bains de bouche, à débuter seulement 24 heures après l’intervention</li>
+                          <li>des médicaments contre la douleur (antalgiques)</li>
+                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>parfois des antibiotiques et anti-inflammatoires</li>
+                          <li>une alimentation molle, tiède ou froide pendant les 24 premières heures</li>
+                          <li>un arrêt du tabac pendant la période postopératoire</li>
                         </ul>
                       </p>
-                      <h3>Complications</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

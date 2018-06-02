@@ -28,7 +28,7 @@
 												<ul class="check-list">
 													<li class="lien_gris"><a href="lefort.php">La chirurgie orthognatique</a></li>
 													<li class="lien_gris"><a href="implantologie.php">L'implantologie</a></li>
-													<li class="lien_gris"><a href="cutanee.php">La chirurgie cutanée</a></li>
+													<li class="lien_gris"><a href="cutanee.php">La chirurgie des lésions cutanées</a></li>
 													<li class="lien_gris"><a href="orbito_palpebral.php">La chirurgie orbito-palpébrale</a></li>
 													<li class="lien_gris"><a href="dds.php">La stomatologie</a></li>
 													<li class="lien_gris"><a href="esthetique.php">La chirurgie esthétique</a></li>

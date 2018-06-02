@@ -79,14 +79,6 @@ for(i=0;i<li;i++){
 })
 };
 
-/*
-//Gestion vidéo Sidebar
-
-document.getElementById("video").addEventListener("click", function() {
-	width=200%;
-});
-*/
-
 		// Off-Canvas Navigation.
 
 			// Title Bar.

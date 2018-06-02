@@ -16,12 +16,24 @@
 					<div id="content">
 						<div class="container">
 							<div class="row">
-								<div class="9u 12u(mobile)">
+								<div class="12u">
 
 									<!-- Main Content -->
                     <section>
                       <p>
-                        La chirurgie orthognatique comprend six interventions différentes:
+												La simple prononciation de Chirurgie Orthognatique suffit le plus souvent à inquiéter les patients et leur entourage. Cependant
+												la Chirurgie orthopédique des mâchoires (ou Chirurgie Orthognatique) est actuellement une pratique courante.<br />
+												Etymologiquement, Orthognatique signifie &laquo; rendre les os des mâchoires droits &raquo;. Concrètement il s’agit de corriger
+												les anomalies dento-maxillaires (dysmorphoses dento-maxillaires) responsables de disgrâces faciales (menton trop long/court,
+												visage trop court/long) et d’anomalie des arcades dentaires. Cette chirurgie visant à rétrécir ou rallonger l’os (maxillaire ou
+												mandibule) est précédée et suivie de soins orthodontiques (port de bagues et d’appareils).<br />
+												Grâce à une collaboration et un travail en réseau entre Orthodontistes libéraux et Chirurgiens Maxillo-Faciaux, chaque patient
+												se voit proposer un plan de traitement personnalisé et adapté à son cas. La finalité de la prise en charge est évidemment
+												esthétique (profiloplastie) mais surtout fonctionnelle (mastication, respiration, phonation). Cette chirurgie est également
+												envisageable dans le cadre de la chirurgie pré-implantaire ou pré-prothétique, des ronflements et de l’apnée du sommeil
+												(Cf. fiches correspondantes).<br />
+												Les adolescents mais aussi les adultes peuvent bénéficier d’un traitement orthodontico-chirurgical. En pratique, cette chirurgie
+												fait appel à plusieurs interventions :
                         <ul class="basic-list">
                           <li><a href="lefort.php">L'ostéotomie de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>
                           <li><a href="osbm.php">L'ostéotomie sagittale de branche montante : ostéotomie de la mâchoire inférieure</a></li>
@@ -32,7 +44,9 @@
                         </ul>
                       </p>
                     </section>
+								</div>
 
+								<div class="9u 12u(mobile)">
 										<section>
 											<header>
 												<h2>La disjonction intermaxillaire</h2>
@@ -41,7 +55,7 @@
                         le manque de largeur de la mâchoire supérieure (maxillaire).<br />
                         L’intervention peut être associée à un autre type d’intervention de chirurgie orthognatique (Cf. fiches correspondantes).
                       </p>
-                      <h3>Consultation</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
                       <p>
                         Le praticien va s’enquérir de vos motivations et espérance, examiner votre visage et analyser votre dysmorphose
                         dento-maxillaire. Le praticien pourra à l’issu de cette analyse globale vous donner toute l’information utile sur les
@@ -52,13 +66,13 @@
                             prématuré du visage</li>
                           <li>gène à l’élocution, à la mastication, respiratoire</li>
                           <li>dysfonctionnement de l’articulation temporo-mandibulaire : craquements et claquements, douleurs, contractures musculaires</li>
-                          <li>déchaussements dentaires précoces, impossibilité de réhabilitation prothétique.</li>
+                          <li>déchaussements dentaires précoces, impossibilité de réhabilitation prothétique</li>
                         </ul>
                         Le  praticien vous donnera également quelques recommandations : acquisition d’un jet dentaire, la prise d’aspirine ou
                         d’anti-inflammatoires est déconseillée dans les 10 jours précédents l’intervention. Le tabagisme est également fortement
                         déconseillé.
                       </p>
-                      <h3>L’intervention</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
                       <p>
                         Elle est préalablement simulée sur des modèles en plâtre (réalisés à partir de vos empreintes dentaires). Un guide (plan de
                         morsure) est fabriqué et permettra un contrôle pendant l’intervention réelle.<br />
@@ -71,30 +85,30 @@
                         L’intervention dure 1 heure. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
                         La mâchoire retrouve une solidité normale en 6 semaines.<br />
                       </p>
-                      <h3>Suites opératoires</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
-                          <li>un oedème (gonflement) des joues quasi systématique et important la première semaine.</li>
-                          <li>des petits saignements pendant les 24 premières heures.</li>
-                          <li>des douleurs modérées, contrôlées par les antalgiques prescrits et disparaissant en général en quelques jours.</li>
-                          <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours.</li>
+                          <li>un oedème (gonflement) des joues quasi systématique et important la première semaine</li>
+                          <li>des petits saignements pendant les 24 premières heures</li>
+                          <li>des douleurs modérées, contrôlées par les antalgiques prescrits et disparaissant en général en quelques jours</li>
+                          <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
                         </ul>
                         Les soins post-opératoires comportent:
                         <ul class="basic-list">
-                          <li>une hygiène bucco-dentaire irréprochable; bains de bouche, jet dentaire.</li>
-                          <li>des médicaments contre la douleur (antalgiques).</li>
+                          <li>une hygiène bucco-dentaire irréprochable; bains de bouche, jet dentaire</li>
+                          <li>des médicaments contre la douleur (antalgiques)</li>
                           <li>la mise en place d’un guidage élastique entre les 2 mâchoires le lendemain de l’intervention (ne gêne pas pour parler,
-                            retiré pour les repas et séances d’auto-rééducation).</li>
-                          <li>une vessie de glace (effets antalgique, anti-inflammatoire et anti-oedémateux).</li>
-                          <li>des antibiotiques.</li>
-                          <li>apprentissage de l’auto-rééducation de l’ouverture buccale.</li>
-                          <li>une alimentation molle pendant 1 mois.</li>
-                          <li>un arrêt du tabac pendant la période postopératoire.</li>
-                          <li>reprise des soins d’orthodontie après 1 mois pour réaliser les ʺfinitionsʺ pendant un semestre en principe.</li>
+                            retiré pour les repas et séances d’auto-rééducation)</li>
+                          <li>une vessie de glace (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>des antibiotiques</li>
+                          <li>apprentissage de l’auto-rééducation de l’ouverture buccale</li>
+                          <li>une alimentation molle pendant 1 mois</li>
+                          <li>un arrêt du tabac pendant la période postopératoire</li>
+                          <li>reprise des soins d’orthodontie après 1 mois pour réaliser les ʺfinitionsʺ pendant un semestre en principe</li>
                         </ul>
                       </p>
-                      <h3>Complications</h3>
+                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une ostéotomie de Le Fort, le risque de complication n’est pas nul.<br />
@@ -123,11 +137,11 @@
                             intervention avec greffes osseuses et une nouvelle ostéosynthèse.
                           </li>
                           <li>Autres complications :
-                            <ul class="level2_list">
+                            <ol class="level2_list">
                               <li>récidive d’un trouble de l’occlusion dentaire</li>
                               <li>décompensation d’un dysfonctionnement de l’articulation des mâchoires préexistant</li>
                               <li>paralysie musculaire</li>
-                            </ul>
+                            </ol>
                           </li>
 												</ul>
 											</p>
