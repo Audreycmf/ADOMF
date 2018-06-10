@@ -1335,6 +1335,10 @@
 		margin: 0 0 -2px 8px;
 	}
 
+	#content i {
+		font-style: italic;
+	}
+
 	#signature {
 		display: flex;
 		flex-direction: row;

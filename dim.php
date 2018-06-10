@@ -160,8 +160,7 @@
 												<h2>La disjonction intermaxillaire</h2>
 											</header>
                       <h3>Simulation sur plâtre</h3>
-                      <img src="images/gouttiere1" alt="" width=100% />
-                      <img src="images/gouttiere2" alt="" width=100% />
+											<img src="images/articulateur.png" alt="" width=100% />
 										</section>
 
 								</div>

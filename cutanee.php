@@ -16,7 +16,7 @@
 					<div id="content">
 						<div class="container">
 							<div class="row">
-								<div class="9u 12u(mobile)">
+								<div class="12u">
 
 									<!-- Main Content -->
                     <section>
@@ -30,7 +30,9 @@
                         pour fermer la perte de substance tissulaire).
                       </p>
                     </section>
+									</div>
 
+									<div class="9u 12u(mobile)">
 										<section>
                       <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Techniques</h3>
 											<p>

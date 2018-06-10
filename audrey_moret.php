@@ -87,50 +87,50 @@
 										<section>
                       <h3>Activité d'enseignement</h3>
                       <ul class="basic-list">
-												<li>&laquo; Cancérologie, principes de traitement et reconstruction &raquo;<br />
-													Cours aux kinésithérapeutes. CHU Trousseau, Tours 2012</li>
-												<li>&laquo; Urgences en chirurgie maxillo-faciale &raquo;<br />
-													Cours aux internes des urgences. Aix-en-Provence 2016-2017</li>
-												<li>&laquo; La prise en charge de la traumatologie maxillo-faciale de l’étage moyen de la face &raquo;<br />
-													Les soirées des urgences Haut-Alpines. CHICAS, Gap 2017</li>
+												<li>Cancérologie, principes de traitement et reconstruction<br />
+													<i>Cours aux kinésithérapeutes. CHU Trousseau, Tours 2012</i></li>
+												<li>Urgences en chirurgie maxillo-faciale<br />
+													<i>Cours aux internes des urgences. Aix-en-Provence 2016-2017</i></li>
+												<li>La prise en charge de la traumatologie maxillo-faciale de l’étage moyen de la face<br />
+													<i>Les soirées des urgences Haut-Alpines. CHICAS, Gap 2017</i></li>
 											</ul>
 										</section>
 										<section>
                       <h3>Travaux scientifiques</h3>
                         <h4>Thèse et mémoires</h4>
-                        <ul class="basic-list">
-                          <li>&laquo; Mélanome sur mélanose de Dubreuilh &raquo;<br />
-                            Mémoire pour DU de chirurgie réparatrice des cancers cutanés de la face - Université Angers - 2013</li>
-                          <li>&laquo; Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ? &raquo;<br />
-                            Thèse de médecine - Université Tours François Rabelais - 16 octobre 2015</li>
+                        <ul class="quote-list">
+                          <li>Mélanome sur mélanose de Dubreuilh<br />
+                            <i>Mémoire pour DU de chirurgie réparatrice des cancers cutanés de la face - Université Angers - 2013</i></li>
+                          <li>Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ?<br />
+                            <i>Thèse de médecine - Université Tours François Rabelais - 16 octobre 2015</i></li>
                         </ul>
                         <h4>Communications orales</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ? &raquo;<br />
-                            51ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Lyon 2015</li>
-													<li>&laquo; Cicatrices physiologiques et pathologiques, prise en charge &raquo;<br />
-														4ème réunion d'échanges sur la prise en charge des plaies. Aix-en-Provence 2018</li>
+                          <li>Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ?<br />
+                            <i>51ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Lyon 2015</i></li>
+													<li>Cicatrices physiologiques et pathologiques, prise en charge<br />
+														<i>4ème réunion d'échanges sur la prise en charge des plaies. Aix-en-Provence 2018</i></li>
                         </ul>
                         <h4>Publications dans les revues scientifiques</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Le carcinome myoépithélial de la glande lacrymale &raquo;<br />
-                            Revue de stomatologie, chirurgie maxillo-faciale et chirurgie orale, 2014;115(3):172-7</li>
-                          <li>&laquo; Orbitofrontal monobloc advancement for Crouzon syndrome &raquo;<br />
-														Journal of Cranio-Maxillo-Facial Surgery, 2014;42(6):e335-8</li>
-                          <li>&laquo; Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ? &raquo;<br />
-														Annales de chirurgie plastique et esthétique, 2015;60(4):276-83</li>
-                          <li>&laquo; Frontofacial Monobloc Advancement With Simultaneous Frontal Cranioplasty in Adolescents With Residual Apert
-														Syndrome Deformations &raquo;<br />
-                            The Journal of Craniofacial Surgery, 2015;26(7):2059-61</li>
-                          <li>&laquo; Le recours à la chirurgie orthognatique pré-prothétique &raquo;<br />
-                            Dentoscope, 2017;176:36-40</li>
-													<li>&laquo; Linear hyperpigmentation of the right upper eyelid &raquo;<br />
+                          <li>Le carcinome myoépithélial de la glande lacrymale<br />
+                            <i>Revue de stomatologie, chirurgie maxillo-faciale et chirurgie orale, 2014;115(3):172-7</i></li>
+                          <li>Orbitofrontal monobloc advancement for Crouzon syndrome<br />
+														<i>Journal of Cranio-Maxillo-Facial Surgery, 2014;42(6):e335-8</i></li>
+                          <li>Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ?<br />
+														<i>Annales de chirurgie plastique et esthétique, 2015;60(4):276-83</i></li>
+                          <li>Frontofacial Monobloc Advancement With Simultaneous Frontal Cranioplasty in Adolescents With Residual Apert
+														Syndrome Deformations<br />
+                            <i>The Journal of Craniofacial Surgery, 2015;26(7):2059-61</i></li>
+                          <li>Le recours à la chirurgie orthognatique pré-prothétique<br />
+                            <i>Dentoscope, 2017;176:36-40</i></li>
+													<li>Linear hyperpigmentation of the right upper eyelid<br />
 													</li>
                         </ul>
                         <h4>Posters</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Linear hyperpigmentation of the right upper eyelid &raquo;<br />
-														54ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Marseille 2018</li>
+                          <li>Linear hyperpigmentation of the right upper eyelid<br />
+														<i>54ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Marseille 2018</i></li>
                         </ul>
 										</section>
 										<section>

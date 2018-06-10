@@ -35,26 +35,26 @@ var liste_walid=document.getElementsByClassName("titre_walid"),li=liste_walid.le
 for(i=0;i<li;i++){
   liste_walid[i].addEventListener('click', function() {
 	if (document.getElementById("walid").innerHTML === "") {
-	document.getElementById("walid").innerHTML = "\<img src=\"images/walid1.png\" alt=\"\" width=100% \>\<img src=\"images/walid2.png\" alt=\"\" width=100% \>\<img src=\"images/walid3.png\" alt=\"\" width=100% \>\<img src=\"images/walid4.png\" alt=\"\" width=100% \>";
-	$("html, body").animate({
-				scrollTop : $(titre_walid).offset().top -180
-		}, "slow");
-	document.getElementById('fleche3').style.transform = "rotate(90deg)";
+		document.getElementById("walid").innerHTML = "\<img src=\"images/walid1.png\" alt=\"\" width=100% \>\<img src=\"images/walid2.png\" alt=\"\" width=100% \>\<img src=\"images/walid3.png\" alt=\"\" width=100% \>\<img src=\"images/walid4.png\" alt=\"\" width=100% \>";
+		$("html, body").animate({
+					scrollTop : $(titre_walid).offset().top -180
+			}, "slow");
+		document.getElementById('fleche3').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("walid").innerHTML = "";
 		document.getElementById('fleche3').style.transform = "rotate(0deg)";
 	}
 })
-};
+};1
 
 var liste_brothier=document.getElementsByClassName("titre_brothier"),li=liste_brothier.length,i;
 for(i=0;i<li;i++){
   liste_brothier[i].addEventListener('click', function() {
 	if (document.getElementById("brothier").innerHTML === "") {
-	document.getElementById("brothier").innerHTML = "\<img src=\"images/brothier1.png\" alt=\"\" width=100% \>\<img src=\"images/brothier2.png\" alt=\"\" width=100% \>";
-	$("html, body").animate({
-				scrollTop : $(titre_brothier).offset().top -180
-		}, "slow");
+		document.getElementById("brothier").innerHTML = "\<img src=\"images/brothier1.png\" alt=\"\" width=100% \>\<img src=\"images/brothier2.png\" alt=\"\" width=100% \>";
+		$("html, body").animate({
+					scrollTop : $(titre_brothier).offset().top -180
+			}, "slow");
 		document.getElementById('fleche2').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("brothier").innerHTML = "";
@@ -67,10 +67,10 @@ var liste_gap=document.getElementsByClassName("titre_gap"),li=liste_gap.length,i
 for(i=0;i<li;i++){
   liste_gap[i].addEventListener('click', function() {
 	if (document.getElementById("gap").innerHTML === "") {
-	document.getElementById("gap").innerHTML = "\<img src=\"images/urgences_gap.png\" alt=\"\" width=100% \>";
-	$("html, body").animate({
-        scrollTop : $(titre_gap).offset().top -180
-    }, "slow");
+		document.getElementById("gap").innerHTML = "\<img src=\"images/urgences_gap.png\" alt=\"\" width=100% \>";
+		$("html, body").animate({
+	        scrollTop : $(titre_gap).offset().top -180
+	    }, "slow");
 		document.getElementById('fleche1').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("gap").innerHTML = "";
@@ -78,6 +78,7 @@ for(i=0;i<li;i++){
 	}
 })
 };
+
 
 		// Off-Canvas Navigation.
 

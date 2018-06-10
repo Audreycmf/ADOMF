@@ -169,8 +169,7 @@
 												<h2>L'ostéotomie d'Obwegeser-Dalpont</h2>
 											</header>
                       <h3>Simulation sur plâtre</h3>
-                      <img src="images/gouttiere1" alt="" width=100% />
-                      <img src="images/gouttiere2" alt="" width=100% />
+											<img src="images/articulateur.png" alt="" width=100% />
                       <h3>Vidéo d'une ostéotomie mandibulaire</h3>
                       <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=67&end=93" frameborder="0" allowfullscreen></iframe>
                     </section>

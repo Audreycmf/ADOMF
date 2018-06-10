@@ -35,12 +35,12 @@
 												Les adolescents mais aussi les adultes peuvent bénéficier d’un traitement orthodontico-chirurgical. En pratique, cette chirurgie
 												fait appel à plusieurs interventions :
                         <ul class="basic-list">
-                          <li><a href="lefort.php">L'ostéotomie de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>
-                          <li><a href="osbm.php">L'ostéotomie sagittale de branche montante : ostéotomie de la mâchoire inférieure</a></li>
-                          <li><a href="bimax.php">L'ostéotomie bimaxillaire, qui est une combinaison des deux précédentes</a></li>
-                          <li><a href="dim.php">La disjonction intermaxillaire</a></li>
-                          <li><a href="contraction.php">La contraction mandibulaire</a></li>
-                          <li><a href="genio.php">La génioplastie ou mentoplastie</a></li>
+                          <li><a href="lefort.php" id="lefort">L'ostéotomie de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>
+                          <li><a href="osbm.php" class="interventions">L'ostéotomie sagittale de branche montante : ostéotomie de la mâchoire inférieure</a></li>
+                          <li><a href="bimax.php" class="interventions">L'ostéotomie bimaxillaire, qui est une combinaison des deux précédentes</a></li>
+                          <li><a href="dim.php" class="interventions">La disjonction intermaxillaire</a></li>
+                          <li><a href="contraction.php" class="interventions">La contraction mandibulaire</a></li>
+                          <li><a href="genio.php" id="genio">La génioplastie ou mentoplastie</a></li>
                         </ul>
                       </p>
                     </section>
@@ -166,8 +166,7 @@
 												<h2>L'ostéotomie de Le Fort I</h2>
 											</header>
                       <h3>Simulation sur plâtre</h3>
-                      <img src="images/gouttiere1" alt="" width=100% />
-                      <img src="images/gouttiere2" alt="" width=100% />
+                      <img src="images/articulateur.png" alt="" width=100% />
                       <h3>Vidéo d'une ostéotomie de Le Fort I</h3>
 											<iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=29&end=65" frameborder="0" allowfullscreen></iframe>
 										</section>

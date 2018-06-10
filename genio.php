@@ -16,7 +16,7 @@
 					<div id="content">
 						<div class="container">
 							<div class="row">
-								<div class="9u 12u(mobile)">
+								<div class="12u">
 
 									<!-- Main Content -->
                     <section>
@@ -44,7 +44,9 @@
                         </ul>
                       </p>
                     </section>
+									</div>
 
+									<div class="9u 12u(mobile)">
 										<section>
 											<header>
 												<h2>La génioplastie ou mentoplastie</h2>
