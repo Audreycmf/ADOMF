@@ -45,7 +45,7 @@
                       </p>
                       <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L'orthèse d'avancée mandibulaire</h3>
                       <p>
-                        Il s’agit d’un <a href="#oam">dispositif buccal</a> qui permet de maintenir la mâchoire inférieure en position avancée durant le sommeil. Cette 
+                        Il s’agit d’un <a href="#oam">dispositif buccal</a> qui permet de maintenir la mâchoire inférieure en position avancée durant le sommeil. Cette
                         avancée maintenue libère le passage de l’air au niveau du pharynx et élimine ou diminue le phénomène d’obstruction.
                       </p>
                       <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La chirurgie</h3>
@@ -71,7 +71,7 @@
                       <h3>La pression positive continue nasale</h3>
                       <img src="images/ppc.jpg" alt="" width=100% id="ppc">
                       <h3>L'orthèse d'avancée mandibulaire</h3>
-                      <img src="images/oam.jpeg" alt="" width=100% id="oam">
+                      <img src="images/oam.png" alt="" width=100% id="oam">
                     </section>
 
 								</div>

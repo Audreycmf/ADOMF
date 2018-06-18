@@ -20,8 +20,8 @@
 
 										<!-- Feature #1 -->
 											<section>
-												<a href="#" class="bordered-feature-image"><img src="images/pic01.jpg" alt="" /></a>
-												<h2>Les chirurgiens à votre écoute</h2>
+												<a href="equipe.php" class="bordered-feature-image"><img src="images/photo_equipe.jpeg" alt="" /></a>
+												<h2>L'équipe à votre écoute</h2>
 											</section>
 
 									</div>

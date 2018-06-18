@@ -39,10 +39,10 @@ for(i=0;i<li;i++){
 		$("html, body").animate({
 					scrollTop : $(titre_walid).offset().top -180
 			}, "slow");
-		document.getElementById('fleche3').style.transform = "rotate(90deg)";
+		document.getElementById('fleche4').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("walid").innerHTML = "";
-		document.getElementById('fleche3').style.transform = "rotate(0deg)";
+		document.getElementById('fleche4').style.transform = "rotate(0deg)";
 	}
 })
 };1
@@ -55,10 +55,10 @@ for(i=0;i<li;i++){
 		$("html, body").animate({
 					scrollTop : $(titre_brothier).offset().top -180
 			}, "slow");
-		document.getElementById('fleche2').style.transform = "rotate(90deg)";
+		document.getElementById('fleche3').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("brothier").innerHTML = "";
-		document.getElementById('fleche2').style.transform = "rotate(0deg)";
+		document.getElementById('fleche3').style.transform = "rotate(0deg)";
 	}
 })
 };
@@ -71,9 +71,25 @@ for(i=0;i<li;i++){
 		$("html, body").animate({
 	        scrollTop : $(titre_gap).offset().top -180
 	    }, "slow");
-		document.getElementById('fleche1').style.transform = "rotate(90deg)";
+		document.getElementById('fleche2').style.transform = "rotate(90deg)";
 	} else {
 		document.getElementById("gap").innerHTML = "";
+		document.getElementById('fleche2').style.transform = "rotate(0deg)";
+	}
+})
+};
+
+var liste_humanitaire=document.getElementsByClassName("titre_humanitaire"),li=liste_humanitaire.length,i;
+for(i=0;i<li;i++){
+  liste_gap[i].addEventListener('click', function() {
+	if (document.getElementById("humanitaire").innerHTML === "") {
+		document.getElementById("humanitaire").innerHTML = "\<img src=\"images/urgences_gap.png\" alt=\"\" width=100% \>";
+		$("html, body").animate({
+	        scrollTop : $(titre_humanitaire).offset().top -180
+	    }, "slow");
+		document.getElementById('fleche1').style.transform = "rotate(90deg)";
+	} else {
+		document.getElementById("humanitaire").innerHTML = "";
 		document.getElementById('fleche1').style.transform = "rotate(0deg)";
 	}
 })

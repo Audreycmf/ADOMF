@@ -21,17 +21,6 @@
 									<!-- Main Content -->
                     <section>
                       <p>
-												La simple prononciation de Chirurgie Orthognatique suffit le plus souvent à inquiéter les patients et leur entourage. Cependant
-												la Chirurgie orthopédique des mâchoires (ou Chirurgie Orthognatique) est actuellement une pratique courante.<br />
-												Etymologiquement, Orthognatique signifie &laquo; rendre les os des mâchoires droits &raquo;. Concrètement il s’agit de corriger
-												les anomalies dento-maxillaires (dysmorphoses dento-maxillaires) responsables de disgrâces faciales (menton trop long/court,
-												visage trop court/long) et d’anomalie des arcades dentaires. Cette chirurgie visant à rétrécir ou rallonger l’os (maxillaire ou
-												mandibule) est précédée et suivie de soins orthodontiques (port de bagues et d’appareils).<br />
-												Grâce à une collaboration et un travail en réseau entre Orthodontistes libéraux et Chirurgiens Maxillo-Faciaux, chaque patient
-												se voit proposer un plan de traitement personnalisé et adapté à son cas. La finalité de la prise en charge est évidemment
-												esthétique (profiloplastie) mais surtout fonctionnelle (mastication, respiration, phonation). Cette chirurgie est également
-												envisageable dans le cadre de la chirurgie pré-implantaire ou pré-prothétique, des ronflements et de l’apnée du sommeil
-												(Cf. fiches correspondantes).<br />
 												Les adolescents mais aussi les adultes peuvent bénéficier d’un traitement orthodontico-chirurgical. En pratique, cette chirurgie
 												fait appel à plusieurs interventions :
                         <ul class="basic-list">
