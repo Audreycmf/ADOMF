@@ -19,7 +19,7 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
-                    <section>
+                    <section class="presentation">
                       <header>
                         <h2>Présentation</h2>
                       </header>
@@ -46,14 +46,25 @@
 
 									<!-- Main Content -->
 										<section>
-											<header>
+											<header class="center">
 												<h2>Docteur Audrey Moret</h2>
+                      	<img src="images/photo_moret.jpg" class="bordered-feature-image" alt="" /></a>
 											</header>
-                      <img src="images/photo_moret.jpg" class="bordered-feature-image" alt="" /></a>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
 												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
+											<div class="presentation_mobile">
+	                      <header>
+	                        <h2>Présentation</h2>
+	                      </header>
+	                      <p>
+													Le docteur Audrey Moret possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
+													Spécialiste de la chirurgie de la face et de son squelette, elle pourra vous conseiller et vous proposer le traitement prenant en compte
+													tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Il permet d’assumer dans leur
+													globalité les différentes pathologies du visage (malformations, vieillissement, traumatismes).
+	                      </p>
+	                    </div>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
                         <li>2010 : Internat des Hôpitaux de Tours</li>
@@ -98,7 +109,7 @@
 										<section>
                       <h3>Travaux scientifiques</h3>
                         <h4>Thèse et mémoires</h4>
-                        <ul class="quote-list">
+                        <ul class="basic-list">
                           <li>Mélanome sur mélanose de Dubreuilh<br />
                             <i>Mémoire pour DU de chirurgie réparatrice des cancers cutanés de la face - Université Angers - 2013</i></li>
                           <li>Correction de l’énophtalmie post-traumatique par greffe osseuse : pourquoi des résultats inconstants ?<br />

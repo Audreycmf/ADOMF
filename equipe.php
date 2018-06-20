@@ -61,7 +61,7 @@
                       <a href="" class="portrait_sidebar"><img src="images/photo_desouches.jpg" alt="" /></a>
                       <h3>Renaud Desouches</h3>
 											<p>
-												Chirurgien dentiste Spécialiste qualifié en ODF (orthodontie), Exercice privé à Aix-en-Provence.<br />
+												Chirurgien dentiste Spécialiste qualifié en orthodontie (ODF), Exercice privé à Aix-en-Provence.<br />
 												Cofondateur et secrétaire de l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />
 												Membre actif des consultations pluridisciplinaires des dysmorphoses dento-faciales.
 											</p>

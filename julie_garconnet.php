@@ -44,13 +44,22 @@
 
 									<!-- Main Content -->
 										<section>
-											<header>
+											<header class="center">
 												<h2>Docteur Julie Garçonnet</h2>
 											</header>
                       <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="" /></a>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
 												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+											<div class="presentation_mobile">
+												<header>
+	                        <h2>Présentation</h2>
+	                      </header>
+	                      <p>
+													Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
+													cavité orale (bouche), tant dans le domaine médical que dans le domaine chirurgical.
+	                      </p>
 											</div>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
@@ -73,44 +82,47 @@
 										<section>
                       <h3>Activité d'enseignement</h3>
                       <ul class="basic-list">
-												<li>2016 : Cours sur l'insuffisance hépatique aux étudiants de 4ème année de la faculté dentaire à Marseille</li>
-												<li>2016 : Cours sur les urgences médicales au cabinet dentaire au DU d'implantologie à Marseille</li>
-												<li>2017 : Cours sur les pathologies infectieuses aux écuries à la préparation de l'internat dentaire à Marseille</li>
-                        <li>2018 : Cours sur les urgences en chirurgie maxillo-faciale pour les internes des urgences et de chirurgie de l'Hôpital
-													d'Aix-en-Provence</li>
+												<li>L'insuffisance hépatique<br />
+													<i>Cours aux étudiants de 4ème année. Faculté dentaire, Marseille 2016</i></li>
+												<li>Les urgences médicales au cabinet dentaire<br />
+													<i>DU d'implantologie. Marseille 2016</i></li>
+												<li>Les pathologies infectieuses<br />
+													<i>Cours aux écuries à la préparation de l'internat dentaire. Marseille 2017</i></li>
+                        <li>Les urgences en chirurgie maxillo-faciale<br />
+													<i>Cours aux internes des urgences et de chirurgie de l'Hôpital. Aix-en-Provence 2018</i></li>
 											</ul>
 										</section>
 										<section>
                       <h3>Travaux scientifiques</h3>
                         <h4>Thèse et mémoires</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Evaluation de la compréhension de l’information après avulsion des dents de sagesse &raquo;<br />
-                            Thèse de médecine - Aix-Marseille Université - 10 octobre 2016</li>
-														<li>&laquo; CAD en implantologie dentaire &raquo;<br />
-														Mémoire pour le DU d'implantologie - Université Jean Jaurès - 2018</li>
+                          <li>Evaluation de la compréhension de l’information après avulsion des dents de sagesse<br />
+                            <i>Thèse de médecine - Aix-Marseille Université - 10 octobre 2016</i></li>
+													<li>CAD en implantologie dentaire<br />
+														<i>Mémoire pour le DU d'implantologie - Université Jean Jaurès - 2018</i></li>
                         </ul>
                         <h4>Communications orales</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Traitement des complications dentaires dues aux vis de blocage &raquo;<br />
-                            51ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2015</li>
-                          <li>&laquo; Evaluation de la compréhension de l’information après avulsion des dents de sagesse &raquo;<br />
-                            52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016</li>
-													<li>&laquo; La chéilite granulomateuse de Miescher : à propos de 2 cas, difficulté de diagnoqtic et revue de la littérature &raquo;<br />
-														52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016</li>
+                          <li>Traitement des complications dentaires dues aux vis de blocage<br />
+                            <i>51ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2015</i></li>
+                          <li>Evaluation de la compréhension de l’information après avulsion des dents de sagesse<br />
+                            <i>52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016</i></li>
+													<li>La chéilite granulomateuse de Miescher : à propos de 2 cas, difficulté de diagnoqtic et revue de la littérature<br />
+														<i>52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016</i></li>
                         </ul>
                         <h4>Publications dans les revues scientifiques</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Suture du nerf lingual : note technique &raquo;<br />
-                            Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale, 2015; 116:143-6</li>
-                          <li>&laquo; Fibro-odontome améloblastique mandibulaire chez une patiente de 3 ans &raquo;<br />
-                            Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale, 2016; 117:429-432</li>
+                          <li>Suture du nerf lingual : note technique<br />
+                            <i>Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale, 2015; 116:143-6</i></li>
+                          <li>Fibro-odontome améloblastique mandibulaire chez une patiente de 3 ans<br />
+                            <i>Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale, 2016; 117:429-432</i></li>
                         </ul>
                         <h4>Posters</h4>
                         <ul class="basic-list">
-                          <li>&laquo; Evaluation de la compréhension de l’information après avulsion des dents de sagesse &raquo;<br />
-                            50ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2014</li>
-                          <li>&laquo; Présentation d’un cas de fibro-odontome améloblastique chez une patiente de 3 ans &raquo;<br />
-                            63ème Congrès de la Société Française de Chirurgie Orale. Toulouse 2015</li>
+                          <li>Evaluation de la compréhension de l’information après avulsion des dents de sagesse<br />
+                            <i>50ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2014</i></li>
+                          <li>Présentation d’un cas de fibro-odontome améloblastique chez une patiente de 3 ans<br />
+                            <i>63ème Congrès de la Société Française de Chirurgie Orale. Toulouse 2015</i></li>
                         </ul>
 												<h4>Membre de jury</h4>
 												<ul class="basic-list">

@@ -71,7 +71,6 @@
 	}
 
 	h4 {
-		font-style: italic;
 		font-size: 1.1em;
 		padding: 0.7em 0 0.7em 45px;
 		background: url("images/icon-checkmark.png") 0px 1.05em no-repeat;
@@ -331,14 +330,14 @@
 	}
 
 	#content {
-		.titre_walid, .titre_brothier, .titre_gap {
+		.titre_walid, .titre_brothier, .titre_gap, .titre_humanitaire {
 		text-decoration: underline;
 		color:#ed391b;
 		}
 	}
 
 	#content {
-		.titre_walid:hover, .titre_brothier:hover, .titre_gap:hover {
+		.titre_walid:hover, .titre_brothier:hover, .titre_gap:hover, .titre_humanitaire:hover {
 		text-decoration: none;
 		cursor: pointer;
 		}
@@ -364,8 +363,30 @@
 		margin-right: 10px;
 	}
 
-	.imagerie h3 {
+	.imagerie {
+		h3 {
 		margin: 20px 0 10px 0;
+		}
+	}
+
+	.remarque {
+		display:none;
+	}
+
+	#content {
+		.center {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		}
+	}
+
+	#content {
+		.center {
+			h2 {
+				margin-bottom: 30px;
+				}
+			}
 	}
 
 /* Footer */
@@ -581,6 +602,10 @@
 					margin: 0 0 2em 0;
 				}
 			}
+
+				.presentation_mobile {
+					display: none;
+				}
 
 		/* Footer */
 
@@ -902,6 +927,15 @@
 
 			.coche_rouge {
 				width: 7%;
+			}
+
+
+			.presentation {
+				display: none;
+			}
+
+			.presentation_mobile {
+				margin-top: 40px;
 			}
 
 		/* Footer */
