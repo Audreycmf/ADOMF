@@ -78,7 +78,7 @@
                         Les soins opératoires comportent des soins locaux pendant une période de 8 à 10 jours jusqu’à l’ablation des points.
                         Les suites post-opératoires sont :
                         <ul class="basic-list">
-                          <li>une dépression résiduelle existant parfois en arrière de l'angle de la mâchoire/li>
+                          <li>une dépression résiduelle existant parfois en arrière de l'angle de la mâchoire</li>
                           <li>une perte de sensibilité du pavillon de l'oreille fréquente en post-opératoire. Cela s'atténuera avec le temps</li>
                           <li>une parésie (paralysie incomplète) de l’hémiface du côté opéré. Son intensité est variable. Elle est temporaire. La
                             récupération d'une mobilité normale prend environ 1 à 3 mois. Lorsque la parésie est importante, des séances de

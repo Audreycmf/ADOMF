@@ -54,17 +54,19 @@
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
 												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
-											<div class="presentation_mobile">
-	                      <header>
-	                        <h2>Présentation</h2>
-	                      </header>
-	                      <p>
-													Le docteur Audrey Moret possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
-													Spécialiste de la chirurgie de la face et de son squelette, elle pourra vous conseiller et vous proposer le traitement prenant en compte
-													tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Il permet d’assumer dans leur
-													globalité les différentes pathologies du visage (malformations, vieillissement, traumatismes).
-	                      </p>
-	                    </div>
+										</section>
+										<section class="presentation_mobile">
+                      <header>
+                        <h2>Présentation</h2>
+                      </header>
+                      <p>
+												Le docteur Audrey Moret possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
+												Spécialiste de la chirurgie de la face et de son squelette, elle pourra vous conseiller et vous proposer le traitement prenant en compte
+												tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Il permet d’assumer dans leur
+												globalité les différentes pathologies du visage (malformations, vieillissement, traumatismes).
+                      </p>
+                    </section>
+										<section>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
                         <li>2010 : Internat des Hôpitaux de Tours</li>

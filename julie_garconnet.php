@@ -46,21 +46,23 @@
 										<section>
 											<header class="center">
 												<h2>Docteur Julie Garçonnet</h2>
-											</header>
                       <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="" /></a>
+											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
 												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
-											<div class="presentation_mobile">
-												<header>
-	                        <h2>Présentation</h2>
-	                      </header>
-	                      <p>
-													Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
-													cavité orale (bouche), tant dans le domaine médical que dans le domaine chirurgical.
-	                      </p>
-											</div>
+										</section>
+										<section class="presentation_mobile">
+											<header>
+                        <h2>Présentation</h2>
+                      </header>
+                      <p>
+												Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
+												cavité orale (bouche), tant dans le domaine médical que dans le domaine chirurgical.
+                      </p>
+										</section>
+										<section>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
                         <li>2012 : Internat de Chirurgie Orale à Marseille</li>

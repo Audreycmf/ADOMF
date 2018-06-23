@@ -52,22 +52,24 @@
 										<section>
 											<header class="center">
 												<h2>Docteur Pierre Revol</h2>
-											</header>
                       <img src="images/photo_revol.jpg" class="bordered-feature-image" alt="" /></a>
+											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
 												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
-											<div class="presentation_mobile">
-												<header>
-	                        <h2>Présentation</h2>
-	                      </header>
-	                      <p>
-	                        Le docteur Revol est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
-	                        de service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Par ailleurs, il est amené à participer à des
-	                        missions humanitaires.
-	                      </p>
-											</div>
+										</section>
+										<section class="presentation_mobile">
+											<header>
+                        <h2>Présentation</h2>
+                      </header>
+                      <p>
+                        Le docteur Revol est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
+                        de service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Par ailleurs, il est amené à participer à des
+                        missions humanitaires.
+                      </p>
+										</section>
+										<section>
                       <h3>Titres et diplômes</h3>
 											<ul class="basic-list">
                         <li>1997 : Internat des Hôpitaux de Lyon</li>
