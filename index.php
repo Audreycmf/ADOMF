@@ -55,38 +55,38 @@
 											<h2>Qu'est-ce que la chirurgie maxillo-faciale ?</h2>
 											<p>
 												Les Deux guerres mondiales du XXème siècle ont été pourvoyeuses d'un grand nombre de traumatismes faciaux majeurs à l'origine
-												des  célèbres  "Gueules  cassées".  Un  blessé  qui  survivait  était  toujours  défiguré.  Certains  chirurgiens  se  sont  alors  réellement
-												penchés  sur  l'art  de  la  chirurgie  plastique  et  reconstructrice  de  la  face.  Ils  se  sont  spécialisés  dans la  chirurgie  du
+												des célèbres "Gueules cassées". Un blessé qui survivait était toujours défiguré. Certains chirurgiens se sont alors réellement
+												penchés sur l'art de la chirurgie plastique et reconstructrice de la face. Ils se sont spécialisés dans la chirurgie du
 												visage : la chirurgie maxillo-faciale était née. </br>
-												Dès  le  départ,  ces  chirurgiens  avaient  compris  qu'il  était  inconcevable  de  reconstruire  un  visage  sans  connaître  parfaitement
+												Dès le départ, ces chirurgiens avaient compris qu'il était inconcevable de reconstruire un visage sans connaître parfaitement
 												les dents et les maxillaires, clés de voûte de l'architecture faciale, point de départ de toute reconstruction. Chirurgie maxillo-faciale et
 												stomatologie sont depuis indissociables. <br />
-												Aujourd'hui  les  chirurgiens maxillo-faciaux  français  sont  issus  d'une  très  longue  formation:  études  de  médecine,  Internat,
+												Aujourd'hui les chirurgiens maxillo-faciaux français sont issus d'une très longue formation : études de médecine, Internat,
 												formation en Chirurgie Générale, puis spécialisation en Chirurgie Maxillo-Faciale, soit 13 ans d'études au minimum. <br />
 												Un chirurgien maxillo-facial est donc un spécialiste de la Chirurgie de la Face. Son diplôme, garant d'une compétence en chirurgie
-												plastique  de  la  face  est  reconnu  au  même  titre  que  celui  de  Chirurgie  Plastique  Reconstructrice  et  Esthétique  par  la
+												plastique de la face est reconnu au même titre que celui de Chirurgie Plastique Reconstructrice et Esthétique par la
 												Société Française de Chirurgie Plastique Reconstructrice et Esthétique et lui permet donc d'adhérer à cette Société.
 
 												<h3>Ses compétences officielles couvrent :</h3>
 													<ul class="check-list">
-														<li>La chirurgie plastique, la chirurgie reconstructrice et la chirurgie esthétique de la face</li>
-														<li>La  chirurgie orthognathique (problèmes  d’occlusion dentaire  en  relation  avec  des  anomalies  de  taille  ou  de  rapport  des
+														<li>la chirurgie plastique, la chirurgie reconstructrice et la chirurgie esthétique de la face</li>
+														<li>la  chirurgie orthognathique (problèmes  d’occlusion dentaire  en  relation  avec  des  anomalies  de  taille  ou  de  rapport  des
 														maxillaires)</li>
-														<li>Le traitement des malformations de la face de l'enfant et de l'adulte</li>
-														<li>La traumatologie faciale</li>
-														<li>La stomatologie (notamment : kystes, dents incluses, implants, chirurgie pré-prothétique,etc)</li>
-														<li>La chirurgie des cancers de la bouche et de la face</li>
-														<li>La chirurgie des glandes salivaires</li>
-														<li>La chirurgie orbito-palpébrale</li>
+														<li>le traitement des malformations de la face de l'enfant et de l'adulte</li>
+														<li>la traumatologie faciale</li>
+														<li>la stomatologie (notamment : kystes, dents incluses, implants, chirurgie pré-prothétique,etc)</li>
+														<li>la chirurgie des cancers de la bouche et de la face</li>
+														<li>la chirurgie des glandes salivaires</li>
+														<li>la chirurgie orbito-palpébrale</li>
 													</ul>
 												<h3>Les chirurgiens maxillo-faciaux travaillent souvent en étroite collaboration :</h3>
 													<ul class="basic-list">
-														<li>Avec les orthodontistes (chirurgie orthognathique)</li>
-														<li>Avec les dentistes (extraction de dents de sagesse, kystes, greffe osseuse, mise en place d'implants)</li>
-														<li>Avec les dermatologues (notamment exérèse de lésions cutanées du visage)</li>
-														<li>Avec les ophtalmologues et les endocrinologues (chirurgie des paupières et de l'orbite)</li>
-														<li>Avec les pneumologues (syndrome d'apnées obstructives du sommeil)</li>
-														<li>Avec les neurochirurgiens (tumeurs ou grands traumatismes touchant à la fois le visage et le crâne)</li>
+														<li>avec les orthodontistes (chirurgie orthognathique)</li>
+														<li>avec les dentistes (extraction de dents de sagesse, kystes, greffe osseuse, mise en place d'implants)</li>
+														<li>avec les dermatologues (notamment exérèse de lésions cutanées du visage)</li>
+														<li>avec les ophtalmologues et les endocrinologues (chirurgie des paupières et de l'orbite)</li>
+														<li>avec les pneumologues (syndrome d'apnées obstructives du sommeil)</li>
+														<li>avec les neurochirurgiens (tumeurs ou grands traumatismes touchant à la fois le visage et le crâne)</li>
 													</ul>
 
 												Pourtant  cette  spécialité  est  peu  médiatisée  et  donc  peu  connue  car  les  spécialistes  sont  peu  nombreux.  Certains  praticiens

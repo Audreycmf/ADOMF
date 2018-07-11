@@ -120,6 +120,29 @@ for(i=0;i<li;i++){
 };
 
 
+//Fiches secondaires interventions
+
+document.getElementById("intitule_liste").addEventListener('click', function() {
+	if (document.getElementById("liste_ortho").innerHTML === "") {
+		document.getElementById("liste_ortho").innerHTML =
+		'<li><a href="lefort.php">L\'ostéotomie de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>\
+		<li><a href="osbm.php">L\'ostéotomie sagittale de branche montante : ostéotomie de la mâchoire inférieure</a></li>\
+		<li><a href="bimax.php">L\'ostéotomie bimaxillaire, qui est une combinaison des deux précédentes</a></li>\
+		<li><a href="dim.php">La disjonction intermaxillaire</a></li>\
+		<li><a href="contraction.php">La contraction mandibulaire</a></li>\
+		<li><a href="genio.php">La génioplastie ou mentoplastie</a></li>';
+		document.getElementById('fleche_ortho').style.transform = "rotate(90deg)";
+		document.getElementById('intitule_liste').style.color = "#474f51";
+		document.getElementById('intitule_liste').style.textDecoration = "none";
+	} else {
+		document.getElementById("liste_ortho").innerHTML = "";
+		document.getElementById('fleche_ortho').style.transform = "rotate(0deg)";
+		document.getElementById('intitule_liste').style.color = "#ed391b";
+		document.getElementById('intitule_liste').style.textDecoration = "underline";
+	}
+})
+
+
 		// Off-Canvas Navigation.
 
 			// Title Bar.

@@ -1371,6 +1371,20 @@
 		margin-bottom: 30px;
 	}
 
+	#intitule_liste {
+		text-decoration: underline;
+		color:#ed391b;
+	}
+
+	#intitule_liste:hover {
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+	#content #fleche_ortho {
+		width: 1.5%;
+	}
+
 /* Footer */
 
 	#footer .quote-list li {

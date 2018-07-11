@@ -20,17 +20,10 @@
 
 									<!-- Main Content -->
                     <section>
-												Les adolescents mais aussi les adultes peuvent bénéficier d’un traitement orthodontico-chirurgical. En pratique, cette chirurgie
-												fait appel à plusieurs interventions :
-                        <ul class="basic-list">
-                          <li><a href="lefort.php">L'ostéotomie de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>
-                          <li><a href="osbm.php">L'ostéotomie sagittale de branche montante : ostéotomie de la mâchoire inférieure</a></li>
-                          <li><a href="bimax.php">L'ostéotomie bimaxillaire, qui est une combinaison des deux précédentes</a></li>
-                          <li><a href="dim.php">La disjonction intermaxillaire</a></li>
-                          <li><a href="contraction.php">La contraction mandibulaire</a></li>
-                          <li><a href="genio.php">La génioplastie ou mentoplastie</a></li>
-                        </ul>
+											<p id=intitule_liste>
+												Les différentes interventions de chirurgie orthognatique<img src="images/fleche.png" alt="" class="fleche" id="fleche_ortho">
                       </p>
+											<ul class="basic-list" id="liste_ortho"></ul>
                     </section>
 									</div>
 
