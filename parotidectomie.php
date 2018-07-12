@@ -29,7 +29,7 @@
                         salivaire (parotidectomie pour la glande parotide, sous-maxillectomie pour la glande sous-maxillaire), ce qui n’a quasiment
                         aucune incidence sur la production de la salive.
                         <ul class="basic-list">
-                          <li><a href="parotidectomie.php">La parotidectomie</a></li>
+                          <li><span class="parotidectomie" id="parotidectomie">La parotidectomie</span></li>
                           <li><a href="sousmaxillectomie.php">La sous-maxillectomie</a></li>
                         </ul>
                       </p>

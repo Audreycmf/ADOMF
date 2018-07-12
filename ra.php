@@ -20,16 +20,10 @@
 
 									<!-- Main Content -->
                     <section>
-                      <p>
-												La stomatologie est le domaine de la chirurgie maxillo-faciale qui prend en charge l’ensemble des pathologies de la dent et des
-												tissus qui l'environnent (parodonte).<br />
-                        La stomatologie comprend principalement trois types d'interventions :
-                        <ul class="basic-list">
-                          <li><a href="dds.php">L'avulsion des dents de sagesse.</a></li>
-                          <li><a href="rebd.php">Les extractions dentaires difficiles.</a></li>
-                          <li><a href="ra.php">La résection apicale (kyste apico-dentaire).</a></li>
-                        </ul>
+											<p class=intitule_liste_sto id="intitule_liste_sto">
+												Les différentes interventions en stomatologie<img src="images/fleche.png" alt="" class="fleche" id="fleche_sto">
                       </p>
+											<ul class="basic-list" id="liste_sto"></ul>
                     </section>
 									</div>
 

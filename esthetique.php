@@ -26,15 +26,15 @@
                         interventions de chirurgie esthétique du visage.<br />
                         Elles comprennent :
                         <ul class="basic-list">
-                          <li><a href="esthetique.php">le traitement des rides et ridules du visage</a> avec :
+                          <li><span class="rides" id="rides">le traitement des rides et ridules du visage</span> avec :
                             <ol class="level2_list">
                               <li><a href="acide_hyaluronique.php">les injections d'acide hyaluronique</a></li>
                               <li><a href="toxine_botulique.php">les injections de toxine botulique</a></li>
                             </ol>
                           </li>
-                          <li><a href="blepharoplastie.php">la chirurgie esthétque des paupières ou blépharoplastie</a></li>
+                          <li><a href="blepharoplastie.php">la chirurgie esthétique des paupières ou blépharoplastie</a></li>
                           <li><a href="otoplastie.php">la chirurgie des oreilles décollées ou  otoplastie</a></li>
-                          <li><a href="lifting.php">le lifting du viasge et du cou</a></li>
+                          <li><a href="lifting.php">le lifting du visage et du cou</a></li>
                           <li>la rhinoplastie</li>
                         </ul>
                       </p>

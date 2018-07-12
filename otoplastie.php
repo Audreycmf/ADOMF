@@ -20,24 +20,10 @@
 
 									<!-- Main Content -->
                     <section>
-                      <p>
-                        La chirurgie esthétique du visage est une des compétences du chirurgien maxillo-facial.<br />
-                        Son expérience en chirurgie réparatrice vous permettra d’envisager avec rigueur et dans les meilleures conditions les
-                        interventions de chirurgie esthétique du visage.<br />
-                        Elles comprennent :
-                        <ul class="basic-list">
-                          <li><a href="esthetique.php">le traitement des rides et ridules du visage</a> avec :
-                            <ol class="level2_list">
-                              <li><a href="acide_hyaluronique.php">les injections d'acide hyaluronique</a></li>
-                              <li><a href="toxine_botulique.php">les injections de toxine botulique</a></li>
-                            </ol>
-                          </li>
-                          <li><a href="blepharoplastie.php">la chirurgie esthétque des paupières ou blépharoplastie</a></li>
-                          <li><a href="otoplastie.php">la chirurgie des oreilles décollées ou  otoplastie</a></li>
-                          <li><a href="lifting.php">le lifting du viasge et du cou</a></li>
-                          <li>la rhinoplastie</li>
-                        </ul>
+											<p class=intitule_liste_esthetique id="intitule_liste_esthetique">
+												Les différentes interventions en chirurgie esthétique<img src="images/fleche.png" alt="" class="fleche" id="fleche_esthetique">
                       </p>
+											<ul class="basic-list" id="liste_esthetique"></ul>
                     </section>
 								</div>
 

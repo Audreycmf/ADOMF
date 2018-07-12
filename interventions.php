@@ -24,7 +24,7 @@
 												<h2>Les interventions</h2>
 											</header>
 											<p>
-												Les différents interventions pratiquées par un chirurgien maxillo-facial sont les suivantes :
+												Les différents interventions pratiquées par un chirurgien maxillo-facial ou un stomatologue sont les suivantes :
 												<ul class="check-list">
 													<li class="lien_gris"><a href="orthognatique.php">La chirurgie orthognatique</a></li>
 													<li class="lien_gris"><a href="implantologie.php">L'implantologie et la chirurgie pré-implantaire</a></li>

@@ -20,19 +20,9 @@
 
 									<!-- Main Content -->
                     <section>
-                      <p>
-                        Les glandes salivaires produisent la salive comme l’indique leur nom. On distingue trois paires de glandes salivaires principales
-                        (GSP : parotides, sous-maxillaires et sub-linguales) et les glandes salivaires accessoires (GSA : très nombreuses et minuscules
-                        sous la muqueuse de toute la bouche).<br />
-                        Les pathologies rencontrées au niveau des glandes salivaires peuvent être d’origine infectieuse, lithiasique (calcul) ou tumorale
-                        (dans la grande majorité des cas bénigne). Dans certains cas, le traitement peut être de réaliser l’ablation d’une glande
-                        salivaire (parotidectomie pour la glande parotide, sous-maxillectomie pour la glande sous-maxillaire), ce qui n’a quasiment
-                        aucune incidence sur la production de la salive.
-                        <ul class="basic-list">
-                          <li><a href="parotidectomie.php">La parotidectomie</a></li>
-                          <li><a href="sousmaxillectomie.php">La sous-maxillectomie</a></li>
-                        </ul>
-                      </p>
+                        <p>
+                          <a href="parotidectomie.php">Retour à la parotidectomie</a>
+                        </p>
                     </section>
 								</div>
 

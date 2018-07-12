@@ -25,7 +25,7 @@
 												tissus qui l'environnent (parodonte).<br />
                         La stomatologie comprend principalement trois types d'interventions :
                         <ul class="basic-list">
-                          <li><a href="dds.php">L'avulsion des dents de sagesse</a></li>
+                          <li><span class="dds" id="dds">L'avulsion des dents de sagesse</span></li>
                           <li><a href="rebd.php">Les extractions dentaires difficiles</a></li>
                           <li><a href="ra.php">La résection apicale (kyste apico-dentaire)</a></li>
                         </ul>

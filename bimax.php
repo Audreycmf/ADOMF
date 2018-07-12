@@ -20,7 +20,8 @@
 
 									<!-- Main Content -->
                     <section>
-                      <p id=intitule_liste>
+											<a href="orthognatique.php">Le traitement orthodontico-chirurgical</a>
+                      <p class=intitule_liste_ortho id="intitule_liste_ortho">
 												Les différentes interventions de chirurgie orthognatique<img src="images/fleche.png" alt="" class="fleche" id="fleche_ortho">
                       </p>
 											<ul class="basic-list" id="liste_ortho"></ul>

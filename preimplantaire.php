@@ -20,29 +20,9 @@
 
 									<!-- Main Content -->
                     <section>
-                      <p>
-                        Les dents ont un rôle fondamental dans la santé d'un individu, évidemment pour une alimentation correcte par la mastication,
-                        mais également dans la vie sociale de l'individu par l'élocution et le sourire.<br />
-                        Remplacer les dents manquantes est une réponse thérapeutique fonctionnelle et esthétique pour le bien être.<br />
-                        Les techniques historiques n'assurent le plus souvent que partiellement une qualité de confort, fonctionnelle ou esthétique :
-                        les prothèses amovibles (le classique dentier) peuvent être instables, provoquer des blessures de gencives, et de fait
-                        perturber la vie quotidienne et sociale. Les bridges obligent à toucher les dents saines situées à côté de la dent manquante.<br />
-                        L'implantologie est une alternative considérée comme une des techniques les plus sûres à ce jour. Elle permet de remplacer les
-                        dents manquantes par des racines artificielles afin de pouvoir réaliser une prothèse confortable (stabilité), esthétique
-                        (discrétion), et fonctionnelle.<br />
-                        L'implant dentaire est une racine artificielle que l'on place dans l'os, fabriqué dans un matériau biocompatible (le titane)
-                        dont la particularité est de se lier aux tissus vivants. Il permet un ancrage résistant et durable qui reçoit la future
-                        prothèse.
-                        L'os qui accueille l'implant doit avoir un volume suffisant pour assurer une bonne stabilité initiale et à long terme. Les
-                        pertes dentaires s'accompagnent systématiquement d'une fonte osseuse. Dans certains cas, il faudra reconstituer ce volume
-                        osseux avant d'envisager la pose correcte d'implant. Différentes techniques peuvent être utilisées en foncion du volume osseux
-                        perdu : regénération osseuse, greffe osseuse à partir d'os prélevé sur le patient ou de matériau de substitution.<br />
-                        Vous trouverez ci-dessous des fiches plus complètes avec des schémas sur le sujet :
-                        <ul class="basic-list">
-                          <li><a href="implantologie.php">Les implants dentaires</a></li>
-                          <li><a href="preimplantaire.php">La chirurgie pré-implantaire</a></li>
-                        </ul>
-                      </p>
+                        <p>
+                          <a href="implantologie.php">Retour aux implants dentaires</a>
+                        </p>
                     </section>
 								</div>
 

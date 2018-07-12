@@ -39,7 +39,7 @@
                         perdu : regénération osseuse, greffe osseuse à partir d'os prélevé sur le patient ou de matériau de substitution.<br />
                         Vous trouverez ci-dessous des fiches plus complètes avec des schémas sur le sujet :
                         <ul class="basic-list">
-                          <li><a href="implantologie.php">Les implants dentaires</a></li>
+                          <li><span class="implants" id="implants">Les implants dentaires</span></li>
                           <li><a href="preimplantaire.php">La chirurgie pré-implantaire</a></li>
                         </ul>
                       </p>

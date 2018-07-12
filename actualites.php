@@ -81,7 +81,9 @@
 											<header>
 												<h3>Les missions humanitaires</h3>
 											</header>
-											<img src="images/" alt="" width=100% class="titre_humanitaire" />
+											<img src="images/logo_mdm.png" alt="" width=100% class="titre_humanitaire" />
+											<img src="images/fente_avant.jpg" alt="" width=100% class="titre_humanitaire" />
+											<img src="images/fente_apres.jpg" alt="" width=100% class="titre_humanitaire" />
 										</section>
 
 

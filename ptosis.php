@@ -20,26 +20,10 @@
 
 									<!-- Main Content -->
                     <section>
-                      <p>
-                        Le regard est un des éléments clefs de la communication non verbale. C'est par lui que peuvent être transmis la connivence,
-                        l'amitié, l'inimité, l'intérêt, le dédain, l'amour ou la haine. Pratiquement tous les sentiments peuvent être exprimés par
-                        l'intermédiaire d'un regard. C'est également par l'intermédiaire du regard que se manifeste les signes de fatigue, de
-                        découragement.<br />
-                        La chirurgie orbito-palpébrale est la chirurgie qui concerne toutes les pathologies des paupières et de l'orbite, c'est-à-dire
-                        des annexes autour du globe oculaire (muscles, graisse, glandes lacrymales).<br />
-                        C'est donc la chirurgie du regard.<br />
-                        Elle concerne essentiellement la maladie de Basedow et les anomalies des paupières lièes à l'âge :
-                        <ul class="basic-list">
-                          <li><a href="ectropion_entropion.php">les ectropions et entropions</a></li>
-                          <li><a href="ptosis.php">le ptosis</a></li>
-													<li><a href="basedow.php">la maladie de basedow</a> avec :
-                            <ol class="level2_list">
-                              <li><a href="decompression_orbitaire.php">la décompression orbitaire</a></li>
-                              <li><a href="allongement_palpebral.php">l'allongement palpébral</a></li>
-                            </ol>
-                          </li>
-                        </ul>
+											<p class="intitule_liste_orbito" id="intitule_liste_orbito">
+												Les différentes interventions de chirurgie orbito-palpébrale<img src="images/fleche.png" alt="" class="fleche" id="fleche_orbito">
                       </p>
+											<ul class="basic-list" id="liste_orbito"></ul>
                     </section>
 								</div>
 
