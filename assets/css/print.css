@@ -1,0 +1,42 @@
+/*Header*/
+#nav, #logo, .desktop_uniquement, #content #liens_telechargement, .non_imprime {
+  display:none;
+}
+
+#adresse {
+  font-size: 2em;
+}
+
+.impression {
+  display: flex;
+}
+
+#header-wrapper {
+  margin-bottom: 2em;
+}
+
+/*Content*/
+#content #name {
+  font-size: 2em;
+}
+
+.presentation_mobile {
+  display: none;
+}
+
+section {
+  margin : 1em 0 1em 0;
+}
+
+/*Footer*/
+#footer h2 {
+  display: none;
+}
+
+#footer-wrapper {
+  margin-top: 2em;
+}
+
+#copyright {
+  text-align: center;
+}

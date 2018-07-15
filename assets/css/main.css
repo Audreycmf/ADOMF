@@ -1131,6 +1131,10 @@
 		margin-bottom: 0 !important;
 	}
 
+	.impression {
+		display: none;
+	}
+
 /* Multi-use */
 
 	.link-list li {

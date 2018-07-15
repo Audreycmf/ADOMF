@@ -51,7 +51,7 @@
                         conséquences de la dysmorphose, sa prise en charge afin de vous guider dans votre prise de décision.<br />
                         La dysmorphose dento-maxillaire a des conséquences à court, moyen et long terme :
                         <ul class="basic-list">
-                          <li>esthétique : lèvre en arrière, visage court et  $lèvres pincées, sourire ʺchevalinʺ (ou gingival), aspect vieilli
+                          <li>esthétique : lèvre en arrière, visage court et lèvres pincées, sourire ʺchevalinʺ (ou gingival), aspect vieilli
                             prématuré du visage</li>
                           <li>gène à l’élocution, à la mastication, respiratoire</li>
                           <li>dysfonctionnement de l’articulation temporo-mandibulaire : craquements et claquements, douleurs, contractures musculaires</li>

@@ -51,7 +51,7 @@
 									<!-- Main Content -->
 										<section>
 											<header class="center">
-												<h2>Docteur Pierre Revol</h2>
+												<h2 id="name">Docteur Pierre Revol</h2>
                       <img src="images/photo_revol.jpg" class="bordered-feature-image" alt="" /></a>
 											</header>
 											<div id="liens_telechargement">

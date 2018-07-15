@@ -45,7 +45,7 @@
 									<!-- Main Content -->
 										<section>
 											<header class="center">
-												<h2>Docteur Julie Garçonnet</h2>
+												<h2 id="name">Docteur Julie Garçonnet</h2>
                       <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="" /></a>
 											</header>
 											<div id="liens_telechargement">

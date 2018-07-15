@@ -39,7 +39,7 @@
                         Les patients atteints de la maladie de Basedow peuvent développer ce que l’on appelle une &laquo;orbitopathie dysthyroïdienne&raquo;.
                         Celle-ci va se traduire par une exophtalmie parfois importante.<br />
                         Cette exophtalmie est due à une infiltration des muscles de l’œil et/ou de la graisse orbitaire ce qui entraîne une augmentation
-                        de volume intra-orbitaire. Une diplopie (vision double)et/ou une rétraction des paupières (inférieures, supérieures ou les deux)
+                        de volume intra-orbitaire. Une diplopie (vision double) et/ou une rétraction des paupières (inférieures, supérieures ou les deux)
                         peuvent également être présents.<br />
                         La prise en charge de l’orbitopathie dysthyroïdienne est pluridisciplinaire (endocrinologue, ORL, ophtalmologiste, chirurgien
                         maxillo-facial). Elle se fait par 1, 2 ou 3 étapes chirurgicales et selon un calendrier précis :
