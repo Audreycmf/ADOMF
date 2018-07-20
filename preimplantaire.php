@@ -29,7 +29,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La chirurgie pré-implantaire</h2>
+												<h1>La chirurgie pré-implantaire</h1>
 											</header>
 											<p>
                         La pose d'implants dentaires est parfois limitée par la présence d'obstacles anatomiques (le
@@ -61,26 +61,26 @@
                             millimètres. Les implants sont posés dans le même temps opératoire et doivent avoir une bonne stabilité primaire. Une
                             cicatrisation de 4 à 8 mois est primordiale avant la phase prothétique. Il est possible que la pose d’implants soit
                             différée</li>
-                          <li><a href="#rog">la régénération osseuse guidée</a> : lorsque le manque d’os est peu important, une méthode de &laquo;régénération osseuse&raquo;
+                          <li><a href="#rog">la régénération osseuse guidée</a> : lorsque le manque d’os est peu important, une méthode de "régénération osseuse"
                             est possible. Un biomatériau d’origine animale ou synthétique est placé sur le site manquant, recouvert d’une
-                            &laquo;membrane&raquo; résorbable ou non pour stabiliser le substitut. Le substitut est un support qui va être colonisé par
+                            "membrane" résorbable ou non pour stabiliser le substitut. Le substitut est un support qui va être colonisé par
                             les cellules sanguines et osseuses pour recréer l’os. Une cicatrisation de 4 à 6 mois avant la pose de l’implant est
                             souvent nécessaire</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation permet de le type reconstruction osseuse que vous nécessitez, en fonction du cone beam qui vous sera demandé.<br />
                         Ce sera également l'occasion de détecter les contre-indications. Seuls le chirurgien et le praticien sont aptes à poser
                         l’indication ou non. Certains antécédents du patient (pathologies cardiaques valvulaires, insuffisance cardiaque, infarctus
                         myocardique récent) peuvent être une contre-indication.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         L’intervention se déroule généralement sous anesthésie locale. Dans certains cas (antécédents du patient, anxiété...), une
                         anesthésie générale peut être réalisée.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les suites post-opératoires sont en général :
                         <ul class="basic-list">
@@ -97,7 +97,7 @@
                             dent post-chirurgicale</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une parotidectomie, le risque de complication n’est pas nul.<br />
@@ -116,10 +116,10 @@
                               <li>une perte ou diminution de la sensibilité de la lèvre et/ou de la langue, le plus souvent transitoires (quelques heures à
                                 quelques mois) et exceptionnellement définitive</li>
                               <li>une altération de la sensibilité des dents proches du prélèvement osseux</li>
-                              <li>une &laquo;rigidité&raquo; transitoire des muscles du menton</li>
+                              <li>une "rigidité" transitoire des muscles du menton</li>
                             </ol>
                           </li>
-                          <li>Exposition du greffon, nécrose, perte du greffon ou du matériau de comblement</li>
+                          <li>exposition du greffon, nécrose, perte du greffon ou du matériau de comblement</li>
 												</ul>
 											</p>
 											<div id="liens_telechargement">

@@ -31,7 +31,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>L'ostéotomie sagittale de branche montante d'Obwegeser-Dalpont : ostéotomie de la mâchoire inférieure</h2>
+												<h1>L'ostéotomie sagittale de branche montante d'Obwegeser-Dalpont : ostéotomie de la mâchoire inférieure</h1>
 											</header>
 											<p>
                         L’ostéotomie mandibulaire d’Obwegeser-Dalpont permet de corriger les anomalies de position de la mâchoire inférieure (mandibule) et de
@@ -43,7 +43,7 @@
                         </ul>
                         L’intervention peut être associée à un autre type d’intervention de chirurgie orthognatique (Cf. fiches correspondantes).
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Le praticien va s’enquérir de vos motivations et espérance, examiner votre visage et analyser votre dysmorphose
                         dento-maxillaire. Le praticien pourra, à l’issue de cette analyse globale, vous donner toute l’information utile sur les
@@ -60,7 +60,7 @@
                         d’anti-inflammatoires est déconseillée dans les 10 jours précédents l’intervention. Le tabagisme est également fortement
                         déconseillé.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle est préalablement simulée sur des modèles en plâtre (réalisés à partir de vos empreintes dentaires). Un guide (plan de
                         morsure) est fabriqué et permettra un contrôle pendant l’intervention réelle.<br />
@@ -73,7 +73,7 @@
                         L’intervention dure 1 heure. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
                         La mâchoire retrouve une solidité normale en 6 semaines.<br />
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
@@ -96,7 +96,7 @@
                           <li>reprise des soins d’orthodontie après 1 mois pour réaliser les ʺfinitionsʺ pendant un semestre en principe</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une ostéotomie de Le Fort, le risque de complication n’est pas nul.<br />

@@ -39,7 +39,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La parotidectomie</h2>
+												<h1>La parotidectomie</h1>
 											</header>
 											<p>
                         La parotidectomie est l'ablation partielle ou totale de la glande parotide. La <a href="#parotide">glande parotide</a> est une des glandes salivaires
@@ -47,7 +47,7 @@
                         deviennent visibles lors des oreillons). Elles sont traversées par le nerf facial. Ce nerf permet la motricité de la
                         moitié de la face (un pour chaque côté du visage).
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         L’apparition d’une masse, le plus souvent indolore, de la région parotidienne amène à consulter. L’examen clinique permet
                         d’orienter le diagnostic. Des examens (scanner, IRM) permettent d’affiner le diagnostic. Dans la grande majorité des cas, il
@@ -56,7 +56,7 @@
                         diagnostic de façon certaine et dans le même temps de réaliser le traitement. Beaucoup plus rarement, la pathologie est
                         d’origine lithiasique (calcul) ou inflammatoire.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         L'intervention se déroule sous anesthésie générale et donc lors d’une hospitalisation.<br />
                         <a href="#incision">L'incision</a> passe juste en avant de l'oreille (type incision du lifting cervico-facial), puis se poursuit sous l’oreille au
@@ -72,7 +72,7 @@
                         </ul>
                         En fin d’intervention, un drain est mis en place pour évacuer l’hématome post-opératoire.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         La durée de l’hospitalisation varie de 2 à 5 jours (ablation du drainage).<br />
                         Les soins opératoires comportent des soins locaux pendant une période de 8 à 10 jours jusqu’à l’ablation des points.
@@ -86,7 +86,7 @@
                             cornée à des ulcérations)</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une parotidectomie, le risque de complication n’est pas nul.<br />

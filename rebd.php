@@ -30,7 +30,7 @@
 								<div class="9u 12u(mobile)">
                     <section>
                       <header>
-                        <h2>Les extractions dentaires difficiles</h2>
+                        <h1>Les extractions dentaires difficiles</h1>
                       </header>
                       <p>
                         Le chirurgien maxillo-facial peut réaliser les extractions dentaires difficiles :
@@ -38,20 +38,20 @@
                           <li>cas de dent dévitalisée et ankylosée</li>
                           <li>cas d'extractions de dents multiples</li>
                           <li>présence de kystes plus ou moins volumineux attenant aux dents</li>
-                          <li>risques de complications hémorragiques du fait de traitement anti-agrégant (Aspégic&reg;, Kardégic&reg;, Plavix&reg; Efient&reg;)
+                          <li>risques de complications hémorragiques du fait de traitement anti-agrégant (Aspégic&reg;, Kardégic&reg;, Plavix&reg;, Efient&reg;)
                             ou anticoagulant (Préviscan&reg;, Sintron&reg;, Pradaxa&reg;, Xarelto&reg;, Eliquis&reg;)</li>
                           <li>risques de complications ostéonécrotiques du fait de la prise de biphosphonates (Didronel&reg;, Clastoban&reg;, Fosamax&reg;,
                             Actonel&reg;, Zometa&reg;, Aclasta&reg;, Xgeva&reg;) ou d'antécédent de radiothérapie</li>
                         </ul>
                         Ces différentes conditions sont bien souvent intriquées les unes aux autres.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Le chirurgien vous donnera une information objective et compréhensible sur les modalités de votre prise en charge, les risques  et  aléas
                         encourus à être opéré. Celle-ci doit vous permettre de mieux comprendre la chirurgie ou le geste qui vous est proposé. N’hésitez pas à
                         poser les questions que vous souhaitez à votre chirurgien.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         L'intervention se déroule sous anesthésie locale ou générale en fonction du nombre de dents à extraire, des conditions particulières
                         (allergie, phobie...).<br />
@@ -61,7 +61,7 @@
                         Il se résorbe rapidement.<br />
                         La durée de l’intervention est très variable en fonction des difficultés techniques.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
@@ -80,7 +80,7 @@
                           <li>un arrêt du tabac pendant la période postopératoire</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />
@@ -140,6 +140,19 @@
 												<a href="pdf/rebd.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
                     </section>
+
+								</div>
+								<div class="3u 12u(mobile)">
+
+									<!-- Sidebar -->
+										<section class="imagerie">
+											<header>
+												<h2>Avulsions multiples</h2>
+											</header>
+											<h3>Caries multiples</h3>
+											<img src="images/caries.jpg" alt="" width=100% />
+											<p> <img src="images/X_rouge.jpg" alt="" width=8% /> Dents cariées</p>
+										</section>
 
 								</div>
 							</div>

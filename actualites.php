@@ -21,7 +21,7 @@
 									<!-- Main Content -->
 										<section>
 											<header>
-												<h2>Les évènements de l'A.D.O.M.F.</h2>
+												<h2>Les événements de l'A.D.O.M.F.</h2>
 											</header>
                       <h3 class="titre_walid" id="titre_walid">Journée aixoise d'ortho-chirurgie<img src="images/fleche.png" alt="" class="fleche" id="fleche4"></h3>
 											<p>

@@ -30,7 +30,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>Les injections d'acide hyaluronique</h2>
+												<h1>Les injections d'acide hyaluronique</h1>
 											</header>
 											<p>
                         L’acide hyaluronique, constituant naturel du derme, est un produit de comblement résorbable (il existe des produits non
@@ -41,7 +41,7 @@
                         rendre plus pulpeuses), dépressions. L’injection peut être réalisée isolément, mais peut compléter une blépharoplastie, un
                         lifting ou une injection de toxine botulique.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Lors de la consultation, le praticien va rechercher les contre-indications :
                         <ul class="basic-list">
@@ -60,21 +60,21 @@
                         de seringues) est extrêmement variable. Il sera évalué le plus précisément possible. Dans certains cas, il est préférable
                         d’envisager d’emblée une séance de retouche après 3-4 semaines afin d’optimiser le résultat.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         La séance se déroule en cabinet. Il n’y a pas besoin d’être à jeun. Les injections peuvent être réalisées sous anesthésie
                         locale vraie ou avec une pommade anesthésiante. La séance d’injection durer entre 30 et 60 minutes.<br />
                         Le résultat est immédiat. L’aspect définitif survient après la disparition du léger œdème et des petites rougeurs en quelques
                         jours. Il perdure entre 10 à 12 mois.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Quelques recommandations sont à respecter après la séance afin d’éviter un résultat aléatoire : s’abstenir d’effort violent le
                         jour de l’injection, pas d’exposition solaire pendant 24h.<br />
                         Des effets indésirables peuvent apparaître transitoirement : ecchymoses ("bleus") et  œdème au point d’injection. Il ne faut
                         pas hésiter à contacter son praticien si vous avez le moindre doute.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

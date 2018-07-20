@@ -30,7 +30,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La blépharoplastie</h2>
+												<h1>La blépharoplastie</h1>
 											</header>
 											<p>
                         Les "blépharoplasties" désignent les interventions de chirurgie esthétique des paupières qui visent à l’aspect "fatigué" du
@@ -39,7 +39,7 @@
                         Une blépharoplastie peut être réalisée isolément ou être associée à une autre intervention de chirurgie esthétique du visage
                         (lifting frontal, lifting temporal, lifting cervico-facial).
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation permet de distinguer les disgrâces présentes :
                         <ul class="basic-list">
@@ -62,7 +62,7 @@
                         En fonction du type d’anesthésie, on pourra vous demander de rester à jeûn (ne rien manger ni boire ni fumer) 6 heures avant
                         l’intervention.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Voici les principes de base :
                         <ul class="basic-list">
@@ -75,7 +75,7 @@
                         </ul>
                         En fonction de l'ampleur des améliorations à apporter l'intervention peut durer d’une demi-heure à deux heures.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         L’intervention est peu douloureuse, cependant un inconfort avec une sensation de tension des paupières, une légère irritation
                         des yeux est classique.<br />
@@ -89,7 +89,7 @@
                         la peau par contre continue à vieillir et se relâcher, à la longue. Il est rare qu’une nouvelle intervention soit envisagée
                         avant une douzaine d’années.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

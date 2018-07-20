@@ -34,7 +34,10 @@
 
 									<div class="9u 12u(mobile)">
 										<section>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Techniques</h3>
+											<header>
+												<h1>La chirurgie des lésions cutanées</h1>
+											</header>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Techniques</h2>
 											<p>
                         Pour commencer il faut savoir que toute intervention chirurgicale traverse la peau. Quelle que soit la technique utilisée pour
                         recoudre celle-ci, une cicatrice en résultera, elle s’atténuera pour devenir discrète mais ne sera jamais invisible.<br />
@@ -52,7 +55,7 @@
                         progressif entraîne un développement cutané sur plusieurs semaines; comme lors de la grossesse).<br />
                         Dans tous les cas, votre chirurgien vous expliquera la solution adaptée à votre cas personnel.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Le chirurgien mènera un interrogatoire suivi d'un examen de la lésion cutanée afin de vous expliquer la ou les possibilité(s)
                         chirurgicale(s) et le type d’anesthésie retenue.<br />
@@ -60,7 +63,7 @@
                         Aucun médicament contenant de l'Aspirine ne devra être pris dans les 10 jours précédant l'intervention.<br />
                         Aucun maquillage ni aucun bijou ou piercing ne devra être porté durant l'opération.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Les modalités de l’intervention sont directement liées au type d’anesthésie choisie et vous auront été détaillées pendant la
                         consultation.
@@ -76,7 +79,7 @@
                             exceptionnel pour la chirurgie cutanée).</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Dans les 48 premières heures, il peut apparaître un œdème (gonflement) et un petit hématome (bleu) qui ne sont que transitoires,
                         un petit saignement peut tacher légèrement le pansement. Des démangeaisons sont par ailleurs assez fréquentes durant la phase
@@ -98,7 +101,7 @@
                         même des années après, à une "récidive" locale de la lésion. En effet certaines lésions sont minimes, non décelables lors de la
                         première intervention. Elles peuvent donc être initialement épargnées et ensuite se développer pour leur propre compte.<br />
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre pour rendre les cicatrices les plus discrètes possible, il arrive que la
                         cicatrisation ne soit pas satisfaisante. La qualité de la cicatrisation est variable selon l'âge, les parties du corps, les
@@ -126,9 +129,9 @@
                             du temps ces troubles sont transitoires et disparaissent spontanément en quelques semaines</li>
                         </ul>
 
-                        En conclusion : &laquo; Il faut bien comprendre que la cicatrisation reste un phénomène aléatoire dont la qualité ne peut en
+                        En conclusion : "Il faut bien comprendre que la cicatrisation reste un phénomène aléatoire dont la qualité ne peut en
                         aucun cas être garantie. La parfaite maîtrise technique d'un chirurgien plasticien qualifié et spécifiquement formé à ce type
-                        d'intervention permet de mettre toutes les chances de son côté mais ne supprime pas cet aspect aléatoire.&raquo;
+                        d'intervention permet de mettre toutes les chances de son côté mais ne supprime pas cet aspect aléatoire."
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
@@ -140,11 +143,22 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
+										<section>
+											<header>
+												<h2>Les cancers de la peau</h2>
+											</header>
+											<h3>Une forme de carcinome basocellulaire</h3>
+											<img src="images/carcinome_basocellulaire.JPG" alt="" width=100% />
+											<h3>Un carcinome épidermoïde</h3>
+											<img src="images/carcinome_epidermoide.png" alt="" width=100% />
+											<h3>Un mélanome</h3>
+											<img src="images/melanome.png" alt="" width=100% />
+										</section>
 										<section class="imagerie">
 											<header>
 												<h2>Chirurgie cutanée</h2>
 											</header>
-                      <h3>Ablation &laquo; en fuseau &raquo;</h3>
+                      <h3>Ablation "en fuseau"</h3>
                       <img src="images/fuseau.jpg" alt="" width=100% id="fuseau">
                       <h3>Lignes de moindre tension de la face</h3>
                       <img src="images/langer.jpg" alt="" width=100% id="langer">

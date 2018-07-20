@@ -29,13 +29,13 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La sous-maxillectomie</h2>
+												<h1>La sous-maxillectomie</h1>
 											</header>
 											<p>
                         La sous-maxillectomie est l'ablation de la glande sous-maxillaire. La <a href="#glande_sousmaxillaire">glande sous-maxillaire</a> est une des glandes salivaires
                         principales. Nous en avons deux, une à droite et une à gauche sous le bord de la mâchoire.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Les pathologies rencontrées au niveau des glandes sous-maxillaires sont les mêmes qu’au niveau de la parotide avec une
                         distribution différente :
@@ -47,7 +47,7 @@
                         En cas d’échec d’un traitement médical ou du fait de la nature de la pathologie, le chirurgien maxillo-facial peut proposer
                         l’ablation de la glande sous-maxillaire.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         L'intervention se déroule sous anesthésie générale et donc en hospitalisation.<br />
                         <a href="#incision">L’incision</a> de quelques centimètres se situe dans un pli cutané du cou. En cas de tumeur, la tumeur sera analysée pendant
@@ -59,7 +59,7 @@
                         nécessaire de faire une petite incision par voie endo-buccale, sous la langue.<br />
                         En fin d’intervention, un drain est mis en place pour évacuer l’hématome post-opératoire. Il sera retiré le jour de la sortie.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         La durée de l’hospitalisation est de 2 ou 3 jours.<br />
                         Les suites opératoires sont peu douloureuses et très bien contrôlées par des antalgiques simples.<br />
@@ -67,7 +67,7 @@
                         La cicatrice s’estompe après quelques mois pour se fondre dans les plis du cou. Il peut persister une légère dépression sous le
                         rebord de la mâchoire.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une parotidectomie, le risque de complication n’est pas nul.<br />

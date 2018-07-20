@@ -25,7 +25,7 @@ session_start();
 									<!-- Sidebar -->
                     <section>
                       <header>
-                        <h2>Formulaire de contact</h2>
+                        <h1>Formulaire de contact</h1>
                       </header>
 											<div>
 											  <?php if(array_key_exists('errors',$_SESSION)): ?>
@@ -46,7 +46,7 @@ session_start();
 														<input required type="text" name="surname" class="form-control" id="inputname" value="<?php echo isset($_SESSION['inputs']['surname'])? $_SESSION['inputs']['surname'] : ''; ?>"><br />
 														<label for="inputemail">Votre adresse mail</label><br />
 	                          <input required type="email" name="email" class="form-control" id="inputemail" value="<?php echo isset($_SESSION['inputs']['email'])? $_SESSION['inputs']['email'] : ''; ?>"><br>
-														<textarea required name="message" class="form-control" id="inputmessage" rows="12" cols="27" placeholder="Votre message"><?php echo isset($_SESSION['inputs']['message'])? $_SESSION['inputs']['message'] : ''; ?></textarea><br>
+														<textarea required name="message" class="form-control" id="inputmessage" rows="12" placeholder="Votre message"><?php echo isset($_SESSION['inputs']['message'])? $_SESSION['inputs']['message'] : ''; ?></textarea><br>
 														<label class="remarque">Remarque</label>
 													  <input class="remarque" name="remarque"
 													            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,3}$"

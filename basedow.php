@@ -30,13 +30,13 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La maladie de Basedow</h2>
+												<h1>La maladie de Basedow</h1>
 											</header>
 											<p>
                         La maladie de Basedow est une hyperthyroïdie auto-immune provoquée par des anticorps circulants stimulant la thyroïde dénommés
                         anticorps anti-récepteurs à la TSH (TRAK). La maladie touche principalement la femme jeune dans la seconde ou la troisième
                         décade de vie.<br />
-                        Les patients atteints de la maladie de Basedow peuvent développer ce que l’on appelle une &laquo;orbitopathie dysthyroïdienne&raquo;.
+                        Les patients atteints de la maladie de Basedow peuvent développer ce que l’on appelle une "orbitopathie dysthyroïdienne".
                         Celle-ci va se traduire par une exophtalmie parfois importante.<br />
                         Cette exophtalmie est due à une infiltration des muscles de l’œil et/ou de la graisse orbitaire ce qui entraîne une augmentation
                         de volume intra-orbitaire. Une diplopie (vision double) et/ou une rétraction des paupières (inférieures, supérieures ou les deux)

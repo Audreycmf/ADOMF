@@ -30,13 +30,13 @@
 									<div class="9u 12u(mobile)">
                     <section>
                       <header>
-                        <h2>La résection apicale (kyste apico-dentaire)</h2>
+                        <h1>La résection apicale (kyste apico-dentaire)</h1>
                       </header>
                       <p>
                         Les kystes apico-dentaires se développent à la pointe de la racine des dents mortifiées. Il s’agit d’une lésion infectieuse chronique,
                         évoluant lentement et à bas bruit.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation peut survenir dans les cas suivant :
                         <ul class="basic-list">
@@ -54,7 +54,7 @@
                         avec le sinus maxillaire), de l’état général du patient. Le chirurgien maxillo-facial vous expliquera la solution la plus adaptée à votre
                         cas.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         La résection apicale consiste à supprimer le kyste dentaire et seulement l’extrémité de la racine dentaire. Elle se déroule sous
                         anesthésie locale la plupart du temps, mais peut parfois bénéficier d’une anesthésie générale. La gencive est suturée avec du fil
@@ -63,7 +63,7 @@
                         votre dentiste afin qu'il procède au traitement canalaire de la dent. Idéalement la dévitalisation de la dent sera réalisée avant la
                         résection.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
@@ -81,7 +81,7 @@
                           <li>un arrêt du tabac pendant la période postopératoire. Le tabac favorise les complications infectieuses et de mauvaise cicatrisation</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />
@@ -137,6 +137,10 @@
 											<header>
 												<h2>Résection apicale</h2>
 											</header>
+											<h3>Kyste apical</h3>
+											<img src="images/kyste_apical" alt="" width=100% />
+											<p> <img src="images/trait_jaune.jpg" alt="" width=8% /> Kyste aux dépens de plusieurs dents</p>
+											<h3>Vidéo de résection apicale</h3>
 											<iframe width=100% src="https://www.youtube.com/embed/vaMhwKakeXg?rel=0&start=2&end=47" frameborder="0" allowfullscreen></iframe>
 										</section>
 

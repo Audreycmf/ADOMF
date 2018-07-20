@@ -35,20 +35,23 @@
                   </div>
 
                   <div class="9u 12u(mobile)">
+										<header>
+											<h1>Le traitement du syndrome d'apnées obstructives du sommeil</h1>
+										</header>
 										<section>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La pression positive continue nasale</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La pression positive continue nasale</h2>
 											<p>
                         Il s’agit d’une petite machine à turbine qui propulse sous pression l’air ambiant dans les voies respiratoires de façon continue
                         par l’intermédiaire d’un <a href="#ppc">masque facial</a>. Ce dernier s’applique sur le nez, parfois sur le nez et sur la bouche. La pression de
                         l’air empêche la fermeture des voies aériennes et la respiration se fait ainsi facilement.
                         Il vous sera prescrit par votre médecin du sommeil (pneumologue, cardiologue ou ORL le plus souvent).
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L'orthèse d'avancée mandibulaire</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L'orthèse d'avancée mandibulaire</h2>
                       <p>
                         Il s’agit d’un <a href="#oam">dispositif buccal</a> qui permet de maintenir la mâchoire inférieure en position avancée durant le sommeil. Cette
                         avancée maintenue libère le passage de l’air au niveau du pharynx et élimine ou diminue le phénomène d’obstruction.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La chirurgie</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La chirurgie</h2>
                       <p>
                         Il s'agit d'une chirurgie orthognatique à type d'ostéotomie bimaxillaire. Vous trouverez toutes les informations nécessaires dans
                         <a href="bimax.php">cette fiche</a>.

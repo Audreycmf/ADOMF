@@ -30,17 +30,17 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>L'allongement paplébral</h2>
+												<h1>L'allongement paplébral</h1>
 											</header>
 											<p>
                         L’exophtalmie basedowienne peut s’accompagner d’une rétraction palpébrale supérieure en lien avec la fibrose musculaire. Cette
                         anomalie est corrigée en dernier dans le schéma opératoire des maladies de Basedow, à 6 mois de la dernière intervention.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Elle évaluera l’importance de la rétraction. Ceci sert à déterminer la technique chirurgicale adaptée à votre cas.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle consiste à allonger le muscle releveur de la paupière supérieure plus ou moins avec un greffon et à affaiblir le muscle de
                         Müller.<br />
@@ -48,7 +48,7 @@
                         cadre d’une hospitalisation ambulatoire.<br />
                         Une cicatrice sera cachée dans le pli palpébral supérieur.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Elles sont simples. Elle nécessitent :
                         <ul class="basic-list">
@@ -58,7 +58,7 @@
                         L’ablation des fils se fait au 7ème jour.<br />
                         L’ecchymose et l’œdème peuvent persister jusqu’à 10 jours.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

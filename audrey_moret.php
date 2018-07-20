@@ -47,7 +47,7 @@
 									<!-- Main Content -->
 										<section>
 											<header class="center">
-												<h2 id="name">Docteur Audrey Moret</h2>
+												<h1 id="name">Docteur Audrey Moret</h1>
                       	<img src="images/photo_moret.jpg" class="bordered-feature-image" alt="" /></a>
 											</header>
 											<div id="liens_telechargement">

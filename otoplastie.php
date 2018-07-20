@@ -30,7 +30,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>L'otoplastie</h2>
+												<h1>L'otoplastie</h1>
 											</header>
 											<p>
                         L’intervention chirurgicale destinée à corriger les oreilles décollées est appelée otoplastie. Elle vise à remodeler le
@@ -38,7 +38,7 @@
                         fin aux moqueries et autres remarques désobligeantes susceptibles d'être à l'origine de difficultés psychologiques ou de
                         conflits scolaires.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Les oreilles décollées sont le résultat d’anomalies de forme (défaut de plicature) et/ou de taille (hypertrophie de conque) au
                         niveau du cartilage de l’oreille. La consultation permet de déterminer la part de chaque anomalie et de vous expliquer les
@@ -48,7 +48,7 @@
                         pavillon de l'oreille (vers 7 ou 8 ans), en dehors de la puberté. Par ailleurs, il est important d’évaluer la motivation de
                         l’enfant.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Que l’intervention soit sous anesthésie locale ou générale, le technique est identique : remodelage du  cartilage et retrait
                         d’une languette de peau en arrière de l’oreille. Les cicatrices sont dissimulées en arrière de l’oreille.<br />
@@ -57,7 +57,7 @@
                         En fin d’intervention, un pansement compressif est appliqué.<br />
                         La durée de l’intervention est en moyenne d’une heure.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les suites opératoires sont les suivantes :
                         <ul class="basic-list">
@@ -74,7 +74,7 @@
                             se soient assouplis et que la totalité de l'oedème se soit résorbé</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

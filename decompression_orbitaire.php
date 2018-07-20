@@ -30,14 +30,14 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La décompression orbitaire</h2>
+												<h1>La décompression orbitaire</h1>
 											</header>
 											<p>
-                        La décompression orbitaire, est une chirurgie qui consiste à faire &laquo;de la place&raquo; dans l’orbite en enlevant de l’os,
+                        La décompression orbitaire, est une chirurgie qui consiste à faire "de la place" dans l’orbite en enlevant de l’os,
                         plus ou moins de la graisse, afin de réduire l’exophtalmie et de faire rentrer les yeux dans les orbites. C’est le premier
                         temps chirurgical dans le traitement de la maladie de Basedow.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation va permettre de déterminer le stade clinique et le grade tomodensitométrique de l’ophtalmopathie basedowienne.
                         Le tabac est un facteur de mauvaise réponse thérapeutique.<br />
@@ -48,7 +48,7 @@
                         qu’après une période de stabilisation de 6 mois.<br />
                         En  complément, un examen ophtalmologie préopératoire complet vous sera demandé.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle se déroule sous anesthésie générale au cours d’une hospitalisation de 2 jours. Aucune incision n’est visible puisque l’on
                         passe par l’intérieur de la paupière de chaque œil.<br />
@@ -58,7 +58,7 @@
                         réalisée en complément.<br />
                         L’intervention dure environ 1h30.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les suites opératoires sont peu douloureuses.<br />
                         Des compresses glacées seront placées sur vos yeux afin de diminuer l’œdème et les ecchymoses post-opératoires. Elles ont
@@ -67,7 +67,7 @@
                         régulièrement de la pommade dans vos yeux afin d’éviter une irritation de vos cornées.<br />
                         Il vous sera interdit de vous moucher pendant 6 semaines.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

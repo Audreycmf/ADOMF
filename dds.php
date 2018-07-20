@@ -36,14 +36,14 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>L'avulsion des dents de sagesse</h2>
+												<h1>L'avulsion des dents de sagesse</h1>
 											</header>
 											<p>
                         Les 4 dents de sagesse (ou troisième molaire) sortent normalement à la fin de l’adolescence. Parfois leur nombre est inférieur. Lorsque
                         les dents de sagesse ne sont pas sorties correctement sur l’arcade, elles sont dites enclavées (à moitié sorties) ou incluses (bloquées
                         dans l’os).
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         L’indication d’extraction des dents de sagesse peut être posées dans les situations suivantes :
                         <ul class="basic-list">
@@ -58,7 +58,7 @@
                         mâchoires) avant l’intervention pour connaître précisément les rapports anatomiques entre le nerf et la dent afin de limiter le risque de
                         complication.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         L’extraction des dents de sagesse peut se pratiquer :
                         <ul class="basic-list">
@@ -72,7 +72,7 @@
                         minutes par dent. La gencive inférieure est suturée par un fil résorbable (qui disparaît seul en 3 semaines environ). La gencive
                         supérieure ne nécessite pas de suture le plus souvent.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
@@ -91,7 +91,7 @@
                           <li>un arrêt du tabac pendant la période postopératoire</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />
@@ -162,6 +162,10 @@
 											<header>
 												<h2>Avulsion de dents de sagesse</h2>
 											</header>
+											<h3>Un panoramique dentaire</h3>
+											<img src="images/dent_sagesse.jpg" alt="" width=100% />
+											<p> <img src="images/X_rouge.jpg" alt="" width=8% /> Dents de sagesse</p>
+											<p> <img src="images/trait_jaune.jpg" alt="" width=8% /> Nerf alvéolaire inférieur</p>
                       <h3>Avulsion de dent de sagesse mandibulaire</h3>
 											<iframe width=100% src="https://www.youtube.com/embed/5JlDXDi8Vlw?rel=0&start=13&mute=1&controls=0" frameborder="0" allowfullscreen id="video"></iframe>
                       <h3>Avulsion de dent de sagesse maxillaire</h3>

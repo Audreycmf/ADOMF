@@ -30,7 +30,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>Le lifting cervico-facial</h2>
+												<h1>Le lifting cervico-facial</h1>
 											</header>
 											<p>
                         Le vieillissement de la face et du cou est la conséquence de la ptose (ou "chute") des tissus (peau et muscles), et de
@@ -40,7 +40,7 @@
                         du visage sans en modifier le caractère. Le lifting cervico-facial peut être associé à d’autres techniques : la
                         <a href="blepharoplastie.php">blépharoplastie</a> ou les injections de graisse ou d’<a href="acide_hyaluronique.php">acide hyaluronique</a>.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Le praticien va s’enquérir de vos motivations et espérance, examiner votre visage, dépister la possibilité de sources de
                         complications (diabète, hypertension…).<br />
@@ -48,7 +48,7 @@
                         A noter, la prise d’aspirine ou d’anti-inflammatoires est déconseillée dans les 10 jours précédents l’intervention. Le
                         tabagisme est également fortement déconseillé.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle se déroule sous anesthésie générale le plus souvent lors d’une hospitalisation avec sortie le lendemain ou le surlendemain.<br />
                         A partir d'incisions dissimulées dans les cheveux, en avant et en arrière des oreilles, le principe est de remettre en tension
@@ -57,7 +57,7 @@
                         entre le 5ème et 7ème jour. En fin d’intervention un pansement est réalisé englobant la tête.<br />
                         L’intervention dure 2-3 heures en fonction de la complexité.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         L’intervention est peu douloureuse en général. Un œdème (gonflement), des ecchymoses (bleus) et des sensations de tension
                         autour de la tête sont présents mais très variables d’un individu à l’autre dans leur durée. Le maquillage permet de masquer
@@ -68,7 +68,7 @@
                         retrouver un visage reposé avec des traits d’une dizaine d’années de moins. Cependant le vieillissement poursuit son court et
                         un nouveau lifting  est envisageable une dizaine d’années plus tard.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />

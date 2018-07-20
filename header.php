@@ -4,7 +4,7 @@
       <div class="12u">
 
         <!-- Logo -->
-          <h1><a href="index.php" id="logo">A.D.O.M.F.</a></h1>
+          <h2><a href="index.php" id="logo">A.D.O.M.F.</a></h2>
 
         <!-- Nav -->
           <nav id="nav">
@@ -24,8 +24,8 @@
         <div class="6u 12u(mobile)">
 
           <!-- Banner Copy -->
-            <h1><span class="maj">A</span>ssociation des <span class="maj">D</span>isciplines <span class="maj">O</span>rthodontiques
-              et <span class="maj">M</span>axillo-<span class="maj">F</span>aciales</h1>
+            <h2><span class="maj">A</span>ssociation des <span class="maj">D</span>isciplines <span class="maj">O</span>rthodontiques
+              et <span class="maj">M</span>axillo-<span class="maj">F</span>aciales</h2>
             <p id="adresse">Avenue des Tamaris <br />
               13616 Aix-en-Provence</p>
             <a href="tel: +33442335097" class="mobile_uniquement" class="link-list">04 42 33 50 97</a>

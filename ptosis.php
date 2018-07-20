@@ -30,20 +30,20 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>Le ptosis</h2>
+												<h1>Le ptosis</h1>
 											</header>
 											<p>
                         C’est une chute de la paupière supérieure (insuffisance du muscle releveur de la paupière) occasionnant une diminution de
                         l’ouverture de l’œil. Le but du traitement chirurgical est à la fois esthétique et fonctionnel (permettre une bonne vision) en
                         soulevant la paupière qui ampute le champ visuel supérieur.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Elle permet de déterminer l’origine du ptosis : musculaire, neurologique, aponévrotique (lié à l’âge) et élimine les faux
                         ptosis (notamment le dermatochalazis sévère, c’est-à-dire la chute du sourcil).<br />
                         On vous demandera de ne pas prendre d’aspirine dans les 10 jours qui précèdent l’intervention.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle se fait sous anesthésie générale le plus souvent, ou anesthésie locale.<br />
                         Chez l'adulte, le plus souvent, le ptosis est apparu progressivement avec l'âge et est lié à une désinsertion de l'attache
@@ -55,14 +55,14 @@
                         supérieur donc quasiment invisible.<br />
                         Les fils sont retirés après 7 jours.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les suites immédiates sont généralement simples, marquées par un œdème et un possible hématome spontanément résolutifs. Une
                         difficulté  transitoire à fermer les yeux est possible. La pommade  ophtalmique à la vitamine A est systématiquement prescrite
                         les premiers jours pour protéger l’œil. Il faut compter une dizaine de jours avant la reprise de la vie sociale ou scolaire.
                         Les résultats définitifs doivent être jugés à 6 mois de l'intervention.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />
@@ -99,6 +99,9 @@
 											<header>
 												<h2>Le ptosis</h2>
 											</header>
+											<h3>Ptosis de la paupière supérieure droite</h3>
+											<img src="images/ptosis.png" alt="" width=100% />
+											<h3>Vidéo d'une cure de ptosis</h3>
                       <iframe width=100% src="https://www.youtube.com/embed/nq7puOY7arw?rel=0" frameborder="0" allowfullscreen></iframe>
                     </section>
 

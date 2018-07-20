@@ -31,7 +31,7 @@
 									<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>La génioplastie ou mentoplastie</h2>
+												<h1>La génioplastie ou mentoplastie</h1>
 											</header>
 											<p>
                         La génioplastie ou mentoplastie est une intervention qui a pour but la modification de la forme du menton et éventuellement
@@ -40,7 +40,7 @@
                         convenant à la psychologie et à la personnalité du patient et répondant aux demandes de ce dernier.<br />
                         L’intervention peut être associée à un autre type d’intervention de chirurgie orthognatique (Cf. fiches correspondantes).
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Le praticien va s’enquérir de vos motivations et espérance, examiner votre visage et analyser vos rapports
                         dento-maxillaires. Le praticien pourra, à l’issue de cette analyse globale, vous donner toute l’information utile sur les
@@ -48,7 +48,7 @@
                         Le  praticien vous donnera également quelques recommandations : acquisition d’un jet dentaire, la prise d’aspirine ou d’anti-inflammatoires est déconseillée
                         dans les 10 jours précédents l’intervention. Le tabagisme est également fortement déconseillé.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle se déroule sous anesthésie générale, le plus souvent lors d’une hospitalisation de 1 à 2 jours.<br />
                         L'incision est dissimulée dans les gencives. Il n’y a aucune incision sur la peau. L’os est découpé précisément (par
@@ -59,7 +59,7 @@
                         L’intervention dure 1 heure. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
                         La mâchoire retrouve une solidité normale en 6 semaines.<br />
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
@@ -78,7 +78,7 @@
                           <li>un arrêt du tabac pendant la période postopératoire</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une ostéotomie de Le Fort, le risque de complication n’est pas nul.<br />

@@ -46,7 +46,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>L'ectropion et l'entropion</h2>
+												<h1>L'ectropion et l'entropion</h1>
 											</header>
 											<p>
                         Les troubles de la statique palpébrale se traduisent par une malposition de la paupière, en particulier du bord libre qui
@@ -57,13 +57,13 @@
                         oculaire est mal protégé et la cornée peut s'ulcérer. L'éversion peut toucher le point lacrymal en dedans et de ce fait
                         entraîner un larmoiement.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         Elle va déterminer l’origine de votre entropion/ectropion (congénital, sénile, spasmodique, cicatriciel, paralytique).<br />
                         Nous testerons la laxité horizontale et verticale et évaluerons la qualité de la peau.<br />
                         L’ensemble de ces éléments nous permet de choisir latechnique opératoire la plus adaptée à votre cas.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         Cette intervention peut se faire sous anesthésie générale ou le plus souvent sous anesthésie locale, éventuellement
                         potentialisée par l'anesthésiste (neuroleptanalgésie), au décours d’une hospitalisation d’une ou 2 journées.<br />
@@ -72,7 +72,7 @@
                         morceau de paupière sur toute son épaisseur. En cas d'ectropion isolé du point lacrymal, on pourra essayer de le repositionner
                         en ne retirant qu'une partie de la conjonctive et du tarse sous-jacent qui se trouve sur la face interne de la paupière.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Elles sont simples. Elle nécessitent :
                         <ul class="basic-list">
@@ -82,7 +82,7 @@
                         L’ablation des fils se fait au 7ème jour.<br />
                         L’ecchymose et l’œdème peuvent persister jusqu’à 10 jours.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />
@@ -112,6 +112,8 @@
 											<header>
 												<h2>L'ectropion</h2>
 											</header>
+											<h3>Ectropion modéré bilatéral</h3>
+											<img src="images/ectropion.png" alt="" width=100% />
                       <h3>Tarsorraphie externe</h3>
                         <iframe width=100% src="https://www.youtube.com/embed/gNiqoBU-nAw?rel=0&start=2&end=22&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
                       <h3>Greffe de peau</h3>

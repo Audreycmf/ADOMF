@@ -44,7 +44,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>Le traitement des rides et ridules du visage</h2>
+												<h1>Le traitement des rides et ridules du visage</h1>
 											</header>
 											<p>
                         On distingue 2 types de rides : les rides d’expression dues à une hyperactivité des muscles sous-jacents (front, rides du lion)

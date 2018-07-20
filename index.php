@@ -39,7 +39,7 @@
 
 									<!-- Box -->
 										<section>
-											<h2>Qu'est-ce que l'A.D.O.M.F. ?</h2>
+											<h1>Qu'est-ce que l'A.D.O.M.F. ?</h1>
 											<p>
 												Cette association a pour but le rassemblement des chirurgiens maxillo-faciaux, des orthodontistes et autres spécialistes de la sphère
 												oro-faciale, sans but lucratif, à des fins de favoriser, développer et promouvoir la recherche, la formation et l'enseignement médical.
@@ -52,7 +52,7 @@
 												complications potentielles) et enfin pourra répondre à vos interrogations.
 											</p>
 
-											<h2>Qu'est-ce que la chirurgie maxillo-faciale ?</h2>
+											<h1>Qu'est-ce que la chirurgie maxillo-faciale ?</h1>
 											<p>
 												Les Deux guerres mondiales du XXème siècle ont été pourvoyeuses d'un grand nombre de traumatismes faciaux majeurs à l'origine
 												des célèbres "Gueules cassées". Un blessé qui survivait était toujours défiguré. Certains chirurgiens se sont alors réellement
@@ -67,7 +67,7 @@
 												plastique de la face est reconnu au même titre que celui de Chirurgie Plastique Reconstructrice et Esthétique par la
 												Société Française de Chirurgie Plastique Reconstructrice et Esthétique et lui permet donc d'adhérer à cette Société.
 
-												<h3>Ses compétences officielles couvrent :</h3>
+												<h2>Ses compétences officielles couvrent :</h2>
 													<ul class="check-list">
 														<li>la chirurgie plastique, la chirurgie reconstructrice et la chirurgie esthétique de la face</li>
 														<li>la  chirurgie orthognathique (problèmes  d’occlusion dentaire  en  relation  avec  des  anomalies  de  taille  ou  de  rapport  des
@@ -79,7 +79,7 @@
 														<li>la chirurgie des glandes salivaires</li>
 														<li>la chirurgie orbito-palpébrale</li>
 													</ul>
-												<h3>Les chirurgiens maxillo-faciaux travaillent souvent en étroite collaboration :</h3>
+												<h2>Les chirurgiens maxillo-faciaux travaillent souvent en étroite collaboration :</h2>
 													<ul class="basic-list">
 														<li>avec les orthodontistes (chirurgie orthognathique)</li>
 														<li>avec les dentistes (extraction de dents de sagesse, kystes, greffe osseuse, mise en place d'implants)</li>

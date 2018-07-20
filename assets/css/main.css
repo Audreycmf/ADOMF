@@ -1090,10 +1090,16 @@
 			text-decoration: none;
 		}
 
+	h3 {
+		font-size: 1.2em;
+		color: #212f35;
+		padding: 0.7em 0 0.7em 1.3em;
+		background: url("images/icon-checkmark.png") 0px 0.8em no-repeat;
+	}
+
 	h4 {
 		font-size: 1.1em;
-		padding: 0.7em 0 0.7em 45px;
-		background: url("images/icon-checkmark.png") 0px 1.05em no-repeat;
+		color: #353d40;
 	}
 
 		/* Header */
@@ -1108,7 +1114,7 @@
 		text-decoration: none;
 	}
 
-	#banner h1 {
+	#banner h2 {
 		font-size: 2.5em;
 		margin-bottom: 1em;
 	}
@@ -1225,6 +1231,11 @@
 			width: 100%;
 		}
 
+	.subpage .bordered-feature-image {
+		width: 10em;
+		margin-top: 1em;
+	}
+
 		/* Content */
 
 	#content .button-big {
@@ -1311,7 +1322,7 @@
 		float: left;
 	}
 
-	#content .portrait_sidebar img {
+	#content .portrait_sidebar {
 		display: flex;
 		background: #fff url("images/bg04.png");
 		padding: 10px;
@@ -1350,7 +1361,6 @@
 
 	iframe {
 		margin-bottom: 2em;
-		margin-top: 1em;
 	}
 
 	.coche_rouge {
@@ -1467,14 +1477,14 @@
 				min-width: 1260px;
 			}
 
-				#header h1 {
+				#header h2 {
 					position: absolute;
 					left: 15.8536585366%;
 					bottom: 35px;
 					font-size: 2.75em;
 				}
 
-					#header h1 a {
+					#header h2 a {
 						color: #fff;
 						text-decoration: none;
 					}
@@ -1562,13 +1572,13 @@
 				margin: 0 0 10% 0;
 			}
 
-			#content h2 {
+			#content h1 {
 				font-size: 1.8em;
 				color: #373f42;
 				margin: 0 0 0.25em 0;
 			}
 
-			#content h3 {
+			#content h2 {
 				color: #96a9b5;
 				font-size: 1.25em;
 			}
@@ -1689,7 +1699,7 @@
 				min-width: 737px;
 			}
 
-			#header h1 {
+			#header h2 {
 				font-size: 2.25em;
 				left: 2.5%;
 			}
@@ -1704,12 +1714,12 @@
 
 		/* Content */
 
-			#content h2 {
+			#content h1 {
 				font-size: 1.4em;
 			}
 
-			#content h3 {
-				font-size: 1.1em;
+			#content h2 {
+				font-size: 1.15em;
 			}
 
 			#content header {
@@ -1814,7 +1824,7 @@
 					width: 80%;
 				}
 
-				#banner h1 {
+				#banner h2 {
 					font-size: 1.75em;
 				}
 
@@ -1873,15 +1883,15 @@
 				margin: 0 0 5px 0;
 			}
 
-			#content h2 {
+			#content h1 {
 				font-size: 1.25em;
 				color: #373f42;
 				margin: 0 0 0.1em 0;
 			}
 
-			#content h3 {
+			#content h2 {
 				color: #96a9b5;
-				font-size: 1em;
+				font-size: 1.15em;
 			}
 
 			#content a {

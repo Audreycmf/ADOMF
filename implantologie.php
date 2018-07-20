@@ -49,14 +49,14 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>Les implants dentaires</h2>
+												<h1>Les implants dentaires</h1>
 											</header>
 											<p>
-                        Un implant dentaire est une &laquo;racine&raquo; artificielle permettant le remplacement d’une dent manquante. Il s’agit d’une
+                        Un implant dentaire est une "racine" artificielle permettant le remplacement d’une dent manquante. Il s’agit d’une
                         vis en titane qui est ancrée dans l’os (mâchoire supérieure ou inférieure) et qui permet de recevoir la prothèse (fausse
                         couronne dentaire) par l’intermédiaire d’un pilier.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation permet de faire une évaluation de la possibilité de mise en place d'implants. Un cone beam vous sera demandé afin
                         de déterminer si vous devez prélablement par une étape de <a href="preimplantaire.php">chirurgie pré-implantaire</a>.<br />
@@ -91,7 +91,7 @@
                           </li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
                       <p>
                         L’intervention se déroule généralement sous anesthésie locale. Le chirurgien incise la gencive et passe différents forêts dans
                         l’os de la mâchoire afin de placer l’implant. La cicatrisation de celui-ci (appelée ostéointégration) varie entre 3 à 6 mois
@@ -99,7 +99,7 @@
                         L’implant et la prothèse peuvent être posés le même jour mais ces indications sont très précises et nécessitent une étroite
                         collaboration entre le chirurgien et le praticien.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les suites post-opératoires sont en général :
                         <ul class="basic-list">
@@ -116,7 +116,7 @@
                             dent post-chirurgicale</li>
                         </ul>
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une parotidectomie, le risque de complication n’est pas nul.<br />
@@ -126,9 +126,9 @@
                         Pour autant, et malgré leur rareté, vous devez quand même connaître les complications possibles :
                         <ul class="basic-list">
                           <li>le risque anesthésique : bien que rarissime, une allergie est toujours possible</li>
-                          <li>la non intégration de l’implant (appelée à tort &laquo;rejet&raquo;) se traduit par la mobilité et la perte de l’implant.
+                          <li>la non intégration de l’implant (appelée à tort "rejet") se traduit par la mobilité et la perte de l’implant.
                           Les implants sont entitane  pur, matériau utilisé depuis de nombreuses années pour les prothèses de hanche, il ne s’agit pas
-                          d’une allergie ou de rejet immunitaire, mais de l’absence de &laquo;fusion&raquo; entre l’os et le titane</li>
+                          d’une allergie ou de rejet immunitaire, mais de l’absence de "fusion" entre l’os et le titane</li>
                           <li>les infections sont rares. Elles peuvent concerner le voisinage (abcès et péri-implantite), les tissus mous de la face ou
                           de la bouche (cellulite), les sinus (sinusite). Pour éviter ces complications, les implants sont posés dans des conditions
                           d’asepsie rigoureuse, une antibiothérapie post-opératoire est prescrite</li>
@@ -146,16 +146,16 @@
                           <li>une lésion d’une dent voisine</li>
 												</ul>
 											</p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Avantages</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Avantages</h2>
                       <p>
                         Les implants permettent la pose d’une prothèse fixe. Ils peuvent remplacer une prothèse amovible partielle ou totale (dentier).
                         Le patient retrouve une mastication améliorée, une élocution plus adaptée et un meilleur confort.<br />
-                        En cas de prothèse fixe sur dents naturelles (bridge), les dents adjacentes doivent être &laquo;sacrifiées&raquo;. La pose
+                        En cas de prothèse fixe sur dents naturelles (bridge), les dents adjacentes doivent être "sacrifiées". La pose
                         d’implants dentaires évite de traiter les dents avoisinantes saines ou déjà fragilisées (mobilité...).<br />
                         Les implants peuvent également stabiliser une prothèse totale amovible (dentier) grâce à un système d’accroches. Cependant, le
                         patient pourra enlever sa prothèse afin de réaliser les soins d’hygiène quotidiens.
                       </p>
-                      <h3><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Durée de vie</h3>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Durée de vie</h2>
                       <p>
                         Après un recul d’une trentaine d’années, nous pouvons affirmer qu’avec une bonne hygiène du patient et un suivi régulier annuel
                         auprès de son praticien et chirurgien, les implants sont une alternative de réhabilitation pouvant durer une dizaine d’années

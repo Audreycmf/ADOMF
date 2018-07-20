@@ -21,10 +21,10 @@
 									<!-- Main Content -->
 										<section>
 											<header>
-												<h2>Les chirurgiens</h2>
+												<h1>Les chirurgiens</h1>
 											</header>
                       <a href="pierre_revol.php" class="portrait"><img src="images/photo_revol.jpg" alt="" /></a>
-                      <h3 class="lien_gris"><a href="pierre_revol.php">Dr Pierre Revol</a></h3>
+                      <h2 class="lien_gris"><a href="pierre_revol.php">Dr Pierre Revol</a></h2>
 											<p>
 												Chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face.<br />
 												Chef de service du service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Cofondateur et président de
@@ -33,7 +33,7 @@
 												congrès sur la sphère faciale. Par ailleurs, il participe à des missions humanitaires.
 											</p>
                       <a href="audrey_moret.php" class="portrait"><img src="images/photo_moret.jpg" alt="" /></a>
-                      <h3 class="lien_gris"><a href="audrey_moret.php">Dr Audrey Moret</a></h3>
+                      <h2 class="lien_gris"><a href="audrey_moret.php">Dr Audrey Moret</a></h2>
 											<p>
 												Chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face.<br />
 												Trésorière de l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />
@@ -41,7 +41,7 @@
 												d’enseignement. Elle se rend régulièrement aux différents congrès portant sur la sphère faciale.
 											</p>
                       <a href="julie_garconnet.php" class="portrait"><img src="images/photo_garconnet.jpg" alt="" /></a>
-                      <h3 class="lien_gris"><a href="julie_garconnet.php">Dr Julie Garçonnet</a></h3>
+                      <h2 class="lien_gris"><a href="julie_garconnet.php">Dr Julie Garçonnet</a></h2>
 											<p>
 												Chirurgien oral et stomatologue.<br />
 												Secrétaire adjointe de l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />
@@ -56,10 +56,10 @@
 									<!-- Sidebar -->
 										<section>
 											<header>
-												<h2>L'orthodontiste</h2>
+												<h1>L'orthodontiste</h1>
 											</header>
-                      <a href="" class="portrait_sidebar"><img src="images/photo_desouches.jpg" alt="" /></a>
-                      <h3>Renaud Desouches</h3>
+                      <img src="images/photo_desouches.jpg" alt="" class="portrait_sidebar" />
+                      <h2>Renaud Desouches</h2>
 											<p>
 												Chirurgien dentiste Spécialiste qualifié en orthodontie (ODF), Exercice privé à Aix-en-Provence.<br />
 												Cofondateur et secrétaire de l’Association des Disciplines Orthodontiques et Maxillo-Faciales.<br />

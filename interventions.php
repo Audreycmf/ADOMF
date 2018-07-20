@@ -21,7 +21,7 @@
 									<!-- Main Content -->
 										<section>
 											<header>
-												<h2>Les interventions</h2>
+												<h1>Les interventions</h1>
 											</header>
 											<p>
 												Les différents interventions pratiquées par un chirurgien maxillo-facial ou un stomatologue sont les suivantes :

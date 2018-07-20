@@ -23,7 +23,7 @@
                       <p>
 												La simple prononciation de Chirurgie Orthognatique suffit le plus souvent à inquiéter les patients et leur entourage. Cependant
 												la Chirurgie orthopédique des mâchoires (ou Chirurgie Orthognatique) est actuellement une pratique courante.<br />
-												Etymologiquement, Orthognatique signifie &laquo; rendre les os des mâchoires droits &raquo;. Concrètement il s’agit de corriger
+												Etymologiquement, Orthognatique signifie "rendre les os des mâchoires droits". Concrètement il s’agit de corriger
 												les anomalies dento-maxillaires (dysmorphoses dento-maxillaires) responsables de disgrâces faciales (menton trop long/court,
 												visage trop court/long) et d’anomalie des arcades dentaires. Cette chirurgie visant à rétrécir ou rallonger l’os (maxillaire ou
 												mandibule) est précédée et suivie de soins orthodontiques (port de bagues et d’appareils).<br />
@@ -49,7 +49,7 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h2>Le traitement orthodontico-chirurgical</h2>
+												<h1>Le traitement orthodontico-chirurgical</h1>
 											</header>
 											<p>
                         En cas de décalage ou d’anomalie importante des mâchoires, et quand la croissance est terminée, il est indispensable d’associer
