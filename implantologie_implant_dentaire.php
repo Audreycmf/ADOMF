@@ -62,7 +62,7 @@
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation permet de faire une évaluation de la possibilité de mise en place d'implants. Un cone beam vous sera demandé afin
-                        de déterminer si vous devez prélablement passer par une étape de <a href="preimplantaire.php">chirurgie pré-implantaire</a>.<br />
+                        de déterminer si vous devez prélablement passer par une étape de chirurgie pré-implantaire.<br />
                         Ce sera également l'occasion de détecter les contre-indications. Seuls le chirurgien et le praticien sont aptes à poser
                         l’indication ou non. Il y a 2 types de contre-indications :
                         <ul class="basic-list">

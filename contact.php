@@ -67,7 +67,7 @@ session_start();
 											<header>
 												<h2>Venir nous voir</h2>
 											</header>
-                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2892.489210240785!2d5.440450651328253!3d43.53384326805571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c98da5d08f265f%3A0xd474ebff96e7a93d!2sADOMF-+Association+des+disciplines+orthodontique+et+maxillo-faciale!5e0!3m2!1sfr!2sfr!4v1527787618816" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2892.489210240785!2d5.440450651328253!3d43.53384326805571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12c98da5d08f265f%3A0xd474ebff96e7a93d!2sADOMF-+Association+des+disciplines+orthodontique+et+maxillo-faciale!5e0!3m2!1sfr!2sfr!4v1527787618816" width=100% height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
                           <h3>Horaire d'ouverture du secrétariat</h3>
                         <ul class="basic-list">
                           <li>Lundi : 9h-12h 14h-18h</li>
