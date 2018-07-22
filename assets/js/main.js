@@ -126,12 +126,12 @@ for(i=0;i<li;i++) {
 	intitulesListesOrtho[i].addEventListener('click', function() {
 		if (document.getElementById("liste_ortho").innerHTML === "") {
 			document.getElementById("liste_ortho").innerHTML =
-			'<li><a href="lefort.php">L\'ostéotomie de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>\
-			<li><a href="osbm.php">L\'ostéotomie sagittale de branche montante : ostéotomie de la mâchoire inférieure</a></li>\
-			<li><a href="bimax.php">L\'ostéotomie bimaxillaire, qui est une combinaison des deux précédentes</a></li>\
-			<li><a href="dim.php">La disjonction intermaxillaire</a></li>\
-			<li><a href="contraction.php">La contraction mandibulaire</a></li>\
-			<li><a href="genio.php">La génioplastie ou mentoplastie</a></li>';
+			'<li><a href="osteotomie_maxillaire.php">l\'ostéotomie maxillaire de Le Fort I : ostéotomie de la mâchoire supérieure</a></li>\
+			<li><a href="osteotomie_mandibulaire.php">l\'ostéotomie mandibulaire : ostéotomie sagittale de branche montante d\'Obwegeser-Dalpont</a></li>\
+			<li><a href="osteotomie_bimaxillaire.php">l\'ostéotomie bimaxillaire, qui est une combinaison des deux précédentes</a></li>\
+			<li><a href="disjonction_maxillaire.php">la disjonction maxillaire</a></li>\
+			<li><a href="contraction_mandibulaire.php">la contraction mandibulaire</a></li>\
+			<li><a href="genioplastie.php">la génioplastie ou chirurgie du menton</a></li>';
 			document.getElementById('fleche_ortho').style.transform = "rotate(90deg)";
 			document.getElementById('intitule_liste_ortho').style.color = "#474f51";
 			document.getElementById('intitule_liste-ortho').style.textDecoration = "none";
@@ -181,12 +181,12 @@ for(i=0;i<li;i++) {
 	intitulesListesOrbito[i].addEventListener('click', function() {
 		if (document.getElementById("liste_orbito").innerHTML === "") {
 			document.getElementById("liste_orbito").innerHTML =
-			'<li><a href="ectropion_entropion.php">les ectropions et entropions</a></li>\
+			'<li><a href="ectropion_entropion.php">l\'ectropion et l\'entropion</a></li>\
 			<li><a href="ptosis.php">le ptosis</a></li>\
-			<li><a href="basedow.php">la maladie de basedow</a> avec :\
+			<li><a href="maladie_de_basedow.php">la maladie de Basedow</a> avec :\
 				<ol class="level2_list">\
-					<li><a href="decompression_orbitaire.php">la décompression orbitaire</a></li>\
-					<li><a href="allongement_palpebral.php">l\'allongement palpébral</a></li>\
+					<li><a href="exophtalmie.php">le traitement chirurgical d\'une exophtalmie par décompression orbitaire</a></li>\
+					<li><a href="chirurgie_des_paupieres.php">la chirurgie des paupières : l\'allongement palpébral</a></li>\
 				</ol>\
 			</li>';
 			document.getElementById('fleche_orbito').style.transform = "rotate(90deg)";
@@ -222,9 +222,9 @@ for(i=0;i<li;i++) {
 	intitulesListesSto[i].addEventListener('click', function() {
 		if (document.getElementById("liste_sto").innerHTML === "") {
 			document.getElementById("liste_sto").innerHTML =
-			'<li><a href="dds.php">L\'avulsion des dents de sagesse</a></li>\
-			 <li><a href="rebd.php">Les extractions dentaires difficiles</a></li>\
-			 <li><a href="ra.php">La résection apicale (kyste apico-dentaire)</a></li>';
+			'<li><a href="dent_de_sagesse.php">l\'avulsion de dent de sagesse</a></li>\
+			 <li><a href="avulsion_dentaire.php">l\'avulsion dentaire difficile</a></li>\
+			 <li><a href="resection_apicale.php">la résection apicale (kyste dentaire)</a></li>';
 			document.getElementById('fleche_sto').style.transform = "rotate(90deg)";
 			document.getElementById('intitule_liste_sto').style.color = "#474f51";
 			document.getElementById('intitule_liste_sto').style.textDecoration = "none";
@@ -258,7 +258,7 @@ for(i=0;i<li;i++) {
 	intitulesListesEsthetique[i].addEventListener('click', function() {
 		if (document.getElementById("liste_esthetique").innerHTML === "") {
 			document.getElementById("liste_esthetique").innerHTML =
-			'<li><a href="esthetique.php">le traitement des rides et ridules du visage</a> avec :\
+			'<li><a href="chirurgie_esthetique.php">le traitement des ridules et rides du visage</a> avec :\
 				<ol class="level2_list">\
 					<li><a href="acide_hyaluronique.php">les injections d\'acide hyaluronique</a></li>\
 					<li><a href="toxine_botulique.php">les injections de toxine botulique</a></li>\
@@ -266,7 +266,7 @@ for(i=0;i<li;i++) {
 			</li>\
 			<li><a href="blepharoplastie.php">la chirurgie esthétique des paupières ou blépharoplastie</a></li>\
 			<li><a href="otoplastie.php">la chirurgie des oreilles décollées ou  otoplastie</a></li>\
-			<li><a href="lifting.php">le lifting du visage et du cou</a></li>\
+			<li><a href="lifting.php">le lifting</a></li>\
 			<li>la rhinoplastie</li>';
 			document.getElementById('fleche_esthetique').style.transform = "rotate(90deg)";
 			document.getElementById('intitule_liste_esthetique').style.color = "#474f51";

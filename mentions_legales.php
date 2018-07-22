@@ -4,6 +4,8 @@
 	<head>
 		<title>Mentions légales</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="Vous trouverez ici l'ensemble des mentions légales de l'association des disciplines orthodontiques et maxillo-faciales.
+		L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -36,7 +38,7 @@
                          Avenue des Tamaris<br />
                          13616 Aix en Provence cedex 1<br />
                       </p>
-                      <h2><a href="statuts.php">Lire les statuts</a></h2>
+                      <h2><a href="association_loi_1901.php">Lire les statuts</a></h2>
                       <p></p>
                       <h2>Informations hébergeur</h2>
                       <p>

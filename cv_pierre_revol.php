@@ -4,6 +4,9 @@
 	<head>
 		<title>CV Dr Pierre Revol</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="Dr Pierre Revol est le chef de service de chirurgie maxillo-faciale et stomatologie. Vous avez ici son CV
+		complet. L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des
+		Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -24,8 +27,8 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-                        Le docteur Revol est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
-                        de service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Par ailleurs, il est amené à participer à des
+                        Le docteur <strong>Revol</strong> est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
+                        du service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Par ailleurs, il est amené à participer à des
                         missions humanitaires.
                       </p>
                     </section>
@@ -51,8 +54,9 @@
 									<!-- Main Content -->
 										<section>
 											<header class="center">
-												<h1 id="name">Docteur Pierre Revol</h1>
-                      <img src="images/photo_revol.jpg" class="bordered-feature-image" alt="" /></a>
+												<h1>Docteur Pierre Revol</h1>
+                      <img src="images/photo_revol.jpg" class="bordered-feature-image" alt="photo du Dr Pierre Revol pour la chirurgie maxillo-faciale
+												et stomatologue" /></a>
 											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
@@ -64,7 +68,7 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-                        Le docteur Revol est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
+                        Le docteur <strong>Revol</strong> est chirurgien maxillo-facial et stomatologue, spécialisé en chirurgie plastique et réparatrice de la face. Il est chef
                         de service de chirurgie maxillo-faciale et stomatologie du centre hospitalier du pays d’Aix. Par ailleurs, il est amené à participer à des
                         missions humanitaires.
                       </p>
@@ -132,6 +136,8 @@
                       <ul class="basic-list">
                         <li>Chargé de conférences d’internat de Stomatologie et Chirurgie Maxillo-Faciale<br />
 													<i>Cours pour les étudiants de 5ème et 6ème année. Faculté Laënnec, Lyon 1999</i></li>
+												<li>Rhinoplastie et Rhinopoïese<br />
+													<i>5ème Journée Rhône–Alpes de Chirurgie Plastique. Centre Léon Bérard, Lyon 1999</i></li>
                         <li>Conférences d’internat de Stomatologie et Chirurgie Maxillo-Faciale<br />
 													<i>Cours pour les étudiants de 5ème et 6ème année. Faculté de Toulouse, 2003</i></li>
                         <li>Cours de pathologie thérapeutique et spéciale<br />
@@ -152,6 +158,8 @@
 													<i>Cours pour l'équipe des urgences. Hôpital du pays d'Aix 2006</i></li>
                         <li>Carcinomes cutanées de la tête et du cou (hors mélanome)<br />
 													<i>3C du centre hospitalier du pays d'Aix. Aix-en-Provence 2006</i></li>
+												<li>Cours de Techniques chirurgicales sur la rhinoplastie<br />
+													<i>XXXXIIème congrès de stomatologie et chirurgie maxillo-faciale. Besançon 2006</i></li>
                         <li>Biphosphonates, effets secondaires<br />
 													<i>3C du centre hospitalier du pays d'Aix et à la Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2007</i></li>
                         <li>Cours de chirurgie maxillo-faciale et stomatologie<br />
@@ -166,6 +174,10 @@
 													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2010</i></li>
                         <li>Cours de chirurgie maxillo-faciale et stomatologie<br />
 													<i>Service des urgences de l'hôpital de Mayotte. Mayotte 2010</i></li>
+												<li>Ostéotomie de Lefort mécanique versus ultrasonique<br />
+													<i>A.D.O.M.F. Aix-en-Provence 2010</i></li>
+												<li>Chirurgie orthognatique, cours avancés<br />
+                          <i>AO fondation. Sainte-Maxime 2010</i></li>
                         <li>Communications bucco-sinusiennes<br />
 													<i>Société de Stomatologie et Chirurgie Maxillo-Faciale du Sud-Est. 2011</i></li>
                         <li>Fentes platines<br />
@@ -176,6 +188,8 @@
 													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2014</i></li>
                         <li>Urgences médicales en cabinet dentaire<br />
 													<i>Académie du sourire. Aix-en-Provence 2014</i></li>
+												<li>Anatomie-Physiologie-Chirurgie orthognathique<br />
+                          <i>Académie du sourire. Aix-en-Provence 2014</i></li>
                         <li>Les N.A.C.O., adaptations thérapeutiques en CMF & Stomatologie<br />
 													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2015</i></li>
 											</ul>
@@ -275,19 +289,6 @@
                             <i>Médecine Buccale Chirurgie Buccale 2015</i></li>
 													<li>Le recours à la chirurgie orthognatique pré-prothétique<br />
 														<i>Dentoscope, 2017;176:36-40</i></li>
-                        </ul>
-                        <h4>Cours</h4>
-                        <ul class="basic-list">
-                          <li>Rhinoplastie et Rhinopoïese<br />
-                            <i>5ème Journée Rhône–Alpes de Chirurgie Plastique. Centre Léon Bérard, Lyon 1999</i></li>
-                          <li>Cours de Techniques chirurgicales sur la rhinoplastie<br />
-                            <i>XXXXIIème congrès de stomatologie et chirurgie maxillo-faciale. Besançon 2006</i></li>
-                          <li>Ostéotomie de Lefort mécanique versus ultrasonique<br />
-                            <i>A.D.O.M.F. Aix-en-Provence 2010</i></li>
-                          <li>Chirurgie orthognatique, cours avancés<br />
-                            <i>AO fondation. Sainte-Maxime 2010</i></li>
-                          <li>Anatomie-Physiologie-Chirurgie orthognathique<br />
-                            <i>Académie du sourire. Aix-en-Provence 2014</i></li>
                         </ul>
                         <h4>Posters</h4>
                         <ul class="basic-list">

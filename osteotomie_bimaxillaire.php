@@ -2,10 +2,13 @@
 
 <html>
 	<head>
-		<title>La chirurgie orthognatique - Ostéotomie mandibulaire d'Obwegeser-Dalpont</title>
+		<title>Ostéotomie bimaxillaire - Chirurgie orthognatique</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="L'ostéotomie bimaxillaire est réalisée lorsqu'il existe des anomalies des deux mâchoires. Vous trouverez ici la
+		fiche intervention de ce type de chirurgie orthognatique. L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616
+		Aix-en-Provence.">
 	</head>
-	<body class="subpage">
+	<body class="subpage" >
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -19,40 +22,41 @@
 								<div class="12u">
 
 									<!-- Main Content -->
-                    <section>
-											<a href="orthognatique.php">Le traitement orthodontico-chirurgical</a>
-											<p class="intitule_liste_ortho" id="intitule_liste_ortho">
-												Les différentes interventions de chirurgie orthognatique<img src="images/fleche.png" alt="" class="fleche" id="fleche_ortho">
+                    <section class="non_imprime">
+											<a href="chirurgie_orthognatique.php">Le traitement orthodontico-chirurgical</a>
+                      <p class=intitule_liste_ortho id="intitule_liste_ortho">
+												Les différentes interventions de chirurgie orthognatique<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche_ortho">
                       </p>
 											<ul class="basic-list" id="liste_ortho"></ul>
                     </section>
 								</div>
 
-								<div class="9u 12u(mobile)">
+								<div class="9u 12u(mobile)" class="subpage2">
 										<section>
 											<header>
-												<h1>L'ostéotomie sagittale de branche montante d'Obwegeser-Dalpont : ostéotomie de la mâchoire inférieure</h1>
+												<h1>L'ostéotomie bimaxillaire</h1>
 											</header>
 											<p>
-                        L’ostéotomie mandibulaire d’Obwegeser-Dalpont permet de corriger les anomalies de position de la mâchoire inférieure (mandibule) et de
-                        son arcade dentaire. Ces anomalies se manifestent par une disgrâce et des troubles de l’occlusion dentaire.<br />
+                        L’<strong>ostéotomie bimaxillaire</strong> est l’association de l’ostéotomie maxillaire de Le Fort et de l’ostéotomie mandibulaire d’Obwegeser-Dalpont. Elle
+                        permet de corriger les anomalies de position de la mâchoire supérieure (maxillaire) et de la mâchoire inférieure (mandibule) et de
+                        leurs arcades dentaires. Ces anomalies se manifestent par une disgrâce et des troubles de l’occlusion dentaire.<br />
                         L’intervention propose de répondre à un double objectif :
                         <ul class="basic-list">
                           <li>esthétique en améliorant l’harmonie globale du visage</li>
-                          <li>fonctionnel en préservant l’avenir des articulations, des dents et en améliorant la respiration, la mastication</li>
+                          <li>fonctionnel en préservant l’avenir des articulations et des dents et en améliorant la respiration et la mastication</li>
                         </ul>
                         L’intervention peut être associée à un autre type d’intervention de chirurgie orthognatique (Cf. fiches correspondantes).
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
                       <p>
-                        Le praticien va s’enquérir de vos motivations et espérance, examiner votre visage et analyser votre dysmorphose
+                        Le praticien va s’enquérir de vos motivations et espérances, examiner votre visage et analyser votre dysmorphose
                         dento-maxillaire. Le praticien pourra, à l’issue de cette analyse globale, vous donner toute l’information utile sur les
-                        conséquences de la dysmorphose, sa prise en charge afin de vous guider dans votre prise de décision.<br />
+                        conséquences de la dysmorphose et sa prise en charge afin de vous guider dans votre prise de décision.<br />
                         La dysmorphose dento-maxillaire a des conséquences à court, moyen et long terme :
                         <ul class="basic-list">
                           <li>esthétique : lèvre en arrière, visage court et lèvres pincées, sourire ʺchevalinʺ (ou gingival), aspect vieilli
                             prématuré du visage</li>
-                          <li>gène à l’élocution, à la mastication, respiratoire</li>
+                          <li>gène à l’élocution, à la mastication et/ou respiratoire</li>
                           <li>dysfonctionnement de l’articulation temporo-mandibulaire : craquements et claquements, douleurs, contractures musculaires</li>
                           <li>déchaussements dentaires précoces, impossibilité de réhabilitation prothétique</li>
                         </ul>
@@ -60,31 +64,31 @@
                         d’anti-inflammatoires est déconseillée dans les 10 jours précédents l’intervention. Le tabagisme est également fortement
                         déconseillé.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
                       <p>
                         Elle est préalablement simulée sur des modèles en plâtre (réalisés à partir de vos empreintes dentaires). Un guide (plan de
                         morsure) est fabriqué et permettra un contrôle pendant l’intervention réelle.<br />
-                        Elle se déroule sous anesthésie générale, le plus souvent lors d’une hospitalisation de 2 à 4 jours.<br />
+                        Elle se déroule sous anesthésie générale le plus souvent lors d’une hospitalisation de 2 à 4 jours.<br />
                         Les incisions sont dissimulées dans les gencives. Il n’y a aucune incision sur la peau. L’os est découpé précisément (par
-                        microscie ou par ultrasons) afin de replacer le maxillaire dans sa position idéale calculée préalablement. L’os est fixé par
-                        des mini-plaques et vis en Titane (ostéosynthèse), elles pourront être retirées 1 an après. Les sutures sont réalisées avec des
+                        microscie ou par ultrasons) afin de replacer le maxillaire et la mandibule dans leur position idéale calculée préalablement. L’os est fixé par
+                        des mini-plaques et vis en Titane (ostéosynthèse). Elles pourront être retirées 1 an après. Les sutures sont réalisées avec des
                         fils résorbables (disparaissenten 3 semaines).<br />
                         Il n’y a pas de blocage des mâchoires en fin d’intervention.<br />
-                        L’intervention dure 1 heure. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
+                        L’intervention dure 1 heure 30. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
                         La mâchoire retrouve une solidité normale en 6 semaines.<br />
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
                           <li>un oedème (gonflement) des joues quasi systématique et important la première semaine</li>
-                          <li>des petits saignements pendant les 24 premières heures</li>
+                          <li>des petits saignements pendant les 48 à 72 premières heures</li>
                           <li>des douleurs modérées, contrôlées par les antalgiques prescrits et disparaissant en général en quelques jours</li>
                           <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
                         </ul>
-                        Les soins post-opératoires comportent:
+                        Les soins post-opératoires comportent :
                         <ul class="basic-list">
-                          <li>une hygiène bucco-dentaire irréprochable; bains de bouche, jet dentaire</li>
+                          <li>une hygiène bucco-dentaire irréprochable : bains de bouche, jet dentaire</li>
                           <li>des médicaments contre la douleur (antalgiques)</li>
                           <li>la mise en place d’un guidage élastique entre les 2 mâchoires le lendemain de l’intervention (ne gêne pas pour parler,
                             retiré pour les repas et séances d’auto-rééducation)</li>
@@ -96,10 +100,10 @@
                           <li>reprise des soins d’orthodontie après 1 mois pour réaliser les ʺfinitionsʺ pendant un semestre en principe</li>
                         </ul>
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
-                        science pour réaliser une ostéotomie de Le Fort, le risque de complication n’est pas nul.<br />
+                        science pour réaliser une <strong>ostéotomie bimaxillaire</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
                         rapport aux bénéfices de l’intervention.<br />
@@ -108,14 +112,19 @@
                           <li>Complications hémorragiques :<br />
                             Bien que rares, elles peuvent nécessiter une transfusion sanguine, voire une réintervention chirurgicale.
                           </li>
-                          <li>Complications nerveuses :<br />
-                            En post-opératoire immédiat, une perte de la sensibilité totale (anesthésie) ou partielle (hypoesthésie) labio-mentonnière inférieure est
-                            classique. Elle est liée à la présence du nerf alvéolaire inférieur à droite et à gauche dans la zone opératoire. Ces troubles de la
-                            sensibilité sont temporaires et récupèrent en quelques mois dans la grande majorité des cas. La persistance exceptionnelle de ces
-                            troubles est une séquelle.
+                          <li>Complications nerveuses :
+                            <ul class="level2_list">
+                              <li>En post-opératoire immédiat, une perte de la sensibilité totale (anesthésie) ou partielle (hypoesthésie) labio-jugale est
+                            classique. A ce stade ce n’est pas une complication. Ces troubles de la sensibilité sont temporaires et récupèrent en
+                            quelques semaines dans la grande majorité des cas. La persistance exceptionnelle de ces troubles est une complication.</li>
+                              <li>En post-opératoire immédiat, une perte de la sensibilité totale (anesthésie) ou partielle (hypoesthésie) labio-mentonnière inférieure est
+                              classique. Elle est liée à la présence du nerf alvéolaire inférieur à droite et à gauche dans la zone opératoire. Ces troubles de la
+                              sensibilité sont temporaires et récupèrent en quelques mois dans la grande majorité des cas. La persistance exceptionnelle de ces
+                              troubles est une séquelle.</li>
+                            </ul>
                           </li>
                           <li>Complications infectieuses :<br />
-                            Elles se manifestent par un abcès de joue. La mise en route d’un traitement antibiotique est nécessaire,
+                            Elles se manifestent par une sinusite ou un abcès de joue. La mise en route d’un traitement antibiotique est nécessaire,
                             avec parfois un drainage chirurgical complémentaire.
                           </li>
                           <li>Complications dentaires :<br />
@@ -123,8 +132,8 @@
                           </li>
                           <li>Complications osseuses :
                             <ol class="level2_list">
-                              <li>Fracture mandibulaire atypique (bad-split) pendant l’intervention. Elle est réparée immédiatement.</li>
-                              <li>L’absence de consolidation osseuse (pseudarthrose) est très exceptionnelle au niveau de la mandibule. Elle nécessite
+                              <li>fracture mandibulaire atypique (bad-split) pendant l’intervention. Elle est réparée immédiatement.</li>
+                              <li>l’absence de consolidation osseuse (pseudarthrose) est très exceptionnelle au niveau de la mandibule et du maxillaire. Elle nécessite
                                 une intervention avec greffes osseuses et une nouvelle ostéosynthèse.</li>
                             </ol>
                           </li>
@@ -132,6 +141,7 @@
                             <ol class="level2_list">
                               <li>récidive d’un trouble de l’occlusion dentaire</li>
                               <li>décompensation d’un dysfonctionnement de l’articulation des mâchoires préexistant</li>
+                              <li>paralysie musculaire</li>
                             </ol>
                           </li>
 												</ul>
@@ -148,13 +158,17 @@
 									<!-- Sidebar -->
 										<section class="imagerie">
 											<header>
-												<h2>L'ostéotomie d'Obwegeser-Dalpont</h2>
+												<h2>L'ostéotomie bimaxillaire</h2>
 											</header>
                       <h3>Simulation sur plâtre</h3>
-											<img src="images/articulateur.png" alt="" width=100% />
-                      <h3>Vidéo d'une ostéotomie mandibulaire</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=67&end=93" frameborder="0" allowfullscreen></iframe>
+											<img src="images/articulateur.png" alt="moulages montés sur un articulateur pour préparer la gouttière qui servira à la réalisation de
+											l'ostéotomie bimaxillaire" width=100% class="zoom" />
+                      <h3 class="non_imprime">Vidéo d'une ostéotomie de Le Fort I</h3>
+											<iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=29&end=65&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <h3 class="non_imprime">Vidéo d'une ostéotomie mandibulaire</h3>
+                      <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=67&end=82&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
                     </section>
+
 								</div>
 							</div>
 						</div>

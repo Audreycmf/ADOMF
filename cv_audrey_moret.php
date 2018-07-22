@@ -4,6 +4,8 @@
 	<head>
 		<title>CV Dr Audrey Moret</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="Dr Audrey Moret est praticien hospitalier dans le service de chirurgie maxillo-faciale et stomatologie. Vous avez ici son CV
+		complet. L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -24,9 +26,9 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-												Le docteur Audrey Moret possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
+												Le docteur Audrey <strong>Moret</strong> possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
 												Spécialiste de la chirurgie de la face et de son squelette, elle pourra vous conseiller et vous proposer le traitement prenant en compte
-												tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Il permet d’assumer dans leur
+												tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Le chirurgien maxillo-facial permet d’assumer dans leur
 												globalité les différentes pathologies du visage (malformations, vieillissement, traumatismes).
                       </p>
                     </section>
@@ -47,8 +49,9 @@
 									<!-- Main Content -->
 										<section>
 											<header class="center">
-												<h1 id="name">Docteur Audrey Moret</h1>
-                      	<img src="images/photo_moret.jpg" class="bordered-feature-image" alt="" /></a>
+												<h1>Docteur Audrey Moret</h1>
+                      	<img src="images/photo_moret.jpg" class="bordered-feature-image" alt="photo du Dr Audrey Moret pour la chirurgie maxillo-faciale
+													et stomatologue" /></a>
 											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
@@ -60,9 +63,9 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-												Le docteur Audrey Moret possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
+												Le docteur Audrey <strong>Moret</strong> possède la double qualification de chirurgien maxillo-facial et de chirurgie plastique et esthétique de la face.
 												Spécialiste de la chirurgie de la face et de son squelette, elle pourra vous conseiller et vous proposer le traitement prenant en compte
-												tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Il permet d’assumer dans leur
+												tous les aspects de cette région si sensible, depuis ses fondations osseuses jusqu'à son revêtement cutané. Le chirurgien maxillo-facial permet d’assumer dans leur
 												globalité les différentes pathologies du visage (malformations, vieillissement, traumatismes).
                       </p>
                     </section>

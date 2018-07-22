@@ -1236,6 +1236,16 @@
 		margin-top: 1em;
 	}
 
+	.photo_equipe span {
+		visibility: hidden;
+		display: none;
+	}
+
+	.photo_equipe img:hover + span {
+		visibility: visible;
+		display: flex;
+	}
+
 		/* Content */
 
 	#content .button-big {
@@ -1597,6 +1607,11 @@
 
 			#content #fleche_ortho, #content #fleche_orbito, #content #fleche_sto, #content #fleche_esthetique {
 				width: 1.5%;
+			}
+
+			.zoom:hover {
+				transform: scale(2.5) translateX(-60px);
+				-webkit-transform: scale(2.5) translateX(-60px); /*pour Safari*/
 			}
 
 		/* Footer */

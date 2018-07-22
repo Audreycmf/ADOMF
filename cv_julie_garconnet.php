@@ -2,8 +2,10 @@
 
 <html>
 	<head>
-		<title>CV Dr Julie Garçonnet</title>
+		<title>CV Dr Julie <strong>Garçonnet</strong></title>
 		<?php include("head.php") ?>
+		<meta name="description" content="Dr Julie Garçonnet est praticien hospitalier dans le service de chirurgie maxillo-faciale et stomatologie. Vous avez ici
+		son CV complet. L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -24,7 +26,7 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-												Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
+												Le docteur Julie <strong>Garçonnet</strong> est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
 												cavité orale (bouche), tant dans le domaine médical que dans le domaine chirurgical.
                       </p>
                     </section>
@@ -45,8 +47,8 @@
 									<!-- Main Content -->
 										<section>
 											<header class="center">
-												<h1 id="name">Docteur Julie Garçonnet</h1>
-                      <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="" /></a>
+												<h1>Docteur Julie Garçonnet</h1>
+                      <img src="images/photo_garconnet.jpg" class="bordered-feature-image" alt="photo du Dr Julie Garçonnet, stomatologue" /></a>
 											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
@@ -58,7 +60,7 @@
                         <h2>Présentation</h2>
                       </header>
                       <p>
-												Le docteur Julie Garçonnet est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
+												Le docteur Julie <strong>Garçonnet</strong> est chirurgien oral qualifiée en stomatologie. Son activité comprend la prise en charge des pathologies de la
 												cavité orale (bouche), tant dans le domaine médical que dans le domaine chirurgical.
                       </p>
 										</section>

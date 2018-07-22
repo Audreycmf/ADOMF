@@ -4,6 +4,9 @@
 	<head>
 		<title>La chirurgie esthétique - Le traitement des rides et ridules</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="La chirurgie esthétique fait partie intégrante de la formation du chirurgien maxillo-facial. Cette page vous donne
+		accès aux fiches d'information des différentes opérations pratiquées en chirurgie esthétique. L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital
+		d'Aix-en-Provence, avenue des Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -21,20 +24,20 @@
 									<!-- Main Content -->
                     <section>
                       <p>
-                        La chirurgie esthétique du visage est une des compétences du chirurgien maxillo-facial.<br />
+                        La <strong>chirurgie esthétique</strong> du visage est une des compétences du chirurgien maxillo-facial.<br />
                         Son expérience en chirurgie réparatrice vous permettra d’envisager avec rigueur et dans les meilleures conditions les
-                        interventions de chirurgie esthétique du visage.<br />
+                        interventions de <strong>chirurgie esthétique</strong> du visage.<br />
                         Elles comprennent :
                         <ul class="basic-list">
-                          <li><span class="rides" id="rides">le traitement des rides et ridules du visage</span> avec :
+                          <li><span class="rides" id="rides">le traitement des ridules et rides du visage</span> avec :
                             <ol class="level2_list">
                               <li><a href="acide_hyaluronique.php">les injections d'acide hyaluronique</a></li>
                               <li><a href="toxine_botulique.php">les injections de toxine botulique</a></li>
                             </ol>
                           </li>
-                          <li><a href="blepharoplastie.php">la chirurgie esthétique des paupières ou blépharoplastie</a></li>
+                          <li><a href="blepharoplastie.php">la <strong>chirurgie esthétique</strong> des paupières ou blépharoplastie</a></li>
                           <li><a href="otoplastie.php">la chirurgie des oreilles décollées ou  otoplastie</a></li>
-                          <li><a href="lifting.php">le lifting du visage et du cou</a></li>
+                          <li><a href="lifting.php">le lifting</a></li>
                           <li>la rhinoplastie</li>
                         </ul>
                       </p>
@@ -44,10 +47,10 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h1>Le traitement des rides et ridules du visage</h1>
+												<h1>Le traitement des ridules et rides du visage</h1>
 											</header>
 											<p>
-                        On distingue 2 types de rides : les rides d’expression dues à une hyperactivité des muscles sous-jacents (front, rides du lion)
+                        On distingue 2 types de rides du visage : les rides d’expression dues à une hyperactivité des muscles sous-jacents (front, rides du lion)
                         et les rides d’affaissement dues à une fonte des tissus sous-cutanés (sillons naso-géniens, vallée des larmes…).
                         Le <a href="lifting.php">lifting du visage</a> est une des solutions chirurgicales pour les corriger.<br />
                         Cependant des alternatives plus douces et non chirurgicales (médecine esthétique) se sont développées :
@@ -63,10 +66,6 @@
                         envisageables (volumateurs) afin de regalber les lèvres et de combler les rides péribuccales, grâce aux
                         <a href="acide_hyaluronique.php">injections d'acide hyaluronique</a>.
 											</p>
-											<div id="liens_telechargement">
-												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
-											</div>
 										</section>
 
 								</div>
@@ -75,7 +74,7 @@
 									<!-- Sidebar -->
 										<section class="imagerie">
 											<header>
-												<h2>Le traitement des rides et ridules du visage</h2>
+												<h2>Les ridules et rides du visage</h2>
 											</header>
                     </section>
 

@@ -2,8 +2,11 @@
 
 <html>
 	<head>
-		<title>La chirurgie orbito-palpébrale - L'allongement palpébral</title>
+		<title>La chirurgie des paupières : l'allongement palpébral - La chirurgie orbito-palpébrale</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="La chirurgie des paupières par allongement palpébral est la troisième étape chirurgicale, facultative, dans la prise en
+		charge de l'orbitopathie basedowienne. Vous trouverez ici la fiche intervention de la décompression orbitaire. L'ADOMF est joignable au 04.42.33.50.97 ou à
+		l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -19,9 +22,9 @@
 								<div class="12u">
 
 									<!-- Main Content -->
-                    <section>
+                    <section class="non_imprime">
 											<p class="intitule_liste_orbito" id="intitule_liste_orbito">
-												Les différentes interventions de chirurgie orbito-palpébrale<img src="images/fleche.png" alt="" class="fleche" id="fleche_orbito">
+												Les différentes interventions de chirurgie orbito-palpébrale<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche_orbito">
                       </p>
 											<ul class="basic-list" id="liste_orbito"></ul>
                     </section>
@@ -30,38 +33,38 @@
 								<div class="9u 12u(mobile)">
 										<section>
 											<header>
-												<h1>L'allongement paplébral</h1>
+												<h1>La chirurgie des paupières : l'allongement palpébral</h1>
 											</header>
 											<p>
                         L’exophtalmie basedowienne peut s’accompagner d’une rétraction palpébrale supérieure en lien avec la fibrose musculaire. Cette
-                        anomalie est corrigée en dernier dans le schéma opératoire des maladies de Basedow, à 6 mois de la dernière intervention.
+                        anomalie est corrigée en dernier dans le schéma opératoire de la maladie de Basedow, à 6 mois de la dernière intervention.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
                       <p>
                         Elle évaluera l’importance de la rétraction. Ceci sert à déterminer la technique chirurgicale adaptée à votre cas.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
                       <p>
-                        Elle consiste à allonger le muscle releveur de la paupière supérieure plus ou moins avec un greffon et à affaiblir le muscle de
+                        Elle consiste à allonger le muscle releveur de la paupière supérieure plus ou moins avec un greffon et/ou à affaiblir le muscle de
                         Müller.<br />
                         Elle se fait sous anesthésie générale ou anesthésie locale potentialisée par un anesthésiste (neuroleptanalgésie), dans le
                         cadre d’une hospitalisation ambulatoire.<br />
                         Une cicatrice sera cachée dans le pli palpébral supérieur.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Elles sont simples. Elle nécessitent :
                         <ul class="basic-list">
                           <li>des compresses oculaires avec de l’eau glacée dans les heures suivant l’intervention pour prévenir la survenue d’hématome</li>
                           <li>une pommade sur les yeux et la cicatrice pendantune semaine</li>
                         </ul>
-                        L’ablation des fils se fait au 7ème jour.<br />
+                        L’ablation des fils se fait entre le 7ème et le 10ème jour.<br />
                         L’ecchymose et l’œdème peuvent persister jusqu’à 10 jours.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
-                        science pour réaliser l’extraction des dents de sagesse, le risque de complication n’est pas nul.<br />
+                        science pour réaliser une <strong>chirurgie des paupières</strong> à type d’allongement palpébral, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
                         rapport aux bénéfices de l’intervention.<br />
@@ -85,12 +88,16 @@
 									<!-- Sidebar -->
 										<section class="imagerie">
 											<header>
-												<h2>L'allongement palpébral</h2>
+												<h2>La chirurgie des paupières : l'allongement palpébral</h2>
 											</header>
                       <h3>L'allongement palpébral supérieur</h3>
-                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=125&end=144" frameborder="0" allowfullscreen></iframe>
+												<img src="images/allongement_palpebral_superieur_avant_apres.png" alt="comparaison avant et après chirurgie des paupières à type d'allongement palpébral supérieur" width=100% class="zoom" />
+												<p>A gauche, rétraction palpébrale supérieure; à droite, photo après <strong>chirurgie des paupières</strong> à type d'allongement palpébral supérieur</p>
+                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=125&end=144&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
                       <h3>L'allongement palpébral inférieur</h3>
-                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=148&end=162" frameborder="0" allowfullscreen></iframe>
+												<img src="images/allongement_palpebral_inferieur_avant_apres.png" alt="comparaison avant et après chirurgie des paupières à type d'allongement palpébral inférieur" width=100% class="zoom" />
+												<p>A gauche, rétraction palpébrale supérieure; à droite, photo après <strong>chirurgie des paupières</strong> à type d'allongement palpébral supérieur</p>
+                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=148&end=162&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
                       </section>
 
 								</div>

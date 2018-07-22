@@ -16,8 +16,13 @@
 }
 
 /*Content*/
-#content #name {
+#content h1 {
   font-size: 2em;
+  margin-bottom: 1em;
+}
+
+#content h2 {
+  font-size: 1.3em;
 }
 
 .presentation_mobile {

@@ -9,8 +9,8 @@
         <!-- Nav -->
           <nav id="nav">
             <a href="index.php">Accueil</a>
-            <a href="equipe.php">L'équipe</a>
-            <a href="interventions.php">Les interventions</a>
+            <a href="equipe_stomatologue_orthodontiste.php">L'équipe</a>
+            <a href="intervention.php">Les interventions</a>
             <a href="actualites.php">Actualités</a>
             <a href="contact.php">Contact</a>
           </nav>

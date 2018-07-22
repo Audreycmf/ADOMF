@@ -4,6 +4,8 @@
 	<head>
 		<title>Actualités</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="Cette page montre les actualités et événements de l'ADOMF, notamment en matière de mission humanitaire et de formation.
+		L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616 Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -21,31 +23,31 @@
 									<!-- Main Content -->
 										<section>
 											<header>
-												<h2>Les événements de l'A.D.O.M.F.</h2>
+												<h1>Les actualités et événements de l'A.D.O.M.F.</h1>
 											</header>
-                      <h3 class="titre_walid" id="titre_walid">Journée aixoise d'ortho-chirurgie<img src="images/fleche.png" alt="" class="fleche" id="fleche4"></h3>
+                      <h2 class="titre_walid" id="titre_walid">Journée aixoise d'ortho-chirurgie<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche4"></h2>
 											<p>
 												Le 29 juin 2018, cette journée a été l'occasion d'échanger avec les orthodontistes, les anesthésistes et les chirurgiens maxillo-faciaux
-                        de la région, sur les évolutions de la chirurgie orthognatique (chirurgie des mâchoires). Une bonne collaboration est essentielle entre
+                        de la région, sur les <strong>actualités</strong> en chirurgie orthognatique (chirurgie des mâchoires). Une bonne collaboration est essentielle entre
                         chacun des acteurs intervenant tout au long de la prise en charge. Cette formation permet donc une meilleure prise en charge globale des
                         patients.
 											</p>
 											<div id="walid"></div>
-                      <h3 class="titre_brothier" id="titre_brothier">4ème réunion d'échanges sur la prise en charge des plaies<img src="images/fleche.png" alt="" class="fleche" id="fleche3"></h3>
+                      <h2 class="titre_brothier" id="titre_brothier">4ème réunion d'échanges sur la prise en charge des plaies<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche3"></h2>
 											<p>
-												Cette journée a lieu une fois par an à l'hôpital d'Aix-en-Provence et permet d'aborder la prise en charge des plaies et la cicatrisation.
+												Cet événement a lieu une fois par an à l'hôpital d'Aix-en-Provence et permet d'aborder la prise en charge des plaies et la cicatrisation.
                         Elle est fréquentée par de nombreuses infirmières libérales et hospitalières, permettant l'amélioration au quotidien du réseau ville-hôpital.
 											</p>
 											<div id="brothier"></div>
-                      <h3 class="titre_gap" id="titre_gap">Les soirées des urgences Haut-Alpines<img src="images/fleche.png" alt="" class="fleche" id="fleche2"></h3>
+                      <h2 class="titre_gap" id="titre_gap">Les soirées des urgences Haut-Alpines<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche2"></h2>
 											<p>
-												Cette soirée a eu lieu à l'hôpital de Gap le 19 janvier 2017. Elle abordait les pathologies traumatiques ORL et de chirurgie
+												Cette soirée a eu lieu à l'hôpital de Gap le 19 janvier 2017. Elle abordait les dernières <strong>actualités</strong> en matière de pathologies traumatiques ORL et de chirurgie
                         maxillo-faciale. De nombreux médecins et infirmières du département des Hautes-Alpes étaient présents.
 											</p>
 											<div id="gap"></div>
-											<h3 class="titre_humanitaire" id="titre_humanitaire">Les missions humanitaires<img src="images/fleche.png" alt="" class="fleche" id="fleche1"></h3>
+											<h2 class="titre_humanitaire" id="titre_humanitaire">Les missions humanitaires<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche1"></h2>
 											<p>
-												Le docteur Revol participe activement à de nombreuses missions humanitaires. La dernière a été effectuée à Madagascar, en avril 2017, avec
+												Le docteur Revol participe activement à de nombreuses missions humanitaires. Sa dernière mission humanitaire a été effectuée à Madagascar, en avril 2017, avec
 												l'opération sourire prenant en charge les fentes labio-palatines (bec de lièvre).
 											</p>
 											<div id="humanitaire"></div>
@@ -57,33 +59,33 @@
 									<!-- Sidebar -->
                     <section>
                       <header>
-                        <h3>Journée aixoise d'ortho-chirurgie</h3>
+                        <h2>Journée aixoise d'ortho-chirurgie</h2>
                       </header>
-                      <img src="images/walid1.png" alt="" width=100% class="titre_walid" />
-                      <img src="images/walid2.png" alt="" width=100% class="titre_walid" />
-                      <img src="images/walid3.png" alt="" width=100% class="titre_walid" />
-                      <img src="images/walid4.png" alt="" width=100% class="titre_walid" />
+                      <img src="images/walid1.png" alt="page de garde la formation en ortho-chirurgie" width=100% class="titre_walid" />
+                      <img src="images/walid2.png" alt="programme des actualités en ortho-chirurgie" width=100% class="titre_walid" />
+                      <img src="images/walid3.png" alt="programme de l'événement ortho-chirurgie aixoise" width=100% class="titre_walid" />
+                      <img src="images/walid4.png" alt="informations pour la réunion sur l'ortho-chirurgie" width=100% class="titre_walid" />
                     </section>
 										<section>
 											<header>
-												<h3>Echanges sur la prise en charge des plaies</h3>
+												<h2>Echanges sur la prise en charge des plaies</h2>
 											</header>
-                      <img src="images/brothier1.png" alt="" width=100% class="titre_brothier" />
-                      <img src="images/brothier2.png" alt="" width=100% class="titre_brothier" />
+                      <img src="images/brothier1.png" alt="pages de garde pour la réunion et les actualités sur les plaies et cicatrisation" width=100% class="titre_brothier" />
+                      <img src="images/brothier2.png" alt="programme de la formation sur les plaies et cicatrisation" width=100% class="titre_brothier" />
 										</section>
 										<section>
 											<header>
-												<h3>Les soirées des urgences Haut-Alpines</h3>
+												<h2>Les soirées des urgences Haut-Alpines</h2>
 											</header>
-											<img src="images/urgences_gap.png" alt="" width=100% class="titre_gap" />
+											<img src="images/urgences_gap.png" alt="programme des actualités sur la traumatologie ORL et maxillo-faciale" width=100% class="titre_gap" />
 										</section>
 										<section>
 											<header>
-												<h3>Les missions humanitaires</h3>
+												<h2>Les missions humanitaires</h2>
 											</header>
-											<img src="images/logo_mdm.png" alt="" width=100% class="titre_humanitaire" />
-											<img src="images/fente_avant.jpg" alt="" width=100% class="titre_humanitaire" />
-											<img src="images/fente_apres.jpg" alt="" width=100% class="titre_humanitaire" />
+											<img src="images/logo_mdm.png" alt="logo médecins du monde pour la mission humanitaire" width=100% class="titre_humanitaire" />
+											<img src="images/fente_avant.jpg" alt="photo prise en mission humanitaire d'une fente labiale" width=100% class="titre_humanitaire" />
+											<img src="images/fente_apres.jpg" alt="photo prise en mission humanitaire après correction d'une fente labiale" width=100% class="titre_humanitaire" />
 										</section>
 
 

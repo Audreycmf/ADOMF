@@ -2,8 +2,12 @@
 
 <html>
 	<head>
-		<title>L'implantologie et la chirurgie pré-implantaire - La chirurgie pré-implantaire</title>
+		<title>L'implantologie et la chirurgie pré-implantaire - La chirurgie pré-implantaire ou greffe osseuse dentaire</title>
 		<?php include("head.php") ?>
+		<meta name="description" content="La chirurgie pré-implantaire est nécessaire lorsque la quantité d'os est insuffisante pour poser un implant dentaire. Elle
+		consiste à réaliser soit une greffe osseuse dentaire, soit un sinus lift, soit une régération osseuse dentaire. Vous trouverez ici la
+		fiche intervention concernant la pré-implantologie. L'ADOMF est joignable au 04.42.33.50.97 ou à l'hôpital d'Aix-en-Provence, avenue des Tamaris 13616
+		Aix-en-Provence.">
 	</head>
 	<body class="subpage">
 		<div id="page-wrapper">
@@ -19,9 +23,9 @@
 								<div class="12u">
 
 									<!-- Main Content -->
-                    <section>
+                    <section class="non_imprime">
                         <p>
-                          <a href="implantologie.php">Retour aux implants dentaires</a>
+                          <a href="implantologie_implant_dentaire.php">Retour aux implants dentaires</a>
                         </p>
                     </section>
 								</div>
@@ -32,7 +36,7 @@
 												<h1>La chirurgie pré-implantaire</h1>
 											</header>
 											<p>
-                        La pose d'implants dentaires est parfois limitée par la présence d'obstacles anatomiques (le
+                        La pose d'implant dentaire est parfois limitée par la présence d'obstacles anatomiques (le
                         sinus maxillaire pour les dents du haut, le nerf alvéolaire inférieur pour les dents du bas). La présence de ces obstacles
                         anatomiques est le plus souvent liée à une insuffisance du volume osseux secondaire à la chute prématurée des dents définitives
                         (résorption de l’os alvéolaire).<br />
@@ -47,12 +51,12 @@
                       <p>
                         Il existe différents types de reconstruction osseuse :
                         <ul class="basic-list">
-                          <li><a href="#greffe">la greffe osseuse</a> : lorsqu’un défaut osseux  en  épaisseur ou en hauteur est repéré, une greffe par prélèvement chez le
+                          <li><a href="#greffe">la <strong>greffe osseuse dentaire</strong></a> : lorsqu’un défaut osseux  en  épaisseur ou en hauteur est repéré, une greffe par prélèvement chez le
                             patient peut permettre de retrouver un volume osseux satisfaisant. Généralement, le prélèvement a lieu au niveau de la
                             mâchoire inférieure (sur un côté ou au niveau du menton) et ce bloc est maintenu sur le site désiré à l’aide de mini vis en
-                            titane. Une cicatrisation de 4 à 6 mois est indispensable avant la pose d’implants (les mini-vis seront retirées lors de la
+                            titane. Une cicatrisation de 4 à 6 mois est indispensable avant la pose d’implants (les mini vis seront retirées lors de la
                             même intervention implantaire)</li>
-                          <li><a href="#sinus">l'élévation sinusienne</a> : quand il faut remplacer les molaires du haut, un manque d’os en hauteur peut
+                          <li><a href="#sinus">l'élévation sinusienne ou sinus lift</a> : quand il faut remplacer les molaires du haut, un manque d’os en hauteur peut
                             limiter la pose d’implants.  Un comblement du fond du sinus maxillaire par un substitut osseux d’origine humaine, animale
                             ou synthétique est indiqué. On accède au sinus maxillaire à partir d’une incision dans la gencive et un fraisage de l’os en
                             regard du sinus. Une cicatrisation de 4 à 8 mois est nécessaire avant la pose d’implants.<br />
@@ -61,26 +65,26 @@
                             millimètres. Les implants sont posés dans le même temps opératoire et doivent avoir une bonne stabilité primaire. Une
                             cicatrisation de 4 à 8 mois est primordiale avant la phase prothétique. Il est possible que la pose d’implants soit
                             différée</li>
-                          <li><a href="#rog">la régénération osseuse guidée</a> : lorsque le manque d’os est peu important, une méthode de "régénération osseuse"
+                          <li><a href="#rog">la régénération osseuse dentaire guidée</a> : lorsque le manque d’os est peu important, une méthode de "régénération osseuse"
                             est possible. Un biomatériau d’origine animale ou synthétique est placé sur le site manquant, recouvert d’une
                             "membrane" résorbable ou non pour stabiliser le substitut. Le substitut est un support qui va être colonisé par
                             les cellules sanguines et osseuses pour recréer l’os. Une cicatrisation de 4 à 6 mois avant la pose de l’implant est
                             souvent nécessaire</li>
                         </ul>
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Consultation</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
                       <p>
-                        La consultation permet de le type reconstruction osseuse que vous nécessitez, en fonction du cone beam qui vous sera demandé.<br />
+                        La consultation permet de déterminer le type de reconstruction osseuse que vous nécessitez, en fonction du cone beam qui vous sera demandé.<br />
                         Ce sera également l'occasion de détecter les contre-indications. Seuls le chirurgien et le praticien sont aptes à poser
                         l’indication ou non. Certains antécédents du patient (pathologies cardiaques valvulaires, insuffisance cardiaque, infarctus
                         myocardique récent) peuvent être une contre-indication.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L’intervention</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
                       <p>
                         L’intervention se déroule généralement sous anesthésie locale. Dans certains cas (antécédents du patient, anxiété...), une
                         anesthésie générale peut être réalisée.
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Suites opératoires</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les suites post-opératoires sont en général :
                         <ul class="basic-list">
@@ -97,10 +101,10 @@
                             dent post-chirurgicale</li>
                         </ul>
                       </p>
-                      <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">Complications</h2>
+                      <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
                         Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
-                        science pour réaliser une parotidectomie, le risque de complication n’est pas nul.<br />
+                        science pour réaliser une chirurgie pré-implantaire, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
                         rapport aux bénéfices de l’intervention.<br />
@@ -113,7 +117,7 @@
                           <li>une ostéite : infection osseuse du site donneur et/ou receveur</li>
                           <li>en cas de prélèvement osseux endobuccal :
                             <ol class="level2_list">
-                              <li>une perte ou diminution de la sensibilité de la lèvre et/ou de la langue, le plus souvent transitoires (quelques heures à
+                              <li>une perte ou diminution de la sensibilité de la lèvre et/ou de la langue, le plus souvent transitoire (quelques heures à
                                 quelques mois) et exceptionnellement définitive</li>
                               <li>une altération de la sensibilité des dents proches du prélèvement osseux</li>
                               <li>une "rigidité" transitoire des muscles du menton</li>
@@ -136,14 +140,16 @@
 											<header>
 												<h2>La chirurgie pré-implantaire</h2>
 											</header>
-                      <h3>La greffe osseuse, d'apposition périostée</h3>
-                        <iframe width=100% src="https://www.youtube.com/embed/EtnWINP7q2A?rel=0&end=67" frameborder="0" allowfullscreen id="sinus"></iframe>
-                      <h3>L'élévation sinusienne</h3>
-  											<img src="images/elevation_sinusienne.png" alt="" width=100% />
-                        <img src="images/sinus_lift.png" alt="" width=100% />
-                        <iframe width=100% src="https://www.youtube.com/embed/mf_HClp9o2w?rel=0&start=10&end=41" frameborder="0" allowfullscreen id="rog"></iframe>
-                      <h3>La régénération osseuse guidée</h3>
-                        <img src="images/rog.png" alt="" width=100% />
+                      <h3>La greffe osseuse dentaire, d'apposition périostée</h3>
+												<img src="images/greffe_osseuse_dentaire_avant_apres.png" alt="photo avant et après une greffe osseuse dentaire" width=100% class="zoom" />
+												<p>En haut, on voit le manque d'os et en bas, l'os après <strong>greffe osseuse dentaire</strong></p>
+                        <iframe width=100% src="https://www.youtube.com/embed/EtnWINP7q2A?rel=0&end=67&mute=1&controls=0" frameborder="0" allowfullscreen id="sinus" class="non_imprime"></iframe>
+                      <h3>L'élévation sinusienne ou sinus lift</h3>
+  											<img src="images/elevation_sinusienne.png" alt="schéma d'un sinus lift" width=100% class="zoom" />
+                        <img src="images/sinus_lift.png" alt="les différentes étapes du sinus lift" width=100% class="zoom" />
+                        <iframe width=100% src="https://www.youtube.com/embed/mf_HClp9o2w?rel=0&start=10&end=41" frameborder="0" allowfullscreen id="rog" class="non_imprime"></iframe>
+                      <h3>La régénération osseuse dentaire guidée</h3>
+                        <img src="images/rog.png" alt="schéma d'une régénération osseuse dentaire" width=100% class="zoom" />
                     </section>
 
 								</div>

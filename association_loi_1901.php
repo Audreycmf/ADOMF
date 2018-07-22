@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Statuts</title>
+		<title>Statut association loi 1901</title>
 		<?php include("head.php") ?>
 	</head>
 	<body class="subpage">
@@ -21,7 +21,7 @@
 									<!-- Main Content -->
 										<section>
 											<header>
-												<h1>Les statuts</h1>
+												<h1>Statut association loi 1901</h1>
 											</header>
 											  <h2>Article 1er</h2>
                         <p>Il est fondé entre les adhérents aux présents statuts une Association régie par la Loi du 1er juillet 1901 et le décret du 16 août
