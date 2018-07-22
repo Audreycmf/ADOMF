@@ -45,7 +45,7 @@
 												<h1>La parotidectomie</h1>
 											</header>
 											<p>
-                        La <strong>parotidectomie</strong> est l'ablation partielle ou totale de la glande parotide. La <a href="#parotide">glande parotide</a> est une des glandes salivaires
+                        La <strong>parotidectomie</strong> est l'ablation partielle ou totale de la glande parotide. La glande parotide est une des glandes salivaires
                         principales. Nous en avons deux, une à droite et une à gauche en avant de chaque oreille (ce sont elles qui gonflent et
                         deviennent visibles lors des oreillons). Elles sont traversées par le nerf facial. Ce nerf permet la motricité de la
                         moitié de la face (un pour chaque côté du visage).
@@ -62,7 +62,7 @@
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
                       <p>
                         L'intervention se déroule sous anesthésie générale et donc lors d’une hospitalisation.<br />
-                        <a href="#incision">L'incision</a> passe juste en avant de l'oreille (type incision du lifting cervico-facial) puis se poursuit sous l’oreille au
+                        L'incision passe juste en avant de l'oreille (type incision du lifting cervico-facial) puis se poursuit sous l’oreille au
                         niveau du cou, le but étant de rendre discrète la cicatrice. Le nerf facial est repéré et écarté pour effectuer l'ablation de
                         la tumeur. La tumeur est analysée pendant l'intervention (examen anatomopathologique extemporané) afin de préciser la nature de
                         celle-ci. Le  résultat guide  la suite de l’intervention :
@@ -122,9 +122,9 @@
 												<h2>La parotidectomie</h2>
 											</header>
                       <h3>Tracé de l'incision</h3>
-											<img src="images/incision_parotide.png" alt="" width=100% id="incision" class="zoom" />
+											<img src="images/incision_parotide.png" alt="" width=100% class="zoom" />
                       <h3>Schéma d'une glande parotide</h3>
-                      <img src="images/parotide.jpg" alt="" width=100% id="parotide" class="zoom" />
+                      <img src="images/parotide.jpg" alt="" width=100% class="zoom" />
                       <p>En jaune, il s'agit du dessin du trajet du nerf facial.</p>
                     </section>
 

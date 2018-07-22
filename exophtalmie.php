@@ -101,8 +101,9 @@
 												<h2>Le traitement chirurgical d'une exophtalmie par décompression orbitaire</h2>
 											</header>
 											<h3>Comparatif avant et après traitement de l'exophtalmie par décompression orbitaire</h3>
+											<img src="images/exophtalmie_avant_apres.png" alt="patiente avant et après décompression orbitaire pour exophtalmie basedowienne" width=100% class="zoom" />
 											<h3 class="non_imprime">Vidéo du traitement d'une exophtalmie par décompression orbitaire</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/Fmb8C4j0Qvk?rel=0&mute=1&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/Fmb8C4j0Qvk?rel=0&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

@@ -46,7 +46,7 @@
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La pression positive continue nasale</h2>
 											<p>
                         Il s’agit d’une petite machine à turbine qui propulse sous pression l’air ambiant dans les voies respiratoires de façon continue
-                        par l’intermédiaire d’un <a href="#ppc">masque facial</a>. Ce dernier s’applique sur le nez, parfois sur le nez et sur la bouche. La pression de
+                        par l’intermédiaire d’un masque facial. Ce dernier s’applique sur le nez, parfois sur le nez et sur la bouche. La pression de
                         l’air empêche la fermeture des voies aériennes et la respiration se fait ainsi facilement.
                         Il vous sera prescrit par votre médecin du sommeil (pneumologue, cardiologue ou ORL le plus souvent).<br />
 												Les effets secondaires sont :
@@ -65,7 +65,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">L'orthèse d'avancée mandibulaire</h2>
                       <p>
-                        Il s’agit d’un <a href="#oam">dispositif buccal</a> qui permet de maintenir la mâchoire inférieure en position avancée durant le sommeil. Cette
+                        Il s’agit d’un dispositif buccal qui permet de maintenir la mâchoire inférieure en position avancée durant le sommeil. Cette
                         avancée maintenue libère le passage de l’air au niveau du pharynx et élimine ou diminue le phénomène d’obstruction donc d'<strong>apnée du sommeil</strong>. Cet appareil est
 												également très efficace pour lutter contre le ronflement.<br />
 												L'orthèse d'avancée mandibulaire peut entraîner les effets secondaires suivants :
@@ -100,9 +100,9 @@
 												<h2>Les traitements de l'apnée du sommeil</h2>
 											</header>
                       <h3>La pression positive continue nasale</h3>
-                      <img src="images/ppc.jpg" alt="photo d'un dispositif de pression positive continue pour le traitement d'une apnée du sommeil" width=100% id="ppc" class="zoom" />
+                      <img src="images/ppc.jpg" alt="photo d'un dispositif de pression positive continue pour le traitement d'une apnée du sommeil" width=100% class="zoom" />
                       <h3>L'orthèse d'avancée mandibulaire</h3>
-                      <img src="images/oam.png" alt="photo d'une orthèse d'avancée mandibulaire pour le traitement d'une apnée du sommeil" width=100% id="oam" class="zoom" />
+                      <img src="images/oam.png" alt="photo d'une orthèse d'avancée mandibulaire pour le traitement d'une apnée du sommeil" width=100% class="zoom" />
                     </section>
 
 								</div>

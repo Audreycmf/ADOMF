@@ -108,7 +108,7 @@
 											<img src="images/ptosis_avant_apres.png" alt="patient avant et après cure de ptosis" width=100% class="zoom" />
 											<p>A gauche, <strong>ptosis</strong> et à droite, après la chirurgie</p>
 											<h3 class="non_imprime">Vidéo d'une cure de ptosis</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/nq7puOY7arw?rel=0&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/nq7puOY7arw?rel=0&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

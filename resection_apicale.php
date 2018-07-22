@@ -143,7 +143,7 @@
 											<img src="images/kyste_dentaire.png" alt="panoramique dentaire avec un kyste dentaire nécessitant une résection apicale" width=100% class="zoom" />
 											<p> <img src="images/trait_jaune.jpg" alt="légende du trait jaune" width=8% /> Kyste dentaire aux dépens de plusieurs dents</p>
 											<h3 class="non_imprime">Vidéo de résection apicale</h3>
-											<iframe width=100% src="https://www.youtube.com/embed/vaMhwKakeXg?rel=0&start=2&end=47&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+											<iframe width=100% src="https://www.youtube.com/embed/vaMhwKakeXg?rel=0&start=2&end=47&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
 										</section>
 
 								</div>

@@ -149,7 +149,7 @@
 											<h3>Incisions de blépharoplastie</h3>
                       <img src="images/incision_blepharoplastie.png" alt="schéma des incisions pour une blépharoplastie" width=100% class="zoom" />
 											<h3 class="non_imprime">Vidéo d'une blépharoplastie</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/mE91nppBsgY?rel=0&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/mE91nppBsgY?rel=0&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

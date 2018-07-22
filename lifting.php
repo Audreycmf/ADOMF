@@ -41,7 +41,7 @@
                         rides, d’un double menton, de bajoues, d’un aspect fripé du visage...<br />
                         Le <strong>lifting</strong> permet un rajeunissement global du visage et du cou. Son but est de rétablir le galbe et l’harmonie
                         du visage sans en modifier le caractère. Le <strong>lifting</strong> peut être associé à d’autres techniques : la
-                        <a href="blepharoplastie.php">blépharoplastie</a> ou les injections de graisse ou d’<a href="acide_hyaluronique.php">acide hyaluronique</a>.
+                        blépharoplastie ou les injections de graisse ou d’acide hyaluronique.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
                       <p>
@@ -116,7 +116,7 @@
 											<h3>Incision dans le lifting</h3>
                       <img src="images/incision_lifting.png" alt="" width=100% class="zoom" />
 											<h3 class="non_imprime">Vidéo d'un lifting</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/eh5XePrqyV0?rel=0&start=3&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/eh5XePrqyV0?rel=0&start=3&mute=1&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

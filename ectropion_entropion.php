@@ -124,9 +124,9 @@
 											<img src="images/ectropion_avant_apres.png" alt="comparaison avant et après chirurgie d'ectropion" width=100% class="zoom" />
 											<p>A gauche, <strong>ectropion</strong> et à droite, après la chirurgie</p>
                       <h3 class="non_imprime">Tarsorraphie externe</h3>
-                        <iframe width=100% src="https://www.youtube.com/embed/gNiqoBU-nAw?rel=0&start=2&end=22&mute=1&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                        <iframe width=100% src="https://www.youtube.com/embed/gNiqoBU-nAw?rel=0&start=2&end=22&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       <h3 class="non_imprime">Greffe de peau</h3>
-                        <iframe width=100% src="https://www.youtube.com/embed/gNiqoBU-nAw?rel=0&start=23&end=35&mute=1&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                        <iframe width=100% src="https://www.youtube.com/embed/gNiqoBU-nAw?rel=0&start=23&end=35&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       <header>
                         <h2>L'entropion</h2>
                       </header>
@@ -134,9 +134,9 @@
 											<img src="images/entropion_avant_apres.png" alt="comparaison avant et après chirurgie d'entropion" width=100% class="zoom" />
 											<p>A gauche, <strong>entropion</strong> (on ne voit plus les cils) et à droite, après la chirurgie</p>
                       <h3 class="non_imprime">Tarsorraphie externe</h3>
-                      	<iframe width=100% src="https://www.youtube.com/embed/qD6GKMEWtVk?rel=0&start=3&end=27&mute=1&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      	<iframe width=100% src="https://www.youtube.com/embed/qD6GKMEWtVk?rel=0&start=3&end=27&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
 											<h3 class="non_imprime">Greffe conjonctivale</h3>
-												<iframe width=100% src="https://www.youtube.com/embed/qD6GKMEWtVk?rel=0&start=28&end=48&mute=1&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+												<iframe width=100% src="https://www.youtube.com/embed/qD6GKMEWtVk?rel=0&start=28&end=48&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

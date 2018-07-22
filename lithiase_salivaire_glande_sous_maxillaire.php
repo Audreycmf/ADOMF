@@ -35,7 +35,7 @@
 												<h1>La sous-maxillectomie</h1>
 											</header>
 											<p>
-                        La sous-maxillectomie est l'ablation de la glande sous-maxillaire. La <a href="#glande_sousmaxillaire">glande sous-maxillaire</a> est une des glandes salivaires
+                        La sous-maxillectomie est l'ablation de la glande sous-maxillaire. La glande sous-maxillaire est une des glandes salivaires
                         principales. Nous en avons deux, une à droite et une à gauche sous le bord de la mâchoire.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
@@ -53,7 +53,7 @@
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
                       <p>
                         L'intervention se déroule sous anesthésie générale et donc en hospitalisation.<br />
-                        <a href="#incision">L’incision</a> de quelques centimètres se situe dans un pli cutané du cou. En cas de tumeur, elle sera analysée pendant
+                        L’incision de quelques centimètres se situe dans un pli cutané du cou. En cas de tumeur, elle sera analysée pendant
                         l'intervention. C’est l’examen anatomopathologique extemporané qui permet de connaître la nature de la lésion pendant
                         l’intervention. Le diagnostic sera confirmé par l’examen anatomopathologique définitif en post-opératoire. En cas de tumeur
                         maligne, il est souvent nécessaire de prélever les ganglions situés autour de la glande pour les faire analyser. Il faut alors
@@ -113,11 +113,11 @@
 												<h2>La sous-maxillectomie</h2>
 											</header>
                       <h3>Tracé de l'incision</h3>
-											<img src="images/incision_sousmaxillectomie.png" alt="photo de l'incision pour l'ablation de la glande sous-maxillaire dans le cas d'une volumineuse lithiase salivaire" width=100% id="incision" class="zoom" />
+											<img src="images/incision_sousmaxillectomie.png" alt="photo de l'incision pour l'ablation de la glande sous-maxillaire dans le cas d'une volumineuse lithiase salivaire" width=100% class="zoom" />
                       <p>La ligne haute et brisée représente le repère de l'angle de la mâchoire.<br />
                       La ligne basse représente l'incision.</p>
                       <h3>Schéma d'une glande sous-maxillaire</h3>
-                      <img src="images/glande_sousmaxillaire.png" alt="schéma d'une glande sous-maxillaire" width=100% id="glande_sousmaxillaire" class="zoom" />
+                      <img src="images/glande_sousmaxillaire.png" alt="schéma d'une glande sous-maxillaire" width=100% class="zoom" />
                       <p>La glande sous-maxillaire est représentée en blanc.</p>
                     </section>
 

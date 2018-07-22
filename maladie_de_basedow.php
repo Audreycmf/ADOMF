@@ -47,11 +47,11 @@
                         La prise en charge de l’orbitopathie basedowienne est pluridisciplinaire (endocrinologue, ORL, ophtalmologiste, chirurgien
                         maxillo-facial). Elle se fait par 1, 2 ou 3 étapes chirurgicales et selon un calendrier précis :
                         <ul class="basic-list">
-                          <li>1ère étape : <a href="decompression_orbitaire.php">décompression orbitaire</a> proprement dite. Elle ne peut avoir lieu
+                          <li>1ère étape : <a href="exophtalmie.php">décompression orbitaire</a> proprement dite. Elle ne peut avoir lieu
                             qu'après au moins 6 mois de stabilité de la maladie thyroïdienne</li>
                           <li>2ème étape (non systématique) : la chirurgie oculomotrice si le patient voit double après la décompression. Elle se fait
                           4 à 6 mois après la décompression. Elle est effectuée par un ophtalmologiste</li>
-                          <li>3ème étape (non systématique) : <a href="allongement_palpebral.php">chirurgie des paupières rétractées</a>. Si elle est
+                          <li>3ème étape (non systématique) : <a href="chirurgie_des_paupieres.php">chirurgie des paupières rétractées</a>. Si elle est
                             nécessaire, elle se fait 4 à 6 mois après la décompression orbitaire ou après la chirurgie oculomotrice</li>
                         </ul>
 											<div id="liens_telechargement">
@@ -67,6 +67,9 @@
 										<section class="imagerie">
 											<header>
 												<h2>La maladie de Basedow</h2>
+												<h3>Symptômes de la maladie de Basedow</h3>
+												<img src="images/maladie_de_basedow.jpg" alt="symptômes de la maladie de Basedow" width=100% class="zoom" />
+												<p>Le symptôme nous concernant ici est l'exophtalmie.</p>
 											</header>
                     </section>
 

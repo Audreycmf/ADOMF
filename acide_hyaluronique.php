@@ -105,6 +105,7 @@
 										<section class="imagerie">
 											<header>
 												<h2>L'injection d'acide hyaluronique</h2>
+												<img src="images/injection_acide_hyaluronique.jpg" alt="schéma des sites d'injection d'acide hyaluronique" width=100% class="zoom" />
 											</header>
                     </section>
 

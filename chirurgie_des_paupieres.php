@@ -93,11 +93,11 @@
                       <h3>L'allongement palpébral supérieur</h3>
 												<img src="images/allongement_palpebral_superieur_avant_apres.png" alt="comparaison avant et après chirurgie des paupières à type d'allongement palpébral supérieur" width=100% class="zoom" />
 												<p>A gauche, rétraction palpébrale supérieure; à droite, photo après <strong>chirurgie des paupières</strong> à type d'allongement palpébral supérieur</p>
-                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=125&end=144&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=125&end=144&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       <h3>L'allongement palpébral inférieur</h3>
 												<img src="images/allongement_palpebral_inferieur_avant_apres.png" alt="comparaison avant et après chirurgie des paupières à type d'allongement palpébral inférieur" width=100% class="zoom" />
 												<p>A gauche, rétraction palpébrale supérieure; à droite, photo après <strong>chirurgie des paupières</strong> à type d'allongement palpébral supérieur</p>
-                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=148&end=162&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                        <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=148&end=162&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       </section>
 
 								</div>

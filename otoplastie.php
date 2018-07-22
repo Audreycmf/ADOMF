@@ -118,7 +118,7 @@
 											<h3>Incision dans l'otoplastie</h3>
                       <img src="images/incision_otoplastie.png" alt="schéma de l'incision d'une otoplastie" width=100% class="zoom" />
 											<h3 class="non_imprime">Vidéo d'une otoplastie</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/OeyOEqjd5j4?rel=0&end=17&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/OeyOEqjd5j4?rel=0&end=17&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

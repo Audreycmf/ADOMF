@@ -182,7 +182,7 @@
 											<img src="images/implant.png" alt="photo d'un implant dentaire avec le pilier et la couronne" width=100% class="zoom" />
 											<p>Nous voyons ici, de bas en haut, l'<strong>implant dentaire</strong>, le pilier et la couronne.</p>
 											<h3 class="non_imprime">Vidéo de pose d'implant dentaire</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/mgLAdosIWAc?rel=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/mgLAdosIWAc?rel=0&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 
 								</div>

@@ -46,15 +46,15 @@
                         Pour commencer il faut savoir que toute intervention chirurgicale traverse la peau. Quelle que soit la technique utilisée pour
                         recoudre celle-ci, une cicatrice en résultera. Elle s’atténuera pour devenir discrète mais ne sera jamais invisible.<br />
                         Le principe de base est l'ablation "en fuseau" suivie d'une suture directe par rapprochement des berges. Dans le cas des lésions
-                        malignes, une marge de sécurité dont l'ampleur dépend du type de lésion est rajoutée (<a href="#fuseau">cf.schéma</a>).<br />
+                        malignes, une marge de sécurité dont l'ampleur dépend du type de lésion est rajoutée (cf.schéma).<br />
                         Le  fuseau permet d’éviter la formation de replis aux extrémités de la cicatrice lors de la fermeture en diminuant la tension
                         sur les berges, mais aboutit à une cicatrice dont la taille est supérieure au diamètre de la lésion. Mais, à long terme, le
                         résultat esthétique sera meilleur.<br />
                         De plus, la discrétion de la cicatrice sera favorisée par l'orientation de l'incision dans l'axe des plis naturels de la peau
-                        (<a href="#langer">cf. schéma</a>) et par une technique de suture irréprochable.<br />
+                        (cf. schéma) et par une technique de suture irréprochable.<br />
                         Dans certains  cas, la fermeture par suture directe est irréalisable à cause de la taille ou de l’endroit de la lésion. La
                         couverture de la zone est assurée alors soit par une greffe de peau prélevée sur une autre région discrète, soit par un lambeau
-                        (déplacement de peau avoisinante pour recouvrir la perte de substance cutanée : <a href="#lambeau">cf. schéma</a>). Enfin, dans de très rares cas, nous
+                        (déplacement de peau avoisinante pour recouvrir la perte de substance cutanée : cf. schéma). Enfin, dans de très rares cas, nous
                         utilisons l’expansion cutanée réalisée grâce à des ballonnets gonflables placés sous la peau saine avoisinante (le gonflage
                         progressif entraîne un développement cutané sur plusieurs semaines comme lors de la grossesse).<br />
                         Dans tous les cas, votre chirurgien vous expliquera la solution adaptée à votre cas personnel.

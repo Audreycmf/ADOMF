@@ -161,7 +161,7 @@
 											<p>Patiente présentant un sourire gingival par excès de longueur du maxillaire.<br />
 											A gauche, on la voit après l'<strong>ostéotomie maxillaire</strong> et à droite, avant.</p>
                       <h3 class="non_imprime">Vidéo d'une ostéotomie maxillaire de Le Fort I</h3>
-											<iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=29&end=65&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+											<iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=29&end=65&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
 										</section>
 
 								</div>

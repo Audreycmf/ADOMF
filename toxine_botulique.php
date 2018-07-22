@@ -109,6 +109,7 @@
 										<section class="imagerie">
 											<header>
 												<h2>L'injection de toxine botulique</h2>
+												<img src="images/injection_toxine_botulique.jpg" alt="schéma d'une injection de toxine botulique au niveau de la ride du lion" width=100% class="zoom" />
 											</header>
                     </section>
 

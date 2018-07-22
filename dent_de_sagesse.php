@@ -170,9 +170,9 @@
 											<p> <img src="images/X_rouge.jpg" alt="légende des croix rouges" width=8% />Dents de sagesse</p>
 											<p> <img src="images/trait_jaune.jpg" alt="légende du trait jaune" width=8% /> Nerf alvéolaire inférieur</p>
                       <h3 class="non_imprime">Avulsion de dent de sagesse mandibulaire</h3>
-											<iframe width=100% src="https://www.youtube.com/embed/5JlDXDi8Vlw?rel=0&start=13&mute=1&controls=0" frameborder="0" allowfullscreen id="video" class="non_imprime"></iframe>
+											<iframe width=100% src="https://www.youtube.com/embed/5JlDXDi8Vlw?rel=0&start=13&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen id="video" class="non_imprime"></iframe>
                       <h3 class="non_imprime">Avulsion de dent de sagesse maxillaire</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/idW6iHykkzk?rel=0&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/idW6iHykkzk?rel=0&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
 										</section>
 
 								</div>

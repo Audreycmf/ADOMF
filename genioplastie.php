@@ -136,7 +136,7 @@
 											<p>Patiente présentant une rétrogénie (menton trop en arrière).<br />
 											A gauche, on la voit après la<strong>génioplastie</strong> et à droite, avant.</p>
                       <h3 class="non_imprime">Vidéo d'une génioplastie</h3>
-                      <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&end=27&controls=0" frameborder="0" allowfullscreen class="non_imprime"></iframe>
+                      <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&end=27&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>
 								</div>
 							</div>

@@ -52,11 +52,11 @@
 											<p>
                         On distingue 2 types de rides du visage : les rides d’expression dues à une hyperactivité des muscles sous-jacents (front, rides du lion)
                         et les rides d’affaissement dues à une fonte des tissus sous-cutanés (sillons naso-géniens, vallée des larmes…).
-                        Le <a href="lifting.php">lifting du visage</a> est une des solutions chirurgicales pour les corriger.<br />
+                        Le lifting du visage est une des solutions chirurgicales pour les corriger.<br />
                         Cependant des alternatives plus douces et non chirurgicales (médecine esthétique) se sont développées :
                         <ul class="basic-list">
-                          <li>les <a href="acide_hyaluronique.php">injections d’acide hyaluronique</a></li>
-                          <li>les <a href="toxine_botulique.php">injections de toxine botulique</a></li>
+                          <li>les injections d’acide hyaluronique</li>
+                          <li>les injections de toxine botulique</li>
                         </ul>
                       </p>
                       <p>
@@ -64,7 +64,7 @@
                         généralement le sourire.<br />
                         Avec l’âge, les lèvres deviennent plus fines, s’aplatissent et perdent leur ourlet. Différentes techniques chirurgicales sont
                         envisageables (volumateurs) afin de regalber les lèvres et de combler les rides péribuccales, grâce aux
-                        <a href="acide_hyaluronique.php">injections d'acide hyaluronique</a>.
+                        injections d'acide hyaluronique.
 											</p>
 										</section>
 
@@ -75,6 +75,7 @@
 										<section class="imagerie">
 											<header>
 												<h2>Les ridules et rides du visage</h2>
+												<img src="images/rides_visage.jpg" alt="rides du visage" width=100% class="zoom" />
 											</header>
                     </section>
 

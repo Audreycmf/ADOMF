@@ -46,17 +46,17 @@
                         Plus rarement, le volume osseux est suffisant pour permettre la mise en place d'implants dentaires mais c'est l'espace
                         disponible pour réaliser la prothèse qui est insuffisant ou inadapté. Il existe en fait des anomalies de rapport entre les deux
                         mâchoires qui rendent difficile la réalisation de la prothèse. Un décalage important des bases osseuses peut être traité par
-                        <a href="orthognatique.php">chirurgie orthognatique</a> avant réalisation d'une prothèse ou la mise en place d'implants.
+                        <a href="chirurgie_orthognatique.php">chirurgie orthognatique</a> avant réalisation d'une prothèse ou la mise en place d'implants.
                       </p>
                       <p>
                         Il existe différents types de reconstruction osseuse :
                         <ul class="basic-list">
-                          <li><a href="#greffe">la <strong>greffe osseuse dentaire</strong></a> : lorsqu’un défaut osseux  en  épaisseur ou en hauteur est repéré, une greffe par prélèvement chez le
+                          <li>la <strong>greffe osseuse dentaire</strong> : lorsqu’un défaut osseux  en  épaisseur ou en hauteur est repéré, une greffe par prélèvement chez le
                             patient peut permettre de retrouver un volume osseux satisfaisant. Généralement, le prélèvement a lieu au niveau de la
                             mâchoire inférieure (sur un côté ou au niveau du menton) et ce bloc est maintenu sur le site désiré à l’aide de mini vis en
                             titane. Une cicatrisation de 4 à 6 mois est indispensable avant la pose d’implants (les mini vis seront retirées lors de la
                             même intervention implantaire)</li>
-                          <li><a href="#sinus">l'élévation sinusienne ou sinus lift</a> : quand il faut remplacer les molaires du haut, un manque d’os en hauteur peut
+                          <li>l'élévation sinusienne ou sinus lift : quand il faut remplacer les molaires du haut, un manque d’os en hauteur peut
                             limiter la pose d’implants.  Un comblement du fond du sinus maxillaire par un substitut osseux d’origine humaine, animale
                             ou synthétique est indiqué. On accède au sinus maxillaire à partir d’une incision dans la gencive et un fraisage de l’os en
                             regard du sinus. Une cicatrisation de 4 à 8 mois est nécessaire avant la pose d’implants.<br />
@@ -65,7 +65,7 @@
                             millimètres. Les implants sont posés dans le même temps opératoire et doivent avoir une bonne stabilité primaire. Une
                             cicatrisation de 4 à 8 mois est primordiale avant la phase prothétique. Il est possible que la pose d’implants soit
                             différée</li>
-                          <li><a href="#rog">la régénération osseuse dentaire guidée</a> : lorsque le manque d’os est peu important, une méthode de "régénération osseuse"
+                          <li>la régénération osseuse dentaire guidée : lorsque le manque d’os est peu important, une méthode de "régénération osseuse"
                             est possible. Un biomatériau d’origine animale ou synthétique est placé sur le site manquant, recouvert d’une
                             "membrane" résorbable ou non pour stabiliser le substitut. Le substitut est un support qui va être colonisé par
                             les cellules sanguines et osseuses pour recréer l’os. Une cicatrisation de 4 à 6 mois avant la pose de l’implant est
@@ -136,18 +136,18 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
-										<section class="imagerie" id="greffe">
+										<section class="imagerie">
 											<header>
 												<h2>La chirurgie pré-implantaire</h2>
 											</header>
                       <h3>La greffe osseuse dentaire, d'apposition périostée</h3>
 												<img src="images/greffe_osseuse_dentaire_avant_apres.png" alt="photo avant et après une greffe osseuse dentaire" width=100% class="zoom" />
 												<p>En haut, on voit le manque d'os et en bas, l'os après <strong>greffe osseuse dentaire</strong></p>
-                        <iframe width=100% src="https://www.youtube.com/embed/EtnWINP7q2A?rel=0&end=67&mute=1&controls=0" frameborder="0" allowfullscreen id="sinus" class="non_imprime"></iframe>
+                        <iframe width=100% src="https://www.youtube.com/embed/EtnWINP7q2A?rel=0&end=67&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       <h3>L'élévation sinusienne ou sinus lift</h3>
   											<img src="images/elevation_sinusienne.png" alt="schéma d'un sinus lift" width=100% class="zoom" />
                         <img src="images/sinus_lift.png" alt="les différentes étapes du sinus lift" width=100% class="zoom" />
-                        <iframe width=100% src="https://www.youtube.com/embed/mf_HClp9o2w?rel=0&start=10&end=41" frameborder="0" allowfullscreen id="rog" class="non_imprime"></iframe>
+                        <iframe width=100% src="https://www.youtube.com/embed/mf_HClp9o2w?rel=0&start=10&end=41&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       <h3>La régénération osseuse dentaire guidée</h3>
                         <img src="images/rog.png" alt="schéma d'une régénération osseuse dentaire" width=100% class="zoom" />
                     </section>
