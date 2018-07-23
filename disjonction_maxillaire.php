@@ -145,6 +145,8 @@
 												<h2>La disjonction maxillaire</h2>
 											</header>
                       <h3>Simulation sur plâtre</h3>
+											<img src="images/disjonction_maxillaire.png" alt="Disjonction maxillaire sur plâtre" width=100% class="zoom" />
+											<p>La largeur du maxillaire est augmentée ici de 5mm.</p>
 											<img src="images/articulateur.png" alt="moulages montés sur un articulateur pour préparer la gouttière qui servira à la réalisation de
 											la disjonction maxillaire" width=100% class="zoom" />
 										</section>

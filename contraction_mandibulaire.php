@@ -150,6 +150,8 @@
 												<h2>La contraction mandibulaire</h2>
 											</header>
                       <h3>Simulation sur plâtre</h3>
+											<img src="images/contraction_mandibulaire.png" alt="Contraction mandibulaire sur plâtre" width=100% class="zoom" />
+											<p>La largeur de la mandibule est diminuée ici de 3mm.</p>
 											<img src="images/articulateur.png" alt="moulages montés sur un articulateur pour préparer la gouttière qui servira à la réalisation de
 											la contraction mandibulaire" width=100% class="zoom" />
                     </section>

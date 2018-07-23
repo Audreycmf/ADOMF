@@ -1347,6 +1347,8 @@
 	#content .titre_walid, #content .titre_brothier, #content .titre_gap, #content .titre_humanitaire, .intitule_liste_ortho, .implants, .ectropion, .intitule_liste_orbito, .dds, .intitule_liste_sto, .rides, .intitule_liste_esthetique, .parotidectomie {
 		text-decoration: underline;
 		color:#ed391b;
+		display: flex;
+		align-items: center;
 	}
 
 	#content .titre_walid:hover, #content .titre_brothier:hover, #content .titre_gap:hover, #content .titre_humanitaire:hover, .intitule_liste_ortho:hover, .implants:hover, .ectropion:hover, .intitule_liste_orbito:hover, .dds:hover, .intitule_liste_sto:hover, .rides:hover, .intitule_liste_esthetique:hover, .parotidectomie:hover {
@@ -1355,7 +1357,7 @@
 	}
 
 	#content .fleche {
-		width: 2%;
+		width: 0.75em;
 		margin: 0 0 -2px 8px;
 	}
 
@@ -1382,7 +1384,7 @@
 	}
 
 	.remarque {
-		display:none;
+		display: none;
 	}
 
 	#content .center {
@@ -1606,7 +1608,7 @@
 			}
 
 			#content #fleche_ortho, #content #fleche_orbito, #content #fleche_sto, #content #fleche_esthetique {
-				width: 1.5%;
+				width: 0.8em;
 			}
 
 			.zoom:hover {
@@ -1782,7 +1784,7 @@
 			}
 
 			#content .fleche {
-				width: 5%;
+				width: 0.75em;
 				margin: 0 0 -1.5px 5px;
 			}
 
@@ -1930,7 +1932,7 @@
 			}
 
 			#content #fleche_ortho, #content #fleche_orbito, #content #fleche_sto, #content #fleche_esthetique {
-				width: 6%;
+				width: 1.3em;
 			}
 
 		/* Footer */

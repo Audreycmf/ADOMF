@@ -157,6 +157,7 @@
 											<img src="images/articulateur.png" alt="moulages montés sur un articulateur pour préparer la gouttière qui servira à la réalisation de
 											l'ostéotomie mandibulaire" width=100% class="zoom" />
 											<h3>Comparatifs avant et après ostéotomie mandibulaire</h3>
+											<img src="images/osteotomie_mandibulaire_avant_apres.png" alt="patient avant et après ostéotomie mandibulaire" width=100% class="zoom" />
                       <h3 class="non_imprime">Vidéo d'une ostéotomie mandibulaire</h3>
                       <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&start=67&end=82&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>

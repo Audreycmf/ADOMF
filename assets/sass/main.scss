@@ -70,10 +70,16 @@
 		}
 	}
 
+	h3 {
+		font-size: 1.2em;
+		color: #212f35;
+		padding: 0.7em 0 0.7em 1.3em;
+		background: url("images/icon-checkmark.png") 0px 0.8em no-repeat;
+	}
+
 	h4 {
 		font-size: 1.1em;
-		padding: 0.7em 0 0.7em 45px;
-		background: url("images/icon-checkmark.png") 0px 1.05em no-repeat;
+		color: #353d40;
 	}
 
 	#banner {
@@ -208,6 +214,21 @@
 		}
 	}
 
+	.subpage .bordered-feature-image {
+		width: 10em;
+		margin-top: 1em;
+	}
+
+	.photo_equipe span {
+		visibility: hidden;
+		display: none;
+	}
+
+	.photo_equipe img:hover + span {
+		visibility: visible;
+		display: flex;
+	}
+
 	/* Content */
 
 	#content {
@@ -337,6 +358,8 @@
 		.titre_walid, .titre_brothier, .titre_gap, .titre_humanitaire, .intitule_liste_ortho, .implants, .ectropion, .intitule_liste_orbito, .dds, .intitule_liste_sto, .rides, .intitule_liste_esthetique, .parotidectomie {
 		text-decoration: underline;
 		color:#ed391b;
+		display: flex;
+		align-items: center;
 		}
 	}
 
@@ -349,7 +372,7 @@
 
 	#content {
 		.fleche {
-			width:2%;
+			width:0.75em;
 			margin: 0 0 -2px 8px;
 		}
 
@@ -380,7 +403,7 @@
 	}
 
 	.remarque {
-		display:none;
+		display: none;
 	}
 
 	#content {
@@ -496,7 +519,7 @@
 				position: relative;
 				min-width: 1260px;
 
-				h1 {
+				h2 {
 					position: absolute;
 					left: 15.8536585366%;
 					bottom: 35px;
@@ -593,13 +616,13 @@
 					margin: 0 0 10% 0;
 				}
 
-				h2 {
+				h1 {
 					font-size: 1.8em;
 					color: #373f42;
 					margin: 0 0 0.25em 0;
 				}
 
-				h3 {
+				h2 {
 					color: #96a9b5;
 					font-size: 1.25em;
 				}
@@ -618,9 +641,13 @@
 				}
 
 				#fleche_ortho, #fleche_orbito, #fleche_sto, #fleche_esthetique {
-					width: 1.5%;
+					width: 0.8em;
 				}
 
+				.zoom:hover {
+					transform: scale(2.5) translateX(-60px);
+					-webkit-transform: scale(2.5) translateX(-60px); /*pour Safari*/
+				}
 
 		/* Footer */
 
@@ -742,12 +769,12 @@
 		/* Content */
 
 			#content {
-				h2 {
+				h1 {
 					font-size: 1.4em;
 				}
 
-				h3 {
-					font-size: 1.1em;
+				h2 {
+					font-size: 1.15em;
 				}
 
 				header {
@@ -805,7 +832,7 @@
 
 			#content {
 				.fleche {
-					width: 5%;
+					width: 0.75em;
 					margin: 0 0 -1.5px 5px;
 				}
 			}
@@ -862,7 +889,7 @@
 					width: 80%;
 				}
 
-				h1 {
+				h2 {
 					font-size: 1.75em;
 				}
 			}
@@ -925,13 +952,13 @@
 					margin: 0 0 5px 0;
 				}
 
-				h2 {
+				h1 {
 					font-size: 1.25em;
 					color: #373f42;
 					margin: 0 0 0.1em 0;
 				}
 
-				h3 {
+				h2 {
 					color: #96a9b5;
 					font-size: 1em;
 				}
@@ -958,7 +985,7 @@
 			}
 
 			#fleche_ortho, #fleche_orbito, #fleche_sto, #fleche_esthetique {
-				width: 6%;
+				width: 1.3em;
 			}
 
 		/* Footer */

@@ -33,7 +33,7 @@
                         C'est donc la chirurgie du regard.<br />
                         Elle concerne essentiellement la maladie de Basedow et les anomalies des paupières lièes à l'âge :
                         <ul class="basic-list">
-                          <li><span class="ectropion" id="ectropion">l'<strong>ectropion</strong> et l'<strong>entropion</strong></span></li>
+                          <li><span class="ectropion" id="ectropion">l'<strong>ectropion </strong>  et l'<strong>entropion</strong></span></li>
                           <li><a href="ptosis.php">le ptosis</a></li>
                           <li><a href="maladie_de_basedow.php">la maladie de Basedow</a> avec :
                             <ol class="level2_list">
