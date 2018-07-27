@@ -24,11 +24,10 @@ if ($_POST['remarque'] != "") { // on place un petit filet anti robots spammers
   $_SESSION['inputs'] = $_POST;
   header('Location: contact.php');
   }else{
-  $_SESSION['success'] = 1;
   $headers  = 'MIME-Version: 1.0' . "\r\n";
   $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
   $headers .= 'FROM:' . htmlspecialchars($_POST['email']);
-  $to = 'audreymoret@hotmail.fr';
+  $to = 'prevol@ch-aix.fr, amoret@ch-aix.fr, jgarconnet@ch-aix.fr';
   $subject = 'Message envoyé par ' . htmlspecialchars($_POST['name']) . htmlspecialchars($_POST['surname']) . ' - <i>' . htmlspecialchars($_POST['email']) .'</i>';
   $message_content = '
   <table>
@@ -47,5 +46,6 @@ if ($_POST['remarque'] != "") { // on place un petit filet anti robots spammers
   </table>
   ';
 mail($to, $subject, $message_content, $headers);
+$_SESSION['success'] = 1;
   header('Location: contact.php');
   }

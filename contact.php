@@ -32,7 +32,7 @@ session_start();
 											<div>
 											  <?php if(array_key_exists('errors',$_SESSION)): ?>
 											  <div class="alert alert-danger">
-												  <?= implode('<br>', $_SESSION['errors']); ?>
+												  <?php implode('<br>', $_SESSION['errors']); ?>
 											  </div>
 											  <?php endif; ?>
 											  <?php if(array_key_exists('success',$_SESSION)): ?>

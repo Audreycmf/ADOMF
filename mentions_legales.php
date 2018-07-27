@@ -46,7 +46,7 @@
                       </p>
                       <h2>Informations webmaster</h2>
                       <p>
-                        Le webmaster du site est le Dr Audrey Moret. Vous pouvez la contacter via le formulaire de contact dans l'onglet "Contact"
+                        Le webmaster du site est le Dr Audrey Moret. Vous pouvez la contacter via le formulaire de contact dans l'onglet <a href="contact.php">Contact</a>
                       </p>
                       <h2>Informations médicales</h2>
                       <p>
