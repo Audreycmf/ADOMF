@@ -29,7 +29,7 @@
                         L'utilisateur, en ayant accès à ce site, s'engage à se conformer aux présentes conditions d'utilisation.
                       </p>
                       <p>
-                        Dernière mise à jour du site : 06/05/2018
+                        Dernière mise à jour du site : 26/07/2018
                       </p>
                       <h2>Informations éditeur</h2>
                       <p>Ce site est édité par :<br />
