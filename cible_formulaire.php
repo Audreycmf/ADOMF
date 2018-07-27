@@ -28,7 +28,7 @@ if ($_POST['remarque'] != "") { // on place un petit filet anti robots spammers
   $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
   $headers .= 'FROM:' . htmlspecialchars($_POST['email']);
   $to = 'prevol@ch-aix.fr, amoret@ch-aix.fr, jgarconnet@ch-aix.fr';
-  $subject = 'Message envoyé par ' . htmlspecialchars($_POST['name']) . htmlspecialchars($_POST['surname']) . ' - <i>' . htmlspecialchars($_POST['email']) .'</i>';
+  $subject = 'Message envoyé par ' . htmlspecialchars($_POST['name']) . ' ' . htmlspecialchars($_POST['surname']) . ' - <i>' . htmlspecialchars($_POST['email']) .'</i>';
   $message_content = '
   <table>
   <tr>

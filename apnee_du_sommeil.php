@@ -82,7 +82,7 @@
                       <p>
                         Il s'agit d'une chirurgie orthognatique à type d'ostéotomie bimaxillaire. Elle peut être proposée dans le cas de patients jeunes (moins
 												de 45 ans), sans surpoids, présentant certaines caractéristiques au niveau dento-maxillaire. Vous trouverez toutes les informations
-												nécessaires dans <a href="bimax.php">cette fiche</a>.
+												nécessaires dans <a href="osteotomie_bimaxillaire.php">cette fiche</a>.
                       </p>
 
 											<div id="liens_telechargement">

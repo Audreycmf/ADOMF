@@ -1,5 +1,3 @@
-<?php include("compteur.php") ?>
-
 <div id="header-wrapper">
   <header id="header" class="container">
     <div class="row">
