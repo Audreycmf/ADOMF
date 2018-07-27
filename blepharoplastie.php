@@ -48,7 +48,7 @@
                         <ul class="basic-list">
                           <li>paupières supérieures : lourdes et tombantes, avec excès de peau formant un repli ("paupière qui tombe")</li>
                           <li>paupières inférieures : affaissées et flétries avec petites rides horizontales consécutives à la distension cutanée</li>
-                          <li>Hernies de graisse : responsables de "poche sous les yeux" au niveau des paupières inférieures, de paupières supérieures
+                          <li>hernies de graisse : responsables de "poche sous les yeux" au niveau des paupières inférieures, de paupières supérieures
                             "bouffies"</li>
                         </ul>
                         L'intervention vise à corriger ces disgrâces sans altérer les fonctions essentielles des paupières. Elle est réalisée aussi
@@ -66,7 +66,7 @@
 												</ul>
                         L'intervention se pratique en "ambulatoire" (sortie le jour même).<br />
                         Aucun médicament contenant de l’aspirine ne devra être pris dans les 10 jours précédant l’intervention.<br />
-                        En fonction du type d’anesthésie, on pourra vous demander de rester à jeûn (ne rien manger ni boire ni fumer) 6 heures avant
+                        En fonction du type d’anesthésie, on pourra vous demander de rester à jeun (ne rien manger ni boire ni fumer) 6 heures avant
                         l’intervention.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
@@ -86,7 +86,7 @@
                       <p>
                         L’intervention est peu douloureuse. Cependant, un inconfort avec une sensation de tension des paupières et une légère irritation
                         des yeux est classique.<br />
-                        Les suites opératoires sont marquées par l'apparition d'un oedème (gonflement) et d'ecchymoses (bleus) dont l'importance et la
+                        Les suites opératoires sont marquées par l'apparition d'un &oelig;dème (gonflement) et d'ecchymoses (bleus) dont l'importance et la
                         durée sont individu dépendant. Ces signes sont rapidement réversibles permettant le retour à une vie socioprofessionnelle
                         normale après quelques jours (6 à 20 jours).<br />
                         Les premiers jours, il faut se reposer et éviter les efforts et l’exposition solaire.<br />
@@ -98,7 +98,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>blépharoplastie</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -119,7 +119,7 @@
                                 terme, aussi discrètes qu'escompté</li>
                               <li>kystes épidermiques : ils peuvent apparaître le long des cicatrices, s'éliminent spontanément ou se retirent facilement
                                 et ne compromettent pas la qualité du résultat final</li>
-                              <li>troubles de la sécrétion des larmes : un larmoiement persistant est plus rare qu'un "syndrome d'oeil sec" qui vient
+                              <li>troubles de la sécrétion des larmes : un larmoiement persistant est plus rare qu'un "syndrome d'&oelig;il sec" qui vient
                                 parfois décompenser un déficit en larmes préexistant</li>
                               <li>ptosis (difficulté à ouvrir complètement la paupière supérieure) : très rare, sauf au-delà de 70 ans où un déficit
                                 préexistant peut être majoré par l'intervention</li>
@@ -134,7 +134,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/blepharoplastie.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

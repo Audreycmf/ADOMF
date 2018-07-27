@@ -70,14 +70,14 @@
                         <ul class="basic-list">
                           <li>des petits saignements pendant les 24 premières heures</li>
                           <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours</li>
-                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre</li>
+                          <li>un &oelig;dème des joues : imprévisible et variable d’une personne à l’autre</li>
                           <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
                         </ul>
                         Les soins post-opératoires comportent:
                         <ul class="basic-list">
                           <li>des bains de bouche, à débuter seulement 24 heures après l’intervention</li>
                           <li>des médicaments contre la douleur (antalgiques)</li>
-                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-&oelig;démateux)</li>
                           <li>parfois des antibiotiques et anti-inflammatoires</li>
                           <li>une alimentation molle, tiède ou froide pendant les 24 premières heures</li>
                           <li>un arrêt du tabac pendant la période postopératoire</li>
@@ -85,7 +85,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>avulsion dentaire</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -104,7 +104,7 @@
                               <li>l'alvéolite sèche survient quelques jours après l’intervention. C’est un retard de cicatrisation, fortement favorisé par le
                                 tabagisme. Elle nécessite souvent un traitement local</li>
                               <li>des gerçures des lèvres, de la face interne des joues sont des complications bénignes. Elles régressent en quelques jours</li>
-                              <li>des hémorragies (saignements importants) peuvent survenir et sont résolues par des manoeuvres simples de compression. Ce type
+                              <li>des hémorragies (saignements importants) peuvent survenir et sont résolues par des man&oelig;uvres simples de compression. Ce type
                                 de complication concerne principalement les patients sous traitement anti-agrégant ou anticoagulant ou présentant des pathologies
                                 particulières qui favorisent les hémorragies</li>
                             </ul>
@@ -138,7 +138,7 @@
                       </p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/rebd.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/avulsion_dentaire.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
                     </section>
 

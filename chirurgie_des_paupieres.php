@@ -56,14 +56,14 @@
                         Elles sont simples. Elle nécessitent :
                         <ul class="basic-list">
                           <li>des compresses oculaires avec de l’eau glacée dans les heures suivant l’intervention pour prévenir la survenue d’hématome</li>
-                          <li>une pommade sur les yeux et la cicatrice pendantune semaine</li>
+                          <li>une pommade sur les yeux et la cicatrice pendant une semaine</li>
                         </ul>
                         L’ablation des fils se fait entre le 7ème et le 10ème jour.<br />
                         L’ecchymose et l’œdème peuvent persister jusqu’à 10 jours.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>chirurgie des paupières</strong> à type d’allongement palpébral, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -78,7 +78,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/chirurgie_des_paupieres.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 
@@ -96,7 +96,7 @@
                         <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=125&end=144&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       <h3>L'allongement palpébral inférieur</h3>
 												<img src="images/allongement_palpebral_inferieur_avant_apres.png" alt="comparaison avant et après chirurgie des paupières à type d'allongement palpébral inférieur" width=100% class="zoom" />
-												<p>A gauche, rétraction palpébrale supérieure; à droite, photo après <strong>chirurgie des paupières</strong> à type d'allongement palpébral supérieur</p>
+												<p>A gauche, rétraction palpébrale inférieure; à droite, photo après <strong>chirurgie des paupières</strong> à type d'allongement palpébral inférieur</p>
                         <iframe width=100% src="https://www.youtube.com/embed/n-xQy9wKqZ4?rel=0&start=148&end=162&mute=1&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                       </section>
 

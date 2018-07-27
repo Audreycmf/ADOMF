@@ -33,7 +33,7 @@
                         C'est donc la chirurgie du regard.<br />
                         Elle concerne essentiellement la maladie de Basedow et les anomalies des paupières lièes à l'âge :
                         <ul class="basic-list">
-                          <li><span class="ectropion" id="ectropion">l'<strong>ectropion </strong>  et l'<strong>entropion</strong></span></li>
+                          <li><span class="ectropion" id="ectropion">l'<strong>ectropion et l'entropion</strong></span></li>
                           <li><a href="ptosis.php">le ptosis</a></li>
                           <li><a href="maladie_de_basedow.php">la maladie de Basedow</a> avec :
                             <ol class="level2_list">
@@ -84,14 +84,14 @@
                         Elles sont simples. Elle nécessitent :
                         <ul class="basic-list">
                           <li>des compresses oculaires avec de l’eau glacée dans les heures suivant l’intervention pour prévenir la survenue d’hématome</li>
-                          <li>une pommade sur les yeux et la cicatrice pendantune semaine</li>
+                          <li>une pommade sur les yeux et la cicatrice pendant une semaine</li>
                         </ul>
                         L’ablation des fils se fait entre le 7ème et le 10ème jour.<br />
                         L’ecchymose et l’œdème peuvent persister jusqu’à 10 jours.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une cure d'<strong>ectropion</strong> ou d'<strong>entropion</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -107,7 +107,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/ectropion_entropion.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

@@ -36,7 +36,7 @@
 											</header>
 											<ul class="link-list">
 												<li><a href="http://anico.fr/">Membre de l’Association Nationale des Internes en Chirurgie Orale</a></li>
-												<li><a href="http://societechirorale.com/fr/">Membre de la Société Française de Chirugie Orale</a></li>
+												<li><a href="http://societechirorale.com/fr/">Membre de la Société Française de Chirurgie Orale</a></li>
                         <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales: Secrétaire adjointe</a></li>
 											</ul>
 										</section>
@@ -52,7 +52,7 @@
 											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/cv_julie_garconnet.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 										<section class="presentation_mobile">
@@ -111,7 +111,7 @@
                             <i>51ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2015</i></li>
                           <li>Evaluation de la compréhension de l’information après avulsion des dents de sagesse<br />
                             <i>52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016</i></li>
-													<li>La chéilite granulomateuse de Miescher : à propos de 2 cas, difficulté de diagnoqtic et revue de la littérature<br />
+													<li>La chéilite granulomateuse de Miescher : à propos de 2 cas, difficulté de diagnostic et revue de la littérature<br />
 														<i>52ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2016</i></li>
                         </ul>
                         <h4>Publications dans les revues scientifiques</h4>

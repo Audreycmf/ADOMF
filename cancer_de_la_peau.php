@@ -90,7 +90,7 @@
                         de cicatrisation. Les douleurs véritables invalidantes sont rares. Une sensation de tension et d’inconfort est classique,
                         cédant facilement avec une prescription de Paracétamol.<br />
                         Toutes ces constatations ne sont pas inquiétantes et doivent être considérées comme des suites "habituelles".<br />
-                        Suivant la zone opérée (épaule, dos..), il faut éviter les mouvements qui « tirent » sur la cicatrice.<br />
+                        Suivant la zone opérée (épaule, dos..), il faut éviter les mouvements qui "tirent" sur la cicatrice.<br />
                         Les fils ne sont pas résorbables et seront  retirés entre le 7ème et le 15ème jour suivant la zone opérée. Le chirurgien vous
                         expliquera les modalités des soins à apporter à votre cicatrice pour les semaines suivantes (massages, protection solaire…).<br />
                         Concernant l'évolution cicatricielle habituelle, il faut noter qu'initialement la cicatrice est souvent rouge ou rosée, puis
@@ -107,7 +107,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre pour rendre les cicatrices les plus discrètes possible, il arrive que la
+                        Bien que tous les efforts soient mis en &oelig;uvre pour rendre les cicatrices les plus discrètes possible, il arrive que la
                         cicatrisation ne soit pas satisfaisante. La qualité de la cicatrisation est variable selon l'âge, les parties du corps, les
                         facteurs environnementaux (tabac), les autres pathologies du patient et d'un individu à l'autre.<br />
                         La chirurgie des lésions cutanées comporte, comme tout acte médical si minime soit-il, un certain nombre d'incertitudes et de
@@ -139,7 +139,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/cancer_de_la_peau.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

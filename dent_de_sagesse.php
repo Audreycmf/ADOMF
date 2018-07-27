@@ -28,7 +28,7 @@
 												tissus qui l'environnent (parodonte).<br />
                         La stomatologie comprend principalement trois types d'interventions :
                         <ul class="basic-list">
-                          <li><span class="dds" id="dds">l'avulsion de <strong>dent de sagesse</strong></span></li>
+                          <li><span class="dds" id="dds">l'avulsion de &nbsp;<strong>dent de sagesse</strong></span></li>
                           <li><a href="avulsion_dentaire.php">l'avulsion dentaire difficile</a></li>
                           <li><a href="resection_apicale.php">la résection apicale (kyste dentaire)</a></li>
                         </ul>
@@ -81,14 +81,14 @@
                         <ul class="basic-list">
                           <li>des petits saignements pendant les 24 premières heures</li>
                           <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours</li>
-                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre</li>
+                          <li>un &oelig;dème des joues : imprévisible et variable d’une personne à l’autre</li>
                           <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
                         </ul>
                         Les soins post-opératoires comportent:
                         <ul class="basic-list">
                           <li>des bains de bouche, à débuter seulement 24 heures après l’intervention</li>
                           <li>des médicaments contre la douleur (antalgiques)</li>
-                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>une vessie de glace pendant 24 heures (effets antalgique, anti-inflammatoire et anti-&oelig;démateux)</li>
                           <li>parfois des antibiotiques et anti-inflammatoires</li>
                           <li>une alimentation molle, tiède ou froide pendant les 24 premières heures</li>
                           <li>un arrêt du tabac pendant la période postopératoire</li>
@@ -96,7 +96,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser l’extraction de <strong>dent de sagesse</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -153,7 +153,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/dent_de_sagesse.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

@@ -61,13 +61,13 @@
                         fils résorbables (disparaissant en 3 semaines).<br />
                         Il n’y a pas de blocage des mâchoires en fin d’intervention.<br />
                         L’intervention dure 1 heure. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
-                        La mâchoire retrouve une solidité normale en 6 semaines.<br />
+                        La mâchoire retrouve généralement une solidité normale en 6 semaines.<br />
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
-                          <li>un oedème (gonflement) des lèvres et du cou quasi systématique et important la première semaine</li>
+                          <li>un &oelig;dème (gonflement) des lèvres et du cou quasi systématique et important la première semaine</li>
                           <li>des petits saignements pendant les 24 premières heures</li>
                           <li>des douleurs modérées, contrôlées par les antalgiques prescrits et disparaissant en général en quelques jours</li>
                           <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
@@ -76,7 +76,7 @@
                         <ul class="basic-list">
                           <li>une hygiène bucco-dentaire irréprochable : bains de bouche, jet dentaire</li>
                           <li>des médicaments contre la douleur (antalgiques)</li>
-                          <li>une vessie de glace (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>une vessie de glace (effets antalgique, anti-inflammatoire et anti-&oelig;démateux)</li>
                           <li>des antibiotiques</li>
                           <li>une alimentation molle pendant 1 mois</li>
                           <li>un arrêt du tabac pendant la période postopératoire</li>
@@ -84,7 +84,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>génioplastie</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -119,7 +119,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/genioplastie.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 
@@ -134,7 +134,7 @@
 											<h3>Comparatifs avant et après génioplastie</h3>
 											<img src="images/genioplastie_avant_apres.png" alt="patiente avant et après génioplastie" width=100% class="zoom" />
 											<p>Patiente présentant une rétrogénie (menton trop en arrière).<br />
-											A gauche, on la voit après la<strong>génioplastie</strong> et à droite, avant.</p>
+											A gauche, on la voit après la <strong>génioplastie</strong> et à droite, avant.</p>
                       <h3 class="non_imprime">Vidéo d'une génioplastie</h3>
                       <iframe width=100% src="https://www.youtube.com/embed/OH_mOS_WeS4?rel=0&end=27&controls=0" frameborder="0" allow="encrypted-media" allowfullscreen class="non_imprime"></iframe>
                     </section>

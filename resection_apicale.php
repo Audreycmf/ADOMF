@@ -70,14 +70,14 @@
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
                           <li>des petits saignements pendant les 24 premières heures</li>
-                          <li>des douleurs contrôlées par les antalgiques prescrits et disparaîssant en général en quelques jours</li>
-                          <li>un oedème des joues : imprévisible et variable d’une personne à l’autre</li>
+                          <li>des douleurs contrôlées par les antalgiques prescrits et disparaissant en général en quelques jours</li>
+                          <li>un &oelig;dème des joues : imprévisible et variable d’une personne à l’autre</li>
                         </ul>
                         Votre ordonnance comprendra :
                         <ul class="basic-list">
                           <li>des bains de bouche, à débuter seulement 24 heures après l’intervention</li>
                           <li>des médicaments contre la douleur (antalgiques) et/ou des anti-inflammatoires</li>
-                          <li>une vessie de glace sur la joue pendant 24 heures (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>une vessie de glace sur la joue pendant 24 heures (effets antalgique, anti-inflammatoire et anti-&oelig;démateux)</li>
                           <li>des antibiotiques</li>
                           <li>une alimentation molle, tiède ou froide pendant les 24 premières heures. Ceci diminue le risque de saignements</li>
                           <li>un arrêt du tabac pendant la période postopératoire. Le tabac favorise les complications infectieuses et une mauvaise cicatrisation</li>
@@ -85,7 +85,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>résection apicale</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -127,7 +127,7 @@
                       </p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/ra.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/resection_apicalea.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
                     </section>
 

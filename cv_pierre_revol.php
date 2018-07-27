@@ -39,7 +39,7 @@
 											<ul class="link-list">
 												<li><a href="http://afcmf.free.fr/">Membre de l’Association Française des Chirurgiens Maxillo-Faciaux</a></li>
 												<li><a href="http://www.afjcmf.fr/">Membre de l'Association Française des Jeunes Chirurgiens Maxillo-Faciaux</a></li>
-												<li><a href="http://www.sfscmfco.fr/">Membre de la Société Française de Stomatologie et Chirurgie Maxillo-Faciale et Chirugie Orale</a></li>
+												<li><a href="http://www.sfscmfco.fr/">Membre de la Société Française de Stomatologie et Chirurgie Maxillo-Faciale et Chirurgie Orale</a></li>
 												<li><a href="https://www.eacmfs.org/">Membre de European Association for Cranio-Maxillo-Facial-Surgery</a></li>
 												<li><a href="http://sfodf.org/">Membre de la Société Française d’Orthopédie Dento-Faciale</a></li>
 												<li><a href="http://www.net1901.org/association/GROUPE-DETUDE-NATIONAL-DINNOVATION-EN-OSTEOSYNTHESE-GENIOS,509956.html">Membre du groupe
@@ -60,7 +60,7 @@
 											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/cv_pierre_revol.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 										<section class="presentation_mobile">
@@ -200,12 +200,12 @@
                         <ul class="basic-list">
                           <li>Evaluation fonctionnelle après chirurgie des cancers des VADS<br />
                             <i>Mémoire pour le certificat de Physiologie Oro-faciale - Université Claude Bernard - 1999</i></li>
-                          <li>Implantation lymphatico-veineuse dans le lynphoedème chronique des membres<br />
+                          <li>Implantation lymphatico-veineuse dans le lymph&oelig;dème chronique des membres<br />
                             <i>Mémoire pour l'A.E.U de techniques microchirurgicales - Université Claude Bernard - 2001</i></li>
                           <li>La chirurgie orthognatique après 40 ans : ses particularités<br />
                             <i>Thèse de médecine - Université Claude Bernard - 22 octobre 2003</i></li>
                           <li>Tumeurs salivaires intra-mandibulaires, à propos de 3 cas et revue de la littérature<br />
-                            <i>Mémoire du DESC de chirurgie maxillo-faciale et stomalogie - Université Claude Bernard - octobre 2004</i></li>
+                            <i>Mémoire du DESC de chirurgie maxillo-faciale et stomatologie - Université Claude Bernard - octobre 2004</i></li>
                         </ul>
                         <h4>Communications orales</h4>
                         <ul class="basic-list">
@@ -215,7 +215,7 @@
                             <i>Enseignement post-universitaire. CHU Lyon 1998</i></li>
                           <li>A propos d’une complication de la chirurgie orthognathique : communication bucco-sinusienne<br />
                             <i>Enseignement post-universitaire. CHU de Lyon 2000</i></li>
-                          <li>Le lymphoedème du membre supérieur : à propos d'un cas<br />
+                          <li>Le lymph&oelig;dème du membre supérieur : à propos d'un cas<br />
                             <i>Journée du jeune plasticien. Paris 2001</i></li>
                           <li>Chirurgie des ulcères des membres inférieurs<br />
                             <i>Enseignement post-universitaire. Hôpital d'instruction des armées Desgenettes 2001</i></li>
@@ -272,7 +272,7 @@
                         </ul>
                         <h4>Publications dans les revues scientifiques</h4>
                         <ul class="basic-list">
-                          <li>Le lymphoedème du membre supérieur : à propos d'un cas<br />
+                          <li>Le lymph&oelig;dème du membre supérieur : à propos d'un cas<br />
                             <i>Annales de chirurgie plastique et esthétique, 2001, vol. 46, numéro 4</i></li>
                           <li>Abcès intracérébral et cellulite cervico-faciale diffuse : complications d’une extraction  de dent de sagesse. A propos
 														d’un cas<br />
@@ -302,7 +302,7 @@
                             <i>XXIth Congress of the European Association for Cranio-Maxillofacial Surgery. Bologne 2008</i></li>
                           <li>Exérèse d’une dent de sagesse ectopie intra-sinusienne par ostéotomie de Lefort I<br />
                             <i>49ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Paris 2013</i></li>
-                          <li>An ectopic maxillary intra-sinus third molar : Lefort I osteotmy approach<br />
+                          <li>An ectopic maxillary intra-sinus third molar : Lefort I osteotomy approach<br />
                             <i>XXVIIth Congress of the European Association for Cranio-Maxillofacial Surgery. Prague 2014</i></li>
                         </ul>
                         <h4>Recherche</h4>

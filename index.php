@@ -79,7 +79,7 @@
 														maxillaires)</li>
 														<li>le traitement des malformations de la face de l'enfant et de l'adulte</li>
 														<li>la traumatologie faciale</li>
-														<li>la stomatologie (notamment : kystes, dents incluses, implants, chirurgie pré-prothétique,etc)</li>
+														<li>la stomatologie (notamment : dents de sagesse, kystes, dents incluses, implants, chirurgie pré-prothétique,etc)</li>
 														<li>la chirurgie des cancers de la bouche et de la face</li>
 														<li>la chirurgie des glandes salivaires</li>
 														<li>la chirurgie orbito-palpébrale</li>

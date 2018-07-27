@@ -38,7 +38,7 @@
 											</header>
 											<ul class="link-list">
 												<li><a href="http://www.afjcmf.fr/">Membre de l'Association Française des Jeunes Chirurgiens Maxillo-Faciaux</a></li>
-												<li><a href="http://www.sfscmfco.fr/">Membre de la Société Française de Stomatologie et Chirurgie Maxillo-Faciale et Chirugie Orale</a></li>
+												<li><a href="http://www.sfscmfco.fr/">Membre de la Société Française de Stomatologie et Chirurgie Maxillo-Faciale et Chirurgie Orale</a></li>
                         <li><a href="index.php">Association des Disciplines Orthodontiques et Maxillo-Faciales: Trésorière</a></li>
 											</ul>
 										</section>
@@ -55,7 +55,7 @@
 											</header>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/cv_audrey_moret.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 										<section class="presentation_mobile">
@@ -140,14 +140,14 @@
                             <i>The Journal of Craniofacial Surgery, 2015;26(7):2059-61</i></li>
                           <li>Le recours à la chirurgie orthognatique pré-prothétique<br />
                             <i>Dentoscope, 2017;176:36-40</i></li>
-													<li>Linear hyperpigmentation of the right upper eyelid<br />
-													</li>
+													<!--<li>Linear hyperpigmentation of the right upper eyelid<br />
+													</li>-->
                         </ul>
-                        <h4>Posters</h4>
+                        <!--<h4>Posters</h4>
                         <ul class="basic-list">
                           <li>Linear hyperpigmentation of the right upper eyelid<br />
 														<i>54ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Marseille 2018</i></li>
-                        </ul>
+                        </ul>-->
 										</section>
 										<section>
                       <h3>Internat</h3>

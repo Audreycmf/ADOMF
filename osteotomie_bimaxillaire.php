@@ -72,16 +72,16 @@
                         Les incisions sont dissimulées dans les gencives. Il n’y a aucune incision sur la peau. L’os est découpé précisément (par
                         microscie ou par ultrasons) afin de replacer le maxillaire et la mandibule dans leur position idéale calculée préalablement. L’os est fixé par
                         des mini-plaques et vis en Titane (ostéosynthèse). Elles pourront être retirées 1 an après. Les sutures sont réalisées avec des
-                        fils résorbables (disparaissenten 3 semaines).<br />
+                        fils résorbables (disparaissant en 3 semaines).<br />
                         Il n’y a pas de blocage des mâchoires en fin d’intervention.<br />
                         L’intervention dure 1 heure 30. Le soir après l’intervention, le patient peut manger liquide ou très mou.<br />
-                        La mâchoire retrouve une solidité normale en 6 semaines.<br />
+                        La mâchoire retrouve généralement une solidité normale en 6 semaines.<br />
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Suites opératoires</h2>
                       <p>
                         Les manifestations les plus fréquentes en post-opératoire sont :
                         <ul class="basic-list">
-                          <li>un oedème (gonflement) des joues quasi systématique et important la première semaine</li>
+                          <li>un &oelig;dème (gonflement) des joues quasi systématique et important la première semaine</li>
                           <li>des petits saignements pendant les 48 à 72 premières heures</li>
                           <li>des douleurs modérées, contrôlées par les antalgiques prescrits et disparaissant en général en quelques jours</li>
                           <li>une limitation douloureuse de l'ouverture buccale qui s’estompe en quelques jours</li>
@@ -92,7 +92,7 @@
                           <li>des médicaments contre la douleur (antalgiques)</li>
                           <li>la mise en place d’un guidage élastique entre les 2 mâchoires le lendemain de l’intervention (ne gêne pas pour parler,
                             retiré pour les repas et séances d’auto-rééducation)</li>
-                          <li>une vessie de glace (effets antalgique, anti-inflammatoire et anti-oedémateux)</li>
+                          <li>une vessie de glace (effets antalgique, anti-inflammatoire et anti-&oelig;démateux)</li>
                           <li>des antibiotiques</li>
                           <li>apprentissage de l’auto-rééducation de l’ouverture buccale</li>
                           <li>une alimentation molle pendant 1 mois</li>
@@ -102,7 +102,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>ostéotomie bimaxillaire</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -148,7 +148,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/osteotomie_bimaxillaire.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

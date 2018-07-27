@@ -39,7 +39,7 @@
                         L'os qui accueille l'<strong>implant dentaire</strong> doit avoir un volume suffisant pour assurer une bonne stabilité initiale et à long terme. Les
                         pertes dentaires s'accompagnent systématiquement d'une fonte osseuse. Dans certains cas, il faudra reconstituer ce volume
                         osseux avant d'envisager la pose correcte d'implant. Différentes techniques peuvent être utilisées en foncion du volume osseux
-                        perdu : regénération osseuse, greffe osseuse à partir d'os prélevé sur le patient ou de matériau de substitution.<br />
+                        perdu : régénération osseuse, greffe osseuse à partir d'os prélevé sur le patient ou de matériau de substitution.<br />
                         Vous trouverez ci-dessous des fiches plus complètes avec des schémas sur le sujet :
                         <ul class="basic-list">
                           <li><span class="implants" id="implants">l'implant dentaire</span></li>
@@ -62,7 +62,7 @@
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
                       <p>
                         La consultation permet de faire une évaluation de la possibilité de mise en place d'implants. Un cone beam vous sera demandé afin
-                        de déterminer si vous devez prélablement passer par une étape de chirurgie pré-implantaire.<br />
+                        de déterminer si vous devez préalablement passer par une étape de chirurgie pré-implantaire.<br />
                         Ce sera également l'occasion de détecter les contre-indications. Seuls le chirurgien et le praticien sont aptes à poser
                         l’indication ou non. Il y a 2 types de contre-indications :
                         <ul class="basic-list">
@@ -70,10 +70,10 @@
                             <ol class="level2_list">
                               <li>certains antécédents du patient : pathologies cardiaques (valvulaires, insuffisance cardiaque, infarctus myocardique
                                 récent...), SIDA déclaré, cancers évolutifs et maladies auto-immunes ou leurs traitements (radiothérapie,
-                                immmuno-supresseurs)</li>
+                                immmunosuppresseurs)</li>
                               <li>les traitements par biphosphonates pour des maladies malignes. En revanche, dans
-                                le traitement de l’ostéoporose, ce n’est pas considéré comme une contre-indication absolue devant des risques rares
-                                mais aux conséquences grandissimes dont le patient doit être clairement être informé en détail</li>
+                                le traitement de l’ostéoporose, les biphosphonates oraux ne sont pas considérés comme une contre-indication absolue devant des risques rares
+                                mais aux conséquences grandissimes dont le patient doit être clairement informé en détail</li>
                             </ol>
                           </li>
                           <li>les contre-indications relatives :
@@ -107,7 +107,7 @@
                         Les suites post-opératoires sont en général :
                         <ul class="basic-list">
                           <li>des douleurs légères calmées par la prise d’anti-douleur de palier 1 (type paracétamol)</li>
-                          <li>un léger œdème les premiers jours, surtout en cas de pose de plusieurs implants</li>
+                          <li>un léger &oelig;dème les premiers jours, surtout en cas de pose de plusieurs implants</li>
                           <li>un léger saignement est possible</li>
                         </ul>
                         Les consignes post-opératoires sont :
@@ -121,7 +121,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une pose d'<strong>implant dentaire</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -166,7 +166,7 @@
                       </p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/implant_dentaire.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

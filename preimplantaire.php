@@ -97,13 +97,13 @@
                           <li>une alimentation molle et froide ou tiède les premiers jours</li>
                           <li>l'interdiction de porter une prothèse amovible qui prendrait appui sur les fils de suture</li>
                           <li>la consommation tabagique est contre-indiquée car elle retarde la cicatrisation et augmente le risque d’infection</li>
-                          <li>maintenir une bonne hygiène buccodentaire avec des bains de bouche, un gel antiseptique et l'utilisation d’une brosse à
+                          <li>maintenir une bonne hygiène bucco-dentaire avec des bains de bouche, un gel antiseptique et l'utilisation d’une brosse à
                             dent post-chirurgicale</li>
                         </ul>
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une chirurgie pré-implantaire, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -128,7 +128,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/preimplantaire.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

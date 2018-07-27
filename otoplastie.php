@@ -63,7 +63,7 @@
                       <p>
                         Les suites opératoires sont les suivantes :
                         <ul class="basic-list">
-                          <li>un œdème (gonflement) et des petits hématomes (bleu) modérés sont normaux</li>
+                          <li>un &oelig;dème (gonflement) et des petits hématomes (bleus) modérés sont normaux</li>
                           <li>des antalgiques et des anti-inflammatoires sont prescrits pour la douleur</li>
                           <li>consultation à 48h pour retirer le pansement compressif. Il est remplacé par la prescription de port d'un bandeau
                             protecteur jour et nuit pendant 15 jours puis uniquement la nuit pendant 15 jours de plus pour éviter le retournement accidentel de l'oreille (risque de lâchage des sutures).
@@ -73,12 +73,12 @@
                           <li>l'exposition au grand froid est déconseillée pendant deux mois (risque de gelures du fait de la diminution transitoire de
                             la sensibilité des oreilles)</li>
                           <li>un délai de un à deux mois est nécessaire pour apprécier le résultat final. C'est le temps nécessaire pour que les tissus
-                            se soient assouplis et que la totalité de l'oedème se soit résorbé</li>
+                            se soient assouplis et que la totalité de l'&oelig;dème se soit résorbé</li>
                         </ul>
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>otoplastie</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -103,7 +103,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/otoplastie.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

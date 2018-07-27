@@ -80,11 +80,11 @@
                           <li>finitions orthodontiques</li>
                         </ul>
                         Le patient doit rester bagué lors de la <strong>chirurgie orthognatique</strong> pour la consolidation du traitement.<br />
-                        Les finitions permettent de corriger les dernières imperfections et obtenir ainsi un emboitement parfait.
+                        Les finitions permettent de corriger les dernières imperfections et obtenir ainsi un emboîtement parfait.
                       </p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/chirurgie_orthognatique.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

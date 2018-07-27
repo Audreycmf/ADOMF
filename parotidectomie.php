@@ -32,7 +32,7 @@
                         salivaire (<strong>parotidectomie</strong> pour la glande parotide, sous-maxillectomie pour la glande sous-maxillaire), ce qui n’a quasiment
                         aucune incidence sur la production de la salive.
                         <ul class="basic-list">
-                          <li><span class="parotidectomie" id="parotidectomie">la <strong>parotidectomie</strong></span></li>
+                          <li><span class="parotidectomie" id="parotidectomie">la &nbsp;<strong>parotidectomie</strong></span></li>
                           <li><a href="lithiase_salivaire_glande_sous_maxillaire.php">la sous-maxillectomie</a></li>
                         </ul>
                       </p>
@@ -91,7 +91,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser une <strong>parotidectomie</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -109,7 +109,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/parotidectomie.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

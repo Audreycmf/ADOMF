@@ -63,7 +63,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Suites opératoires</h2>
                       <p>
-                        L’intervention est peu douloureuse en général. Un œdème (gonflement), des ecchymoses (bleus) et des sensations de tension
+                        L’intervention est peu douloureuse en général. Un &oelig;dème (gonflement), des ecchymoses (bleus) et des sensations de tension
                         autour de la tête sont présents mais très variables d’un individu à l’autre dans leur durée. Le maquillage permet de masquer
                         les ecchymoses. Les fils sont retirés entre le 7ème et le 15ème jour. La reprise des activités professionnelles peut être envisagée après une
                         quinzaine de jours. Les activités sportives violentes sont contre-indiquées pendant 1 mois.<br />
@@ -74,7 +74,7 @@
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Complications</h2>
                       <p>
-                        Bien que tous les efforts soient mis en oeuvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
+                        Bien que tous les efforts soient mis en &oelig;uvre dans des conditions de compétence et de sécurité conformes aux données actuelles de la
                         science pour réaliser un <strong>lifting</strong>, le risque de complication n’est pas nul.<br />
                         En  choisissant un chirurgien qualifié, formé spécifiquement à ce type de techniques, vous limitez au maximum ces risques, sans toutefois
                         les supprimer complètement. Les complications significatives restent exceptionnelles. Il faut mettre en balance les risques encourus par
@@ -101,7 +101,7 @@
 											</p>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/lifting.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

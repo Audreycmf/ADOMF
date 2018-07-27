@@ -56,7 +56,7 @@
                         </ul>
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/maladie_de_basedow.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 

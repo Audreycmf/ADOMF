@@ -31,7 +31,7 @@
                         accru d’accidents de la circulation et de handicaps socioprofessionnels. Le SAOS est associé également à une surmortalité
                         cardio-vasculaire (hypertension artérielle, infarctus du myocarde, troubles du rythme cardiaque, accidents vasculaires
                         cérébraux). Un des premiers signes est souvent le ronflement. D'autres symptômes peuvent également être présents : les céphalées
-												matinales, la nycturie, la fatigue diurne et les sensations d'étouffement ou de suffoctaion pendant le sommeil.<br />
+												matinales, la nycturie, la fatigue diurne et les sensations d'étouffement ou de suffocation pendant le sommeil.<br />
                         L’application nocturne d’une pression positive continue nasale (PPC), l’orthèse d’avancée mandibulaire et la chirurgie sont les
                         trois seuls traitements efficaces, durables et remboursés par la sécurité sociale proposés à ces patients.
                       </p>
@@ -87,7 +87,7 @@
 
 											<div id="liens_telechargement">
 												<a href="javascript:window.print()" class="button-big">Imprimer</a>
-												<a href="pdf/dds.pdf" class="button-big" class="right">Télécharger</a>
+												<a href="pdf/apnee_du_sommeil.pdf" class="button-big" class="right">Télécharger</a>
 											</div>
 										</section>
 
