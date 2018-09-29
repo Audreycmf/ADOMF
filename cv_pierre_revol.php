@@ -304,6 +304,8 @@
                             <i>49ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Paris 2013</i></li>
                           <li>An ectopic maxillary intra-sinus third molar : Lefort I osteotomy approach<br />
                             <i>XXVIIth Congress of the European Association for Cranio-Maxillofacial Surgery. Prague 2014</i></li>
+													<li>Etude de la rétraction cutanée en chirurgie carcinologique cutanée<br />
+														<i>54ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Marseille 2018</i></li>
                         </ul>
                         <h4>Recherche</h4>
                         <p>

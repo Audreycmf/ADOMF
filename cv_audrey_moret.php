@@ -143,11 +143,11 @@
 													<!--<li>Linear hyperpigmentation of the right upper eyelid<br />
 													</li>-->
                         </ul>
-                        <!--<h4>Posters</h4>
+                        <h4>Posters</h4>
                         <ul class="basic-list">
-                          <li>Linear hyperpigmentation of the right upper eyelid<br />
+                          <li>Etude de la rétraction cutanée en chirurgie carcinologique cutanée<br />
 														<i>54ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-Faciale. Marseille 2018</i></li>
-                        </ul>-->
+                        </ul>
 										</section>
 										<section>
                       <h3>Internat</h3>

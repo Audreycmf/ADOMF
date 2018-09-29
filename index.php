@@ -66,11 +66,11 @@
 												Dès le départ, ces chirurgiens avaient compris qu'il était inconcevable de reconstruire un visage sans connaître parfaitement
 												les dents et les maxillaires, clés de voûte de l'architecture faciale, point de départ de toute reconstruction. Chirurgie <strong>maxillo-faciale</strong> et
 												stomatologie sont depuis indissociables. <br />
-												Aujourd'hui les chirurgiens maxillo-faciaux français sont issus d'une très longue formation : études de médecine, Internat,
-												formation en Chirurgie Générale, puis spécialisation en Chirurgie <strong>Maxillo-faciale</strong>, soit 13 ans d'études au minimum. <br />
+												Aujourd'hui les chirurgiens maxillo-faciaux français sont issus d'une très longue formation : études de médecine, internat,
+												formation en chirurgie générale, puis spécialisation en chirurgie <strong>maxillo-faciale</strong>, soit 13 ans d'études au minimum. <br />
 												Un chirurgien <strong>maxillo-facial</strong> est donc un spécialiste de la Chirurgie de la Face. Son diplôme, garant d'une compétence en chirurgie
-												plastique de la face, est reconnu au même titre que celui de Chirurgie Plastique Reconstructrice et Esthétique par la
-												Société Française de Chirurgie Plastique Reconstructrice et Esthétique et lui permet donc d'adhérer à cette Société.
+												plastique de la face, est reconnu au même titre que celui de chirurgie plastique reconstructrice et esthétique par la
+												société française de chirurgie plastique reconstructrice et esthétique et lui permet donc d'adhérer à cette Société.
 
 												<h2>Ses compétences officielles couvrent :</h2>
 													<ul class="check-list">
@@ -95,11 +95,11 @@
 													</ul>
 
 												Pourtant  cette  spécialité  est  peu  médiatisée  et  donc  peu  connue  car  les  spécialistes  sont  peu  nombreux.  Certains  praticiens
-												non diplômés en Chirurgie <strong>Maxillo-faciale</strong> profitent de l'ignorance du public pour réaliser des actes chirurgicaux pour lesquels ils n'ont
+												non diplômés en chirurgie <strong>maxillo-faciale</strong> profitent de l'ignorance du public pour réaliser des actes chirurgicaux pour lesquels ils n'ont
 												pas été correctement formés. </br>
-												Les  Chirurgiens  Maxillo-faciaux  ont  été  reçus  à  l'Internat  des  Spécialités  Chirurgicales.  Ils  ont  ensuite  reçu  une formation
-												de 2 années de Chirurgie Générale, puis 5 ans de Chirurgie <strong>Maxillo-faciale</strong> et de Stomatologie. Titulaires d'un "Diplôme
-												d'Etudes  Spécialisées  en  Chirurgie  <strong>Maxillo-faciale</strong>  et  Stomatologie",  ils  harmonisent  la  chirurgie  osseuse et  la chirurgie
+												Les chirurgiens maxillo-faciaux  ont  été  reçus  à  l'internat  des  spécialités  chirurgicales.  Ils  ont  ensuite  reçu  une formation
+												de 2 années de chirurgie générale, puis 5 ans de chirurgie <strong>maxillo-faciale</strong> et de stomatologie. Titulaires d'un "Diplôme
+												d'Etudes  Spécialisées  en  Chirurgie  <strong>maxillo-faciale</strong>  et  stomatologie",  ils  harmonisent  la  chirurgie  osseuse et  la chirurgie
 												plastique et esthétique du visage, afin de prendre en charge dans sa globalité les différentes pathologies de la face : les cancers des
 												muqueuses  aérodigestives  supérieures,  les  tumeurs  cutanées  de  la  face,  les  traumatismes  de  la  face,  les  pathologies  des
 												glandes salivaires, les malformations faciales de l'enfant et de l'adulte, l'équilibration de la fonction manducatrice (mastication,

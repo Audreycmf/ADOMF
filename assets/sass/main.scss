@@ -99,6 +99,7 @@
 
 	.maj {
 		font-weight: bold;
+		color:#ed391b;
 	}
 
 	#banner .row {
@@ -420,6 +421,21 @@
 				margin-bottom: 30px;
 				}
 			}
+	}
+
+	.alert-success {
+		color: #ed391b;
+		font-weight: bold;
+		font-size: 1.2em;
+	}
+
+	#envoyer {
+		font-size: 1.1em;
+	}
+
+	input, textarea {
+		margin-bottom: 20px;
+		width: 100%;
 	}
 
 /* Footer */

@@ -31,29 +31,29 @@ session_start();
                       </header>
 											<div>
 											  <?php if(array_key_exists('errors',$_SESSION)): ?>
-											  <div class="alert alert-danger">
+											  <div class="alert-danger">
 												  <?php implode('<br>', $_SESSION['errors']); ?>
 											  </div>
 											  <?php endif; ?>
 											  <?php if(array_key_exists('success',$_SESSION)): ?>
-											  <div class="alert alert-success">
+											  <div class="alert-success">
 												  Votre email a bien été transmis !
 											  </div>
 											  <?php endif; ?>
 	                      <form action="cible_formulaire.php" method="post">
 	                        <p>
 														<label for="inputname">Votre nom</label><br />
-														<input required type="text" name="name" class="form-control" id="inputname" value="<?php echo isset($_SESSION['inputs']['name'])? $_SESSION['inputs']['name'] : ''; ?>"><br / >
+														<input required type="text" name="name" class="form-control" id="inputname" value="<?php echo isset($_SESSION['inputs']['name'])? $_SESSION['inputs']['name'] : ''; ?>"><br />
 														<label for="inputsurname">Votre prénom</label><br />
-														<input required type="text" name="surname" class="form-control" id="inputname" value="<?php echo isset($_SESSION['inputs']['surname'])? $_SESSION['inputs']['surname'] : ''; ?>"><br />
+														<input required type="text" name="surname" class="form-control" id="inputsurname" value="<?php echo isset($_SESSION['inputs']['surname'])? $_SESSION['inputs']['surname'] : ''; ?>"><br />
 														<label for="inputemail">Votre adresse mail</label><br />
-	                          <input required type="email" name="email" class="form-control" id="inputemail" value="<?php echo isset($_SESSION['inputs']['email'])? $_SESSION['inputs']['email'] : ''; ?>"><br>
-														<textarea required name="message" class="form-control" id="inputmessage" rows="12" placeholder="Votre message"><?php echo isset($_SESSION['inputs']['message'])? $_SESSION['inputs']['message'] : ''; ?></textarea><br>
+	                          <input required type="email" name="email" class="form-control" id="inputemail" value="<?php echo isset($_SESSION['inputs']['email'])? $_SESSION['inputs']['email'] : ''; ?>"><br />
+														<textarea required name="message" class="form-control" id="inputmessage" rows="12" placeholder="Votre message"><?php echo isset($_SESSION['inputs']['message'])? $_SESSION['inputs']['message'] : ''; ?></textarea><br />
 														<label class="remarque">Remarque</label>
 													  <input class="remarque" name="remarque"
 													            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,3}$"
 													            placeholder="nom@domaine.com">
-	                          <input type="submit" name="envoyer" value="Envoyer">
+	                          <input type="submit" name="envoyer" id="envoyer" value="Envoyer">
 	                        </p>
 	                      </form>
 											</div>
