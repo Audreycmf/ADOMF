@@ -1345,11 +1345,16 @@
 		justify-content: center;
 	}
 
-	#content .titre_walid, #content .titre_brothier, #content .titre_gap, #content .titre_humanitaire, .intitule_liste_ortho, .implants, .ectropion, .intitule_liste_orbito, .dds, .intitule_liste_sto, .rides, .intitule_liste_esthetique, .parotidectomie {
+	#content .titre_walid, #content .titre_brothier, #content .titre_gap, #content .titre_humanitaire, .intitule_liste_ortho, .ectropion, .intitule_liste_orbito, .intitule_liste_sto, .rides, .intitule_liste_esthetique, .parotidectomie {
 		text-decoration: underline;
 		color:#ed391b;
 		display: flex;
 		align-items: center;
+	}
+
+	.implants, .dds {
+		text-decoration: underline;
+		color:#ed391b;
 	}
 
 	#content .titre_walid:hover, #content .titre_brothier:hover, #content .titre_gap:hover, #content .titre_humanitaire:hover, .intitule_liste_ortho:hover, .implants:hover, .ectropion:hover, .intitule_liste_orbito:hover, .dds:hover, .intitule_liste_sto:hover, .rides:hover, .intitule_liste_esthetique:hover, .parotidectomie:hover {
