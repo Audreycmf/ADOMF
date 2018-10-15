@@ -31,6 +31,28 @@
 			});
 
 //Pour page actualités
+var liste_congres_sfscmfco18=document.getElementsByClassName("titre_congres_sfscmfco18"),li=liste_congres_sfscmfco18.length,i;
+for(i=0;i<li;i++){
+  liste_congres_sfscmfco18[i].addEventListener('click', function() {
+	if (document.getElementById("congres_sfscmfco18").innerHTML === "") {
+		document.getElementById("congres_sfscmfco18").innerHTML = "\<img src=\"images/congres_sfscmfco18.png\" alt=\"\" width=100% \>";
+		if(window.matchMedia("(min-width: 737px)").matches) {
+			$("html, body").animate({
+						scrollTop : $(titre_congres_sfscmfco18).offset().top -180
+				}, "slow");
+		} else {
+			$("html, body").animate({
+						scrollTop : $(titre_congres_sfscmfco18).offset().top -55
+				}, "slow");
+		}
+		document.getElementById('fleche5').style.transform = "rotate(90deg)";
+	} else {
+		document.getElementById("congres_sfscmfco18").innerHTML = "";
+		document.getElementById('fleche5').style.transform = "rotate(0deg)";
+	}
+})
+};
+
 var liste_walid=document.getElementsByClassName("titre_walid"),li=liste_walid.length,i;
 for(i=0;i<li;i++){
   liste_walid[i].addEventListener('click', function() {
@@ -51,7 +73,7 @@ for(i=0;i<li;i++){
 		document.getElementById('fleche4').style.transform = "rotate(0deg)";
 	}
 })
-};1
+};
 
 var liste_brothier=document.getElementsByClassName("titre_brothier"),li=liste_brothier.length,i;
 for(i=0;i<li;i++){

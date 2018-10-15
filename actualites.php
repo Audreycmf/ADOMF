@@ -25,6 +25,15 @@
 											<header>
 												<h1>Les actualités et événements de l'A.D.O.M.F.</h1>
 											</header>
+											<h2 class="titre_congres_sfscmfco18" id="titre_congres_sfscmfco18">54e congrès de la société française de stomatologie, chirurgie
+												maxillo-faciale et chirurgie orale <img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche5"></h2>
+											<p>
+												L'équipe de l'ADOMF a participé au dernier congrès de la SFSCMFCO du 3 au 6 octobre 2018. Il s'agit du congrès national de la spécialité,
+												qui a eu lieu à Marseille cette année. Nous avons publié un poster sur les dernières <strong>actualités</strong> concernant la rétraction
+												cutanée en dermatologie cutanée. C'est l'occasion de rencontrer tous nos confrères de la spécialité, permettant d'échanger sur les
+												dernières nouveautés.
+											</p>
+											<div id="congres_sfscmfco18"></div>
                       <h2 class="titre_walid" id="titre_walid">Journée aixoise d'ortho-chirurgie<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche4"></h2>
 											<p>
 												Le 29 juin 2018, cette journée a été l'occasion d'échanger avec les orthodontistes, les anesthésistes et les chirurgiens maxillo-faciaux
@@ -57,7 +66,13 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
-                    <section>
+										<section>
+											<header>
+												<h2>54e congrès de la SFSCMFCO</h2>
+											</header>
+											<img src="images/congres_sfscmfco18.png" alt="logo du congrès" width=100% class="titre_congres_sfscmfco18" />
+										</section>
+										<section>
                       <header>
                         <h2>Journée aixoise d'ortho-chirurgie</h2>
                       </header>
