@@ -54,6 +54,12 @@
 											<header>
 												<h1>Le traitement orthodontico-chirurgical pour la chirurgie orthognatique</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         En cas de décalage ou d’anomalie importante des mâchoires, et quand la croissance est terminée, il est indispensable d’associer
                         une correction chirurgicale au traitement d’orthodontie.

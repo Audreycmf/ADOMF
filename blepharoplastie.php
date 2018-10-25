@@ -35,6 +35,12 @@
 											<header>
 												<h1>La blépharoplastie</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La <strong>blépharoplastie</strong> désigne l'intervention de chirurgie esthétique des paupières qui vise à corriger l’aspect "fatigué" du
                         regard pour une apparence plus reposée et détendue. Elle peut concerner uniquement les deux paupières supérieures ou

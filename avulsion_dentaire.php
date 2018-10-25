@@ -35,6 +35,12 @@
                       <header>
                         <h1>L'avulsion dentaire difficile</h1>
                       </header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
                       <p>
                         Le chirurgien maxillo-facial et/ou stomatologue ou chirurgien oral peut réaliser une <strong>avulsion dentaire</strong> difficile :
                         <ul class="basic-list">

@@ -51,6 +51,12 @@
 											<header>
 												<h1>L'ectropion et l'entropion</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         Les troubles de la statique palpébrale se traduisent par une malposition de la paupière, en particulier du bord libre qui
                         comporte les cils.<br />

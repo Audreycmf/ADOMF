@@ -35,6 +35,12 @@
 											<header>
 												<h1>Les injections de toxine botulique</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La <strong>toxine botulique</strong> a des propriétés de relaxation musculaire. Son emploi permet de réduire l’action des muscles et ainsi
                         d’atténuer les rides d’expression pour obtenir ainsi un effet de rajeunissement.<br />

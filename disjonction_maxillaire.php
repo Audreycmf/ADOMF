@@ -36,6 +36,12 @@
 											<header>
 												<h1>La disjonction maxillaire</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>La <strong>disjonction maxillaire</strong> ou intermaxillaire est un geste complémentaire de l’ostéotomie maxillaire de Le Fort. Elle permet de corriger
                         le manque de largeur de la mâchoire supérieure (maxillaire).<br />
                         L’intervention peut être associée à un autre type d’intervention de chirurgie orthognatique (Cf. fiches correspondantes).

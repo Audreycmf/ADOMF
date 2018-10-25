@@ -36,6 +36,12 @@
 											<header>
 												<h1>L'ostéotomie mandibulaire : ostéotomie sagittale de branche montante d'Obwegeser-Dalpont</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         L’<strong>ostéotomie mandibulaire</strong> d’Obwegeser-Dalpont permet de corriger les anomalies de position de la mâchoire inférieure (mandibule) et de
                         son arcade dentaire (souvent mâchoire inférieure en arrière). Ces anomalies se manifestent par une disgrâce et des troubles de l’occlusion dentaire.<br />

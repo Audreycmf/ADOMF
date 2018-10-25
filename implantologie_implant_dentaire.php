@@ -54,6 +54,12 @@
 											<header>
 												<h1>L'implant dentaire</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         Un <strong>implant dentaire</strong> est une "racine" artificielle permettant le remplacement d’une dent manquante. Il s’agit d’une
                         vis en titane qui est ancrée dans l’os (mâchoire supérieure ou inférieure) et qui permet de recevoir la prothèse (fausse

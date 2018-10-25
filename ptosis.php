@@ -35,6 +35,12 @@
 											<header>
 												<h1>Le ptosis</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         C’est une chute de la paupière supérieure (insuffisance du muscle releveur de la paupière) occasionnant une diminution de
                         l’ouverture de l’œil. Le but du traitement chirurgical est à la fois esthétique et fonctionnel (permettre une bonne vision) en

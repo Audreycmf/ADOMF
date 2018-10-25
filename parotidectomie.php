@@ -44,6 +44,12 @@
 											<header>
 												<h1>La parotidectomie</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La <strong>parotidectomie</strong> est l'ablation partielle ou totale de la glande parotide. La glande parotide est une des glandes salivaires
                         principales. Nous en avons deux, une à droite et une à gauche en avant de chaque oreille (ce sont elles qui gonflent et

@@ -41,6 +41,12 @@
 											<header>
 												<h1>L'avulsion de dent de sagesse</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         Les 4 dents de sagesse (ou troisième molaire) sortent normalement à la fin de l’adolescence. Parfois leur nombre est inférieur. Lorsqu'une
                         <strong>dent de sagesse</strong> n'est pas sortie correctement sur l’arcade, elle est dite enclavée (à moitié sortie) ou incluse (bloquée

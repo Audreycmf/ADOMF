@@ -35,6 +35,12 @@
 											<header>
 												<h1>Les injections d'acide hyaluronique</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         L’<strong>acide hyaluronique</strong>, constituant naturel du derme, est un produit de comblement résorbable (il existe des produits non
                         résorbables pourvoyeur de complications plus fréquemment). Il se présente sous forme d’un gel fluide.<br />

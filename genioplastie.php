@@ -37,6 +37,12 @@
 											<header>
 												<h1>La génioplastie ou chirurgie du menton</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La <strong>génioplastie</strong> ou mentoplastie (chirurgie du menton) est une intervention qui a pour but la modification de la forme du menton et éventuellement
                         une  amélioration fonctionnelle (respiration, sangle labiale).<br />

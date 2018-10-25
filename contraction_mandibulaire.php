@@ -36,6 +36,12 @@
 											<header>
 												<h1>La contraction mandibulaire</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La <strong>contraction mandibulaire</strong> est un geste complémentaire de l’ostéotomie mandibulaire d’Obwegeser-Dalpont. Elle permet
                         de corriger l’excès de largeur de la mâchoire inférieure (mandibule). Elle peut également être associée à une disjonction maxillaire

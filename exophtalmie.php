@@ -35,6 +35,12 @@
 											<header>
 												<h1>Le traitement chirurgical d'une exophtalmie par décompression orbitaire</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La décompression orbitaire est une chirurgie qui consiste à faire "de la place" dans l’orbite en enlevant de l’os,
                         plus ou moins de la graisse, afin de réduire l’<strong>exophtalmie</strong> et de faire rentrer les yeux dans les orbites. C’est le premier

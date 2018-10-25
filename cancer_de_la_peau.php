@@ -41,6 +41,12 @@
 											<header>
 												<h1>La chirurgie du cancer de la peau</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Techniques</h2>
 											<p>
                         Pour commencer il faut savoir que toute intervention chirurgicale traverse la peau. Quelle que soit la technique utilisée pour

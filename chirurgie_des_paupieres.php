@@ -35,6 +35,12 @@
 											<header>
 												<h1>La chirurgie des paupières : l'allongement palpébral</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         L’exophtalmie basedowienne peut s’accompagner d’une rétraction palpébrale supérieure en lien avec la fibrose musculaire. Cette
                         anomalie est corrigée en dernier dans le schéma opératoire de la maladie de Basedow, à 6 mois de la dernière intervention.

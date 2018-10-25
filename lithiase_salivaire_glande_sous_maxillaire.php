@@ -34,6 +34,12 @@
 											<header>
 												<h1>La sous-maxillectomie</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La sous-maxillectomie est l'ablation de la glande sous-maxillaire. La glande sous-maxillaire est une des glandes salivaires
                         principales. Nous en avons deux, une à droite et une à gauche sous le bord de la mâchoire.

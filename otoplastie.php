@@ -34,6 +34,12 @@
 											<header>
 												<h1>L'otoplastie</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         L’intervention chirurgicale destinée à corriger les oreilles décollées est appelée <strong>otoplastie</strong>. Elle vise à remodeler le
                         cartilage de façon à obtenir des oreilles "recollées", symétriques, de taille et d'aspect naturels, permettant ainsi de mettre

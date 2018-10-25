@@ -43,6 +43,12 @@
 										<header>
 											<h1>Le traitement du syndrome d'apnée du sommeil</h1>
 										</header>
+
+										<div id="liens_haut_telechargement">
+											<a href="javascript:window.print()" class="button-big">Imprimer</a>
+											<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+										</div>
+
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="" class="coche_rouge">La pression positive continue nasale</h2>
 											<p>
                         Il s’agit d’une petite machine à turbine qui propulse sous pression l’air ambiant dans les voies respiratoires de façon continue

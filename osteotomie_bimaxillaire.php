@@ -36,6 +36,12 @@
 											<header>
 												<h1>L'ostéotomie bimaxillaire</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         L’<strong>ostéotomie bimaxillaire</strong> est l’association de l’ostéotomie maxillaire de Le Fort et de l’ostéotomie mandibulaire d’Obwegeser-Dalpont. Elle
                         permet de corriger les anomalies de position de la mâchoire supérieure (maxillaire) et de la mâchoire inférieure (mandibule) et de

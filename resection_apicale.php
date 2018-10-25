@@ -34,6 +34,12 @@
                       <header>
                         <h1>La résection apicale (kyste dentaire)</h1>
                       </header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
                       <p>
                         Les kystes dentaires se développent à la pointe de la racine des dents mortifiées. Il s’agit d’une lésion infectieuse chronique
                         évoluant lentement et à bas bruit.

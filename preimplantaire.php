@@ -35,6 +35,12 @@
 											<header>
 												<h1>La chirurgie pré-implantaire</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La pose d'implant dentaire est parfois limitée par la présence d'obstacles anatomiques (le
                         sinus maxillaire pour les dents du haut, le nerf alvéolaire inférieur pour les dents du bas). La présence de ces obstacles

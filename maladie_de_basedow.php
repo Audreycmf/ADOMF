@@ -35,6 +35,12 @@
 											<header>
 												<h1>La maladie de Basedow</h1>
 											</header>
+
+											<div id="liens_haut_telechargement">
+												<a href="javascript:window.print()" class="button-big">Imprimer</a>
+												<a href="pdf/acide_hyaluronique.pdf" class="button-big" class="right">Télécharger</a>
+											</div>
+
 											<p>
                         La <strong>maladie de Basedow</strong> est une hyperthyroïdie auto-immune provoquée par des anticorps circulants stimulant la thyroïde dénommés
                         anticorps anti-récepteurs à la TSH (TRAK). La maladie touche principalement la femme jeune dans la seconde ou la troisième
