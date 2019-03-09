@@ -140,6 +140,8 @@
                             <i>The Journal of Craniofacial Surgery, 2015;26(7):2059-61</i></li>
                           <li>Le recours à la chirurgie orthognatique pré-prothétique<br />
                             <i>Dentoscope, 2017;176:36-40</i></li>
+													<li>Etude de la rétraction cutanée en chirurgie carcinologique cutanée. Etude clinique de 79 cas<br />
+														<i>Annales de chirurgie plastique et esthétique, 2018</i></li>
 													<!--<li>Linear hyperpigmentation of the right upper eyelid<br />
 													</li>-->
                         </ul>

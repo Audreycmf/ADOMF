@@ -289,6 +289,8 @@
                             <i>Médecine Buccale Chirurgie Buccale 2015</i></li>
 													<li>Le recours à la chirurgie orthognatique pré-prothétique<br />
 														<i>Dentoscope, 2017;176:36-40</i></li>
+													<li>Etude de la rétraction cutanée en chirurgie carcinologique cutanée. Etude clinique de 79 cas<br />
+														<i>Annales de chirurgie plastique et esthétique, 2018</i></li>
                         </ul>
                         <h4>Posters</h4>
                         <ul class="basic-list">

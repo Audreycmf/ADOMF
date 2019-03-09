@@ -31,6 +31,28 @@
 			});
 
 //Pour page actualités
+var liste_chir_ambu=document.getElementsByClassName("titre_chir_ambu"),li=liste_chir_ambu.length,i;
+for(i=0;i<li;i++){
+  liste_chir_ambu[i].addEventListener('click', function() {
+	if (document.getElementById("chir_ambu").innerHTML === "") {
+		document.getElementById("chir_ambu").innerHTML = "\<img src=\"images/flyer_chir_ambu1.png\" alt=\"\" width=100% \>\<img src=\"images/flyer_chir_ambu2.png\" alt=\"\" width=100% \>";
+		if(window.matchMedia("(min-width: 737px)").matches) {
+			$("html, body").animate({
+						scrollTop : $(titre_chir_ambu).offset().top -180
+				}, "slow");
+		} else {
+			$("html, body").animate({
+						scrollTop : $(titre_chir_ambu).offset().top -55
+				}, "slow");
+		}
+		document.getElementById('fleche6').style.transform = "rotate(90deg)";
+	} else {
+		document.getElementById("chir_ambu").innerHTML = "";
+		document.getElementById('fleche6').style.transform = "rotate(0deg)";
+	}
+})
+};
+
 var liste_congres_sfscmfco18=document.getElementsByClassName("titre_congres_sfscmfco18"),li=liste_congres_sfscmfco18.length,i;
 for(i=0;i<li;i++){
   liste_congres_sfscmfco18[i].addEventListener('click', function() {

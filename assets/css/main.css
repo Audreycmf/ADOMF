@@ -1355,7 +1355,7 @@
 		justify-content: center;
 	}
 
-	#content .titre_walid, #content .titre_brothier, #content .titre_gap, #content .titre_humanitaire, #content .titre_congres_sfscmfco18, .intitule_liste_ortho, .ectropion, .intitule_liste_orbito, .intitule_liste_sto, .rides, .intitule_liste_esthetique, .parotidectomie {
+	#content .titre_walid, #content .titre_brothier, #content .titre_gap, #content .titre_humanitaire, #content .titre_congres_sfscmfco18, #content .titre_chir_ambu, .intitule_liste_ortho, .ectropion, .intitule_liste_orbito, .intitule_liste_sto, .rides, .intitule_liste_esthetique, .parotidectomie {
 		text-decoration: underline;
 		color:#ed391b;
 		display: flex;
@@ -1367,7 +1367,7 @@
 		color:#ed391b;
 	}
 
-	#content .titre_walid:hover, #content .titre_brothier:hover, #content .titre_gap:hover, #content .titre_humanitaire:hover, #content .titre_congres_sfscmfco18:hover, .intitule_liste_ortho:hover, .implants:hover, .ectropion:hover, .intitule_liste_orbito:hover, .dds:hover, .intitule_liste_sto:hover, .rides:hover, .intitule_liste_esthetique:hover, .parotidectomie:hover {
+	#content .titre_walid:hover, #content .titre_brothier:hover, #content .titre_gap:hover, #content .titre_humanitaire:hover, #content .titre_congres_sfscmfco18:hover, #content .titre_chir_ambu:hover, .intitule_liste_ortho:hover, .implants:hover, .ectropion:hover, .intitule_liste_orbito:hover, .dds:hover, .intitule_liste_sto:hover, .rides:hover, .intitule_liste_esthetique:hover, .parotidectomie:hover {
 		text-decoration: none;
 		cursor: pointer;
 	}

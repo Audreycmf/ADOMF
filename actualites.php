@@ -25,6 +25,16 @@
 											<header>
 												<h1>Les actualités et événements de l'A.D.O.M.F.</h1>
 											</header>
+											<h2 class="titre_chir_ambu" id="titre_chir_ambu">1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis
+												<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche6"></h2>
+											<p>
+												L'équipe de l'ADOMF va participer à la 1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis le
+												30 mars 2019. Cette journée sera consacrée à la chirurgie ambulatoire, son articulation entre l'hôpital et la ville. Le Dr Garçonnet fera,
+												à cette occasion, une communication sur les interventions de chirurgie maxillo-faciale pouvant être réalisées en chirurgie
+												<strong>ambulatoire</strong> (hospitalisation d'une journée). On évoquera également les actions mises en place afin de permettre une
+												Récupération Améliorée Après Chirurgie (RAAC).
+											</p>
+											<div id="chir_ambu"></div>
 											<h2 class="titre_congres_sfscmfco18" id="titre_congres_sfscmfco18">54e congrès de la société française de stomatologie, chirurgie
 												maxillo-faciale et chirurgie orale <img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche5"></h2>
 											<p>
@@ -66,6 +76,13 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
+										<section>
+											<header>
+												<h2>1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis</h2>
+											</header>
+											<img src="images/flyer_chir_ambu1.png" alt="flyer du congrès" width=100% class="titre_chir_ambu" />
+											<img src="images/flyer_chir_ambu2.png" alt="flyer du congrès" width=100% class="titre_chir_ambu" />
+										</section>
 										<section>
 											<header>
 												<h2>54e congrès de la SFSCMFCO</h2>
