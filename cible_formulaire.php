@@ -1,6 +1,7 @@
 <?php
 
 session_start();//on démarre la session
+
 // $errors = [];
   $errors = array(); // on crée une vérif de champs
 if(!array_key_exists('name', $_POST) || $_POST['name'] == '') {// on verifie l'existence du champ et d'un contenu
@@ -18,6 +19,27 @@ if(!array_key_exists('message', $_POST) || $_POST['message'] == '') {
 if ($_POST['remarque'] != "") { // on place un petit filet anti robots spammers
   die();
   }
+  
+//CAPTCHA
+    if(isset($_POST['g-recaptcha-response'])){
+      $captcha=$_POST['g-recaptcha-response'];
+    }
+    else
+      $captcha = false;
+
+    if(!$captcha){
+      //Do something with error
+    }
+    else{
+      $secret = '6LeMiJYUAAAAACyAUI8c3Zqolu3Oad8r-JotwT-N';
+      $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=
+          .$secret.&response=".$captcha."&remoteip=".$_SERVER['REMOTE_ADDR']);
+      if($response.success==false)
+      {
+          //Do something with error
+      }
+    }
+
 //On checke les infos transmises lors de la validation
   if(!empty($errors)){ // si erreur on renvoie vers la page précédente
   $_SESSION['errors'] = $errors;//on stocke les erreurs

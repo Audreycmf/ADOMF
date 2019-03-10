@@ -53,6 +53,8 @@ session_start();
 													  <input class="remarque" name="remarque"
 													            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,3}$"
 													            placeholder="nom@domaine.com">
+                            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+                            <input type="hidden" name="action" value="validate_captcha">
 	                          <input type="submit" name="envoyer" id="envoyer" value="Envoyer">
 	                        </p>
 	                      </form>
