@@ -31,6 +31,50 @@
 			});
 
 //Pour page actualités
+var liste_spos19=document.getElementsByClassName("titre_spos19"),li=liste_spos19.length,i;
+for(i=0;i<li;i++){
+  liste_spos19[i].addEventListener('click', function() {
+	if (document.getElementById("spos19").innerHTML === "") {
+		document.getElementById("spos19").innerHTML = "\<img src=\"images/ppt_spos19.png\" alt=\"\" width=100% \>";
+		if(window.matchMedia("(min-width: 737px)").matches) {
+			$("html, body").animate({
+						scrollTop : $(titre_spos19).offset().top -180
+				}, "slow");
+		} else {
+			$("html, body").animate({
+						scrollTop : $(titre_spos19).offset().top -55
+				}, "slow");
+		}
+		document.getElementById('fleche8').style.transform = "rotate(90deg)";
+	} else {
+		document.getElementById("spos19").innerHTML = "";
+		document.getElementById('fleche8').style.transform = "rotate(0deg)";
+	}
+})
+};
+
+var liste_congres_sfco19=document.getElementsByClassName("titre_congres_sfco19"),li=liste_congres_sfco19.length,i;
+for(i=0;i<li;i++){
+  liste_congres_sfco19[i].addEventListener('click', function() {
+	if (document.getElementById("congres_sfco19").innerHTML === "") {
+		document.getElementById("congres_sfco19").innerHTML = "\<img src=\"images/flyer_congres_sfco19.jpg\" alt=\"\" width=100% \>";
+		if(window.matchMedia("(min-width: 737px)").matches) {
+			$("html, body").animate({
+						scrollTop : $(titre_congres_sfco19).offset().top -180
+				}, "slow");
+		} else {
+			$("html, body").animate({
+						scrollTop : $(titre_congres_sfco19).offset().top -55
+				}, "slow");
+		}
+		document.getElementById('fleche7').style.transform = "rotate(90deg)";
+	} else {
+		document.getElementById("congres_sfco19").innerHTML = "";
+		document.getElementById('fleche7').style.transform = "rotate(0deg)";
+	}
+})
+};
+
 var liste_chir_ambu=document.getElementsByClassName("titre_chir_ambu"),li=liste_chir_ambu.length,i;
 for(i=0;i<li;i++){
   liste_chir_ambu[i].addEventListener('click', function() {

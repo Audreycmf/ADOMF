@@ -29,9 +29,9 @@
                         kystes épidermiques, lipomes, etc…) et des cancers de la peau (lésions malignes : carcinome basocellulaire, carcinome épidermoïde, mélanome…).<br />
                         Les lésions cancéreuses siègent fréquemment sur le visage car elles sont souvent liées à l’exposition solaire. Cette chirurgie
                         peut s’effectuer sous courte anesthésie locale la plupart du temps.<br />
-                        Les moyens de réparation d’une lésion cutanée cancéreuse sont la suture directe (lorsque la lésion est petite), la greffe de
-                        peau (prélèvement de peau sur une autre zone discrète du corps), ou un lambeau (mobilisation de la peau adjacente à la lésion
-                        pour fermer la perte de substance tissulaire).
+                        Les moyens de réparation d’une lésion cutanée cancéreuse sont la suture directe (lorsque la lésion est petite), la cicatrisation dirigée
+												(cicatrisation par des pansements), la greffe de peau (prélèvement de peau sur une autre zone discrète du corps), ou un lambeau (mobilisation
+												de la peau adjacente à la lésion pour fermer la perte de substance tissulaire).
                       </p>
                     </section>
 									</div>
@@ -60,9 +60,12 @@
                         (cf. schéma) et par une technique de suture irréprochable.<br />
                         Dans certains  cas, la fermeture par suture directe est irréalisable à cause de la taille ou de l’endroit de la lésion. La
                         couverture de la zone est assurée alors soit par une greffe de peau prélevée sur une autre région discrète, soit par un lambeau
-                        (déplacement de peau avoisinante pour recouvrir la perte de substance cutanée : cf. schéma). Enfin, dans de très rares cas, nous
-                        utilisons l’expansion cutanée réalisée grâce à des ballonnets gonflables placés sous la peau saine avoisinante (le gonflage
-                        progressif entraîne un développement cutané sur plusieurs semaines comme lors de la grossesse).<br />
+                        (déplacement de peau avoisinante pour recouvrir la perte de substance cutanée : cf. schéma). Il existe un certain nombre de cas
+												pour lesquels le meilleur résultat esthétique sera donné par la mise en route d’une cicatrisation dirigée. Il s’agit de réaliser
+												quotidiennement un protocole de pansements spécialisés permettant la cicatrisation spontanée de la zone opérée. La cicatrisation
+												dirigée peut également être employée temporairement en attendant les résultats de l’analyse de la pièce opératoire.
+												Enfin, dans de très rares cas, nous utilisons l’expansion cutanée réalisée grâce à des ballonnets gonflables placés sous la peau
+												saine avoisinante (le gonflage progressif entraîne un développement cutané sur plusieurs semaines comme lors de la grossesse).<br />
                         Dans tous les cas, votre chirurgien vous expliquera la solution adaptée à votre cas personnel.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">Consultation</h2>
@@ -70,7 +73,10 @@
                         Le chirurgien mènera un interrogatoire, suivi d'un examen de la lésion cutanée afin de vous expliquer la ou les possibilité(s)
                         chirurgicale(s) et le type d’anesthésie retenu.<br />
                         L’arrêt du tabac est recommandé un mois avant et un mois après l’intervention (risque d’un retard de cicatrisation).<br />
-                        Aucun médicament contenant de l'Aspirine ne devra être pris dans les 10 jours précédant l'intervention.<br />
+                        Pour les traitements anticoagulants par anti vitamines K (Préviscan®, Sintrom®,…), un contrôle de l’INR est pratiqué un à trois
+												jours avant l’intervention et doit être inférieur à 3. Les anticoagulants oraux (Xarelto®, Eliquis®, Pradaxa®, …) ne doivent pas
+												être arrêtés. Les patients sous traitement antiagrégants plaquettaires (Aspégic®, Plavix®, Efient®,…) doivent poursuibre leur
+												traitement à l’identique.<br />
                         Aucun maquillage ni aucun bijou ou piercing ne devra être porté durant l'opération.
                       </p>
                       <h2><img src="assets/css/images/icon-checkmark.png" alt="checkmark rouge" class="coche_rouge">L’intervention</h2>
@@ -99,6 +105,10 @@
                         Suivant la zone opérée (épaule, dos..), il faut éviter les mouvements qui "tirent" sur la cicatrice.<br />
                         Les fils ne sont pas résorbables et seront  retirés entre le 7ème et le 15ème jour suivant la zone opérée. Le chirurgien vous
                         expliquera les modalités des soins à apporter à votre cicatrice pour les semaines suivantes (massages, protection solaire…).<br />
+												Dans le cas d’une cicatrisation dirigée, des soins locaux seront réalisés par une infirmière à domicile de manière quotidienne
+												jusqu’à cicatrisation complète qui surviendra après deux à trois mois selon la localisation. Vous serez suivi toutes les semaines
+												par votre chirurgien afin de pouvoir adapter le protocole de soins si nécessaire. Les soins peuvent occasionner quelques douleurs
+												pendant la phase initiale de cicatrisation.<br />
                         Concernant l'évolution cicatricielle habituelle, il faut noter qu'initialement la cicatrice est souvent rouge ou rosée, puis
                         vire au brun et devient fibreuse, indurée, avant de s'éclaircir et de s'assouplir (après le troisième mois).<br />
                         Pendant 6 à 12mois, il faut limiter l’exposition solaire et d'utiliser une protection type "écran total".<br />
@@ -132,6 +142,10 @@
                             se rencontre que dans les cas de tension extrême sur les berges de la cicatrice ou lors de la réalisation d'un lambeau à
                             la vascularisation précaire. Elle peut parfois venir compliquer un hématome ou une infection. Elle est nettement favorisée
                             par le tabagisme</li>
+													<li>lâchage de suture et/ou retard de cicatrisation : il peut résulter d’un hématome ou d’une infection ou être la conséquence
+														d’une intolérance aux fils. Il est plus fréquent chez les fumeurs. Il se traite avec la mise en route d’une cicatrisation dirigée
+														(voir plus haut). Il peut engendrer un certain élargissement de la cicatrice, souvent moins important à terme que ce qui était
+														imaginé au départ.</li>
                           <li>défaut de prise de greffe : la réussite d'une greffe n'est jamais certaine à 100%</li>
                           <li>anomalies de cicatrisation : au-delà des cicatrices inesthétiques déjà évoquées, on pense surtout aux redoutables mais
                             rarissimes cicatrices "chéloïdes" vraies, dont le traitement est très délicat et souvent décevant</li>

@@ -94,6 +94,8 @@
 													<i>Cours aux écuries à la préparation de l'internat dentaire. Marseille 2017</i></li>
                         <li>Les urgences en chirurgie maxillo-faciale<br />
 													<i>Cours aux internes des urgences et de chirurgie de l'Hôpital. Aix-en-Provence 2018</i></li>
+												<li>Modératrice au 67ème congrès de la Société Française de Chirurgie Orale (SFCO)<br />
+													<i>Le sinus maxillaire en médecine orale, chirurgie orale et implantologie. Aix-en-Provence 2019</i></li>
 											</ul>
 										</section>
 										<section>

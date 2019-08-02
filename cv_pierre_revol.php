@@ -165,13 +165,13 @@
                         <li>Cours de chirurgie maxillo-faciale et stomatologie<br />
 													<i>IFSI du pays d’Aix. Aix-en-Provence 2007</i></li>
                         <li>Modérateur de la journée scientifique de la Société de Stomatologie et Chirurgie Maxillo-Faciale du Sud-Est (SSCMFSE)
-													<i>journée scientifique de la Société de Stomatologie et Chirurgie Maxillo-Faciale du Sud-Est (SSCMFSE). 2007</i></li>
+													<i>Journée scientifique de la Société de Stomatologie et Chirurgie Maxillo-Faciale du Sud-Est (SSCMFSE). 2007</i></li>
                         <li>Cours de chirurgie maxillo-faciale et stomatologie<br />
 													<i>IFSI du pays d’Aix. Aix-en-Provence 2008</i></li>
                         <li>Cours de chirurgie maxillo-faciale et stomatologie<br />
 													<i>IFSI du pays d’Aix. Aix-en-Provence 2009</i></li>
                         <li>Prise en charge pluridisciplinaire en implantologie (avec Dr Plan)<br />
-													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2010</i></li>
+													<i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2010</i></li>
                         <li>Cours de chirurgie maxillo-faciale et stomatologie<br />
 													<i>Service des urgences de l'hôpital de Mayotte. Mayotte 2010</i></li>
 												<li>Ostéotomie de Lefort mécanique versus ultrasonique<br />
@@ -181,17 +181,19 @@
                         <li>Communications bucco-sinusiennes<br />
 													<i>Société de Stomatologie et Chirurgie Maxillo-Faciale du Sud-Est. 2011</i></li>
                         <li>Fentes platines<br />
-													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2011</i></li>
+													<i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2011</i></li>
                         <li>Communications bucco-sinusiennes<br />
-													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2012</i></li>
+													<i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2012</i></li>
                         <li>Histoire d’une mâchoire (avec Dr Plan)<br />
-													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2014</i></li>
+													<i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2014</i></li>
                         <li>Urgences médicales en cabinet dentaire<br />
 													<i>Académie du sourire. Aix-en-Provence 2014</i></li>
 												<li>Anatomie-Physiologie-Chirurgie orthognathique<br />
                           <i>Académie du sourire. Aix-en-Provence 2014</i></li>
                         <li>Les N.A.C.O., adaptations thérapeutiques en CMF & Stomatologie<br />
-													<i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2015</i></li>
+													<i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2015</i></li>
+												<li>Dysmorphose faciale et réhabilitation implantaire<br />
+													<i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2019</i></li>
 											</ul>
 										</section>
 										<section>
@@ -255,7 +257,7 @@
                           <li>Communications bucco-sinusiennes<br />
                             <i>Congrès de chirurgie buccale et de médecine buccale. Société de Stomatologie et Chirurgie Maxillo-Faciale du Sud-Est. Marseille 2011</i></li>
                           <li>Communications bucco-sinusiennes<br />
-                            <i>Congrès de la Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2012</i></li>
+                            <i>Congrès de la Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2012</i></li>
                           <li>Urgences et SMUR<br />
                             <i>Bataillon des Marins-Pompiers de Marseille. Marseille 2012</i></li>
                           <li>Dent de sagesse ectopique intra-sinusienne; voie d'abord atypique par ostéotomie de Lefort<br />
@@ -264,7 +266,7 @@
                             <i>50ème Congrès de la Société Française de Stomatologie et de Chirurgie Maxillo-faciale. Lyon 2014</i></li>
                           <li>Histoire d'une mâchoire : reconstruction mandibulaire par lambeau microchirurgical de Péroné associé à une réhabilitation
                             implanto-portée<br />
-                            <i>Société Provençale d'Odonto-Stomatologie. Aix-en-Provence 2014</i></li>
+                            <i>Société Provençale d'Odonto-Stomatologie (SPOS). Aix-en-Provence 2014</i></li>
                           <li>Urgences médicales en cabinet dentaire<br />
                             <i>Académie du sourire. Aix-en-Provence 2014</i></li>
                           <li>Chirurgie des faces longues; revue de la littérature et propositions thérapeutiques<br />
@@ -290,7 +292,7 @@
 													<li>Le recours à la chirurgie orthognatique pré-prothétique<br />
 														<i>Dentoscope, 2017;176:36-40</i></li>
 													<li>Etude de la rétraction cutanée en chirurgie carcinologique cutanée. Etude clinique de 79 cas<br />
-														<i>Annales de chirurgie plastique et esthétique, 2018</i></li>
+														<i>Annales de chirurgie plastique et esthétique, 2019;64(2):157-164</i></li>
                         </ul>
                         <h4>Posters</h4>
                         <ul class="basic-list">

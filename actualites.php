@@ -25,16 +25,38 @@
 											<header>
 												<h1>Les actualités et événements de l'A.D.O.M.F.</h1>
 											</header>
+											<h2 class="titre_spos19" id="titre_spos19">Conférence à la Société Provençale d'Odonto-Stomatologie
+												<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche8"></h2>
+											<p>
+												Le 5 juin 2019, les docteurs Pierre Revol et Audrey Moret, en collaboration avec le docteur Stéphane Plan, chirurgien-dentiste
+												spécialisé en implantologie, ont exposé, au travers d'un cas complexe de patient édenté et présentant une dysmorphose faciale, le
+												champ des possibilités de réhabilitation implantaire lorsque les bases osseuses empêchent la position simple d'implants dentaires.
+												Cela permet aux praticiens de pouvoir dire à leurs patients que des solutions existent et de pouvoir aider ces derniers au mieux.
+											</p>
+											<div id="spos19"></div>
+
+											<h2 class="titre_congres_sfco19" id="titre_congres_sfco19">67ème congrès de la Société Française de Chirurgie Orale
+												<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche7"></h2>
+											<p>
+												Cette année, nous avons eu la chance d'accueillir le 67ème congrès de la société française de chirurgie orale à Aix-en-Provence,
+												du 16 au 18 mai 2019. Celui-ci portait sur le sinus maxillaire en médecine orale, chirurgie orale et <strong>implantologie</strong>. C'est donc
+												tout naturellement que le docteur Julie Garçonnet, en tant que spécialiste dans ce domaine, a été invitée à être modératrice
+												d'une session concernant les réhabilitations des pertes de substances maxillaires. &Ccedil;a a été une nouvelle occasion d'échanger
+												avec des praticiens de grande qualité spécialisé dans le domaine de l'implantologie complexe.
+											</p>
+											<div id="congres_sfco19"></div>
+
 											<h2 class="titre_chir_ambu" id="titre_chir_ambu">1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis
 												<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche6"></h2>
 											<p>
-												L'équipe de l'ADOMF va participer à la 1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis le
-												30 mars 2019. Cette journée sera consacrée à la chirurgie ambulatoire, son articulation entre l'hôpital et la ville. Le Dr Garçonnet fera,
+												L'équipe de l'ADOMF a participé à la 1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis le
+												30 mars 2019. Cette journée était consacrée à la chirurgie ambulatoire, son articulation entre l'hôpital et la ville. Le Dr Garçonnet a réalisé,
 												à cette occasion, une communication sur les interventions de chirurgie maxillo-faciale pouvant être réalisées en chirurgie
-												<strong>ambulatoire</strong> (hospitalisation d'une journée). On évoquera également les actions mises en place afin de permettre une
+												<strong>ambulatoire</strong> (hospitalisation d'une journée). On a évoqué également les actions mises en place afin de permettre une
 												Récupération Améliorée Après Chirurgie (RAAC).
 											</p>
 											<div id="chir_ambu"></div>
+
 											<h2 class="titre_congres_sfscmfco18" id="titre_congres_sfscmfco18">54e congrès de la société française de stomatologie, chirurgie
 												maxillo-faciale et chirurgie orale <img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche5"></h2>
 											<p>
@@ -44,6 +66,7 @@
 												dernières nouveautés.
 											</p>
 											<div id="congres_sfscmfco18"></div>
+
                       <h2 class="titre_walid" id="titre_walid">Journée aixoise d'ortho-chirurgie<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche4"></h2>
 											<p>
 												Le 29 juin 2018, cette journée a été l'occasion d'échanger avec les orthodontistes, les anesthésistes et les chirurgiens maxillo-faciaux
@@ -52,18 +75,21 @@
                         patients.
 											</p>
 											<div id="walid"></div>
+
                       <h2 class="titre_brothier" id="titre_brothier">4ème réunion d'échanges sur la prise en charge des plaies<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche3"></h2>
 											<p>
 												Cet événement a lieu une fois par an à l'hôpital d'Aix-en-Provence et permet d'aborder la prise en charge des plaies et la cicatrisation.
                         Elle est fréquentée par de nombreuses infirmières libérales et hospitalières, permettant l'amélioration au quotidien du réseau ville-hôpital.
 											</p>
 											<div id="brothier"></div>
+
                       <h2 class="titre_gap" id="titre_gap">Les soirées des urgences Haut-Alpines<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche2"></h2>
 											<p>
 												Cette soirée a eu lieu à l'hôpital de Gap le 19 janvier 2017. Elle abordait les dernières <strong>actualités</strong> en matière de pathologies traumatiques ORL et de chirurgie
                         maxillo-faciale. De nombreux médecins et infirmières du département des Hautes-Alpes étaient présents.
 											</p>
 											<div id="gap"></div>
+
 											<h2 class="titre_humanitaire" id="titre_humanitaire">Les missions humanitaires<img src="images/fleche.png" alt="flèche pour dérouler le menu" class="fleche" id="fleche1"></h2>
 											<p>
 												Le docteur Revol participe activement à de nombreuses missions humanitaires. Sa dernière mission humanitaire a été effectuée à Madagascar, en avril 2017, avec
@@ -76,6 +102,18 @@
 								<div class="3u 12u(mobile)">
 
 									<!-- Sidebar -->
+										<section>
+											<header>
+												<h2>Conférence à la Société Provençale d'Odonto-Stomatologie</h2>
+											</header>
+											<img src="images/ppt_spos19.png" alt="page de titre de la présentation" width=100% class="titre_spos19" />
+										</section>
+										<section>
+											<header>
+												<h2>67ème congrès de la Société Française de Chirurgie Orale</h2>
+											</header>
+											<img src="images/flyer_congres_sfco19.jpg" alt="flyer du congrès" width=100% class="titre_congres_sfco19" />
+										</section>
 										<section>
 											<header>
 												<h2>1ère journée d'actualités médico-chirurgicales du Centre Hospitalier Intercommunal Aix-Pertuis</h2>
